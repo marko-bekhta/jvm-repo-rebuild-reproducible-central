@@ -1,0 +1,26 @@
+# see instructions https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/doc/BUILDSPEC.md
+
+# Central Repository coordinates for the Reference release (for multi-module, pick an arbitrary module)
+groupId=org.hibernate.validator
+artifactId=hibernate-validator
+version=9.0.0.Beta1
+
+display=${groupId}:${artifactId}
+
+# Source code
+gitRepo=https://github.com/hibernate/hibernate-validator.git
+gitTag=${version}
+
+# Rebuild environment prerequisites
+tool=mvn-3.9.6
+jdk=17
+newline=lf
+
+# Rebuild command
+command="mvn clean verify -Preproducibility-check"
+
+# Location of the buildinfo file generated during rebuild (by artifact:compare for Maven) to record output fingerprints
+buildinfo=target/hibernate-validator-parent-${version}.buildinfo
+
+# Link to the Hibernate Validator issue tracker if any issues had to be reported:
+# issue=https://hibernate.atlassian.net/browse/HV
