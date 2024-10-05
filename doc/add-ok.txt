@@ -5,6 +5,7 @@ content/io/trino/trino-459.buildspec:460
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.20.0
 content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.28
 content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.0-rc22
+content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.9.0
 content/org/jline/jline-3.26.3.buildspec:3.27.0
 content/org/apache/httpcomponents/parent/httpcomponents-parent-13.buildspec:14
 content/org/apache/qpid/jms/qpid-jms-2.6.0.buildspec:2.6.1
