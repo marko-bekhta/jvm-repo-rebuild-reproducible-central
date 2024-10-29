@@ -1,6 +1,18 @@
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.12
 content/com/flowlogix/flowlogix-9.0.5.buildspec:9.0.7
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.0
+content/com/fasterxml/jackson/annotations/jackson-annotations-2.18.0.buildspec:2.18.1
+content/com/fasterxml/jackson/core/jackson-core-2.18.0.buildspec:2.18.1
+content/com/fasterxml/jackson/databind/jackson-databind-2.18.0.buildspec:2.18.1
+content/com/fasterxml/jackson/jackson-bom/jackson-bom-2.18.0.buildspec:2.18.1
+content/com/fasterxml/jackson/jackson-parent/jackson-parent-2.18.buildspec:2.18.1
+content/com/fasterxml/jackson/jr/jackson-jr-2.18.0.buildspec:2.18.1
+content/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/jackson-dataformat-xml-2.18.0.buildspec:2.18.1
+content/com/fasterxml/jackson/dataformat/jackson-dataformats-binary/jackson-dataformats-binary-2.18.0.buildspec:2.18.1
+content/com/fasterxml/jackson/dataformat/jackson-dataformats-text/jackson-dataformats-text-2.18.0.buildspec:2.18.1
+content/com/fasterxml/jackson/datatype/jackson-datatype-joda/jackson-datatype-joda-2.18.0.buildspec:2.18.1
+content/com/fasterxml/jackson/datatype/jackson-datatypes-collections/jackson-datatypes-collections-2.18.0.buildspec:2.18.1
+content/com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/jackson-datatypes-misc-parent-2.18.0.buildspec:2.18.1
 content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.8.3
 content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.8.3
 content/com/github/marschall/jakarta-jms-adapter/jakarta-jms-adapter-1.4.1.buildspec:1.5.0
@@ -14,7 +26,7 @@ content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.3.3
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.3.5
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.1.1-beta-11
 content/io/trino/trino-459.buildspec:463
-content/io/airlift/airbase/airbase-184.buildspec:193
+content/io/airlift/airbase/airbase-184.buildspec:194
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.20.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:30.0.0
@@ -23,6 +35,7 @@ content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:6.1.1
 content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0-alpha.4
 content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.28
 content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.0-rc22
+content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.7.0
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.1
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.72.0
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.6
@@ -56,6 +69,7 @@ content/org/apache/maven/reporting/maven-reporting-impl/maven-reporting-impl-4.0
 content/org/apache/maven/resolver/maven-resolver/maven-resolver-2.0.1.buildspec:2.0.2
 content/org/apache/maven/shared/maven-dependency-analyzer/maven-dependency-analyzer-1.14.1.buildspec:1.15.1
 content/org/apache/qpid/jms/qpid-jms-2.6.0.buildspec:2.6.1
+content/org/apache/sling/org.apache.sling.engine/org.apache.sling.engine-2.15.16.buildspec:2.15.18
 content/org/apache/sling/org.apache.sling.jcr.oak.server/org.apache.sling.jcr.oak.server-1.4.0.buildspec:1.4.2
 content/org/apache/sling/org.apache.sling.resourceresolver/org.apache.sling.resourceresolver-1.12.0.buildspec:1.12.2
 content/org/codehaus/mojo/exec-maven-plugin/exec-maven-plugin-3.4.1.buildspec:3.5.0
