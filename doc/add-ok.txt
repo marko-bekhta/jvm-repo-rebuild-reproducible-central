@@ -27,7 +27,7 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.3.6
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.1.1-beta-11
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.21
 content/io/trino/trino-459.buildspec:464
-content/io/airlift/airbase/airbase-184.buildspec:194
+content/io/airlift/airbase/airbase-184.buildspec:195
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.20.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:30.0.0
@@ -40,7 +40,7 @@ content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.b
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.1
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.72.0
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.6
-content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.15.8
+content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.15.9
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.7.0
 content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.9.0
 content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5.3.16
@@ -57,13 +57,14 @@ content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
 content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.3.1
 content/org/apache/maven/jxr/jxr-3.5.0.buildspec:3.6.0
 content/org/apache/maven/maven/maven-4.0.0-beta-4.buildspec:4.0.0-beta-5
-content/org/apache/maven/surefire/surefire-3.5.0.buildspec:3.5.1
+content/org/apache/maven/surefire/surefire-3.5.0.buildspec:3.5.2
 content/org/apache/maven/doxia/doxia-sitetools/doxia-sitetools-2.0.0-M19.buildspec:2.0.0
 content/org/apache/maven/plugins/maven-artifact-plugin/maven-artifact-plugin-3.5.1.buildspec:3.5.3
 content/org/apache/maven/plugins/maven-checkstyle-plugin/maven-checkstyle-plugin-3.5.0.buildspec:3.6.0
 content/org/apache/maven/plugins/maven-dependency-plugin/maven-dependency-plugin-3.8.0.buildspec:3.8.1
 content/org/apache/maven/plugins/maven-help-plugin/maven-help-plugin-3.5.0.buildspec:3.5.1
 content/org/apache/maven/plugins/maven-invoker-plugin/maven-invoker-plugin-3.8.0.buildspec:3.8.1
+content/org/apache/maven/plugins/maven-javadoc-plugin/maven-javadoc-plugin-3.10.1.buildspec:3.11.1
 content/org/apache/maven/plugins/maven-pmd-plugin/maven-pmd-plugin-3.25.0.buildspec:3.26.0
 content/org/apache/maven/plugins/maven-project-info-reports-plugin/maven-project-info-reports-plugin-3.7.0.buildspec:3.8.0
 content/org/apache/maven/reporting/maven-reporting-api/maven-reporting-api-4.0.0-M12.buildspec:4.0.0
@@ -75,6 +76,7 @@ content/org/apache/qpid/jms/qpid-jms-2.6.0.buildspec:2.6.1
 content/org/apache/sling/org.apache.sling.engine/org.apache.sling.engine-2.15.16.buildspec:2.15.18
 content/org/apache/sling/org.apache.sling.jcr.oak.server/org.apache.sling.jcr.oak.server-1.4.0.buildspec:1.4.2
 content/org/apache/sling/org.apache.sling.resourceresolver/org.apache.sling.resourceresolver-1.12.0.buildspec:1.12.2
+content/org/apache/tomee/jakartaee-api/jakartaee-api-10.0-M2.buildspec:10.0
 content/org/codehaus/mojo/exec-maven-plugin/exec-maven-plugin-3.4.1.buildspec:3.5.0
 content/org/codehaus/mojo/l10n-maven-plugin/l10n-maven-plugin-1.0.0.buildspec:1.1.0
 content/org/codehaus/mojo/taglist-maven-plugin/taglist-maven-plugin-3.1.0.buildspec:3.2.1
@@ -83,6 +85,7 @@ content/org/cyclonedx/cyclonedx-core-java/cyclonedx-core-java-9.0.5.buildspec:9.
 content/org/cyclonedx/cyclonedx-maven-plugin/cyclonedx-maven-plugin-2.8.2.buildspec:2.9.0
 content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.6.6
 content/org/jpmml/jpmml-python/jpmml-python-1.2.4.buildspec:1.2.5
+content/org/jpmml/jpmml-r/jpmml-r-1.5.6.buildspec:1.6.0
 content/org/jpmml/jpmml-sklearn/jpmml-sklearn-1.8.4.buildspec:1.8.6
 content/org/jpmml/jpmml-transpiler/jpmml-transpiler-1.3.6.buildspec:1.3.7
 content/org/kordamp/pomchecker/pomchecker-1.13.0.buildspec:1.14.0
