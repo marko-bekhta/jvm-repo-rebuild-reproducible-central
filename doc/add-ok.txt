@@ -24,7 +24,7 @@ content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.3.0
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.0.3
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.3.3
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.3.6
-content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.1.1-beta-11
+content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.1.1-beta-12
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.21
 content/io/trino/trino-459.buildspec:464
 content/io/airlift/airbase/airbase-184.buildspec:195
@@ -43,7 +43,7 @@ content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.6
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.15.9
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.7.0
 content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.9.0
-content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5.3.16
+content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5.3.17
 content/org/jline/jline-3.26.3.buildspec:3.27.1
 content/org/jreleaser/jreleaser-1.14.0.buildspec:1.15.0
 content/org/apache/dubbo/dubbo-3.3.0.buildspec:3.3.1
@@ -93,8 +93,9 @@ content/org/mockito/mockito-core/mockito-5.14.1.buildspec:5.14.2
 content/org/mybatis/mybatis2/mybatis2-2.5.0.buildspec:2.6.0
 content/org/mybatis/scripting/mybatis-thymeleaf/mybatis-thymeleaf-1.0.4.buildspec:1.1.0
 content/org/owasp/dependency-check/dependency-check-10.0.4.buildspec:11.1.0
+content/org/simplify4u/pgp-keys-map/pgp-keys-map-2024.06.29.buildspec:2024.11.03
 content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.89
 content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.0.1
-content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.19.0
+content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.19.1
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.4.8
 content/us/abstracta/jmeter/jmeter-java-dsl/jmeter-java-dsl-1.29.buildspec:1.29.1
