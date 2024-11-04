@@ -27,7 +27,7 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.3.6
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.1.1-beta-12
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.21
 content/io/trino/trino-459.buildspec:464
-content/io/airlift/airbase/airbase-184.buildspec:195
+content/io/airlift/airbase/airbase-184.buildspec:196
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.20.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:30.0.0
@@ -40,7 +40,7 @@ content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.b
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.1
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.72.0
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.6
-content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.15.9
+content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.15.10
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.7.0
 content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.9.0
 content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5.3.17

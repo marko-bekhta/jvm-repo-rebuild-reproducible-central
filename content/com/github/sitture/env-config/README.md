@@ -13,6 +13,7 @@ rebuilding **1 releases** of com.github.sitture:env-config:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.12.1](https://central.sonatype.com/artifact/com.github.sitture/env-config/1.12.1/pom) | | | |
 | [1.12.0](https://central.sonatype.com/artifact/com.github.sitture/env-config/1.12.0/pom) | | | |
 | [1.11.0](https://central.sonatype.com/artifact/com.github.sitture/env-config/1.11.0/pom) | | | |
 | [1.10.0](https://central.sonatype.com/artifact/com.github.sitture/env-config/1.10.0/pom) | | | |
