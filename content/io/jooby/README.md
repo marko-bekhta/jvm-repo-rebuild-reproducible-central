@@ -82,6 +82,7 @@ rebuilding **19 releases** of io.jooby:jooby:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.5.1](https://central.sonatype.com/artifact/io.jooby/jooby/3.5.1/pom) | | | |
 | [3.5.0](https://central.sonatype.com/artifact/io.jooby/jooby/3.5.0/pom) | | | |
 | [3.4.3](https://central.sonatype.com/artifact/io.jooby/jooby/3.4.3/pom) | | | |
 | [3.4.2](https://central.sonatype.com/artifact/io.jooby/jooby/3.4.2/pom) | | | |
