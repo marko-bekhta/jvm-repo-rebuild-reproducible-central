@@ -1,5 +1,6 @@
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.12
 content/com/flowlogix/flowlogix-9.0.5.buildspec:9.0.7
+content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.15
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.0
 content/com/fasterxml/jackson/annotations/jackson-annotations-2.18.0.buildspec:2.18.1
 content/com/fasterxml/jackson/core/jackson-core-2.18.0.buildspec:2.18.1
@@ -83,7 +84,7 @@ content/org/apache/maven/plugins/maven-project-info-reports-plugin/maven-project
 content/org/apache/maven/reporting/maven-reporting-api/maven-reporting-api-4.0.0-M12.buildspec:4.0.0
 content/org/apache/maven/reporting/maven-reporting-exec/maven-reporting-exec-2.0.0-M14.buildspec:2.0.0
 content/org/apache/maven/reporting/maven-reporting-impl/maven-reporting-impl-4.0.0-M15.buildspec:4.0.0
-content/org/apache/maven/resolver/maven-resolver/maven-resolver-2.0.1.buildspec:2.0.3
+content/org/apache/maven/resolver/maven-resolver/maven-resolver-2.0.1.buildspec:2.0.4
 content/org/apache/maven/shared/maven-dependency-analyzer/maven-dependency-analyzer-1.14.1.buildspec:1.15.1
 content/org/apache/maven/skins/fluido/maven-fluido-skin-2.0.0-M11.buildspec:2.0.0
 content/org/apache/qpid/jms/qpid-jms-2.6.0.buildspec:2.6.1
