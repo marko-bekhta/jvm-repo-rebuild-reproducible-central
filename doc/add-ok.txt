@@ -96,6 +96,8 @@ content/org/apache/qpid/jms/qpid-jms-2.6.0.buildspec:2.6.1
 content/org/apache/santuario/xmlsec/xmlsec-4.0.2.buildspec:4.0.3
 content/org/apache/sling/org.apache.sling.distribution.journal/org.apache.sling.distribution.journal-0.4.0.buildspec:0.5.0
 content/org/apache/sling/org.apache.sling.engine/org.apache.sling.engine-2.15.16.buildspec:2.16.0
+content/org/apache/sling/org.apache.sling.feature/org.apache.sling.feature-2.0.0.buildspec:2.0.2
+content/org/apache/sling/org.apache.sling.feature.analyser/org.apache.sling.feature.analyser-2.0.10.buildspec:2.0.12
 content/org/apache/sling/org.apache.sling.installer.factory.configuration/org.apache.sling.installer.factory.configuration-1.4.6.buildspec:1.4.8
 content/org/apache/sling/org.apache.sling.jcr.oak.server/org.apache.sling.jcr.oak.server-1.4.0.buildspec:1.4.2
 content/org/apache/sling/org.apache.sling.resourceresolver/org.apache.sling.resourceresolver-1.12.0.buildspec:1.12.2
