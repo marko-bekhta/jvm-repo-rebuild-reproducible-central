@@ -67,6 +67,8 @@ content/org/apache/wss4j/wss4j-3.0.3.buildspec:3.0.4
 content/org/apache/activemq/artemis/artemis-2.37.0.buildspec:2.38.0
 content/org/apache/commons/commons-io/commons-io-2.17.0.buildspec:2.18.0
 content/org/apache/commons/parent/commons-parent-76.buildspec:78
+content/org/apache/cxf/cxf-build-utils/cxf-build-utils-4.0.1.buildspec:4.0.2
+content/org/apache/cxf/xjc-utils/xjc-utils-4.0.2.buildspec:4.1.0
 content/org/apache/felix/maven-bundle-plugin/maven-bundle-plugin-5.1.9.buildspec:6.0.0
 content/org/apache/httpcomponents/parent/httpcomponents-parent-13.buildspec:14
 content/org/apache/jackrabbit/jackrabbit/jackrabbit-2.23.0-beta.buildspec:2.23.1-beta
@@ -131,7 +133,7 @@ content/org/simplify4u/pgp-keys-map/pgp-keys-map-2024.06.29.buildspec:2024.11.03
 content/org/simplify4u/slf4j-mock/slf4j-mock-2.3.0.buildspec:2.4.0
 content/org/sonatype/nexus/archetypes/nexus-format-archetype/nexus-format-archetype-1.0.63.buildspec:1.0.65
 content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.91
-content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:6.6.0
+content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:6.7.1
 content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.0.1
 content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.19.1
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.4.9
