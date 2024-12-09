@@ -45,6 +45,7 @@ content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.b
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.1
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.72.1
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.12
+content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.3.4
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.15.10
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:18
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
@@ -132,7 +133,7 @@ content/org/owasp/dependency-check/dependency-check-10.0.4.buildspec:11.1.1
 content/org/simplify4u/pgp-keys-map/pgp-keys-map-2024.06.29.buildspec:2024.11.03
 content/org/simplify4u/slf4j-mock/slf4j-mock-2.3.0.buildspec:2.4.0
 content/org/sonatype/nexus/archetypes/nexus-format-archetype/nexus-format-archetype-1.0.63.buildspec:1.0.65
-content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.91
+content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.92
 content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:6.7.1
 content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.0.1
 content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.19.1
