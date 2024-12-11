@@ -31,7 +31,7 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.6.0
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.1.1-beta-17
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.22
 content/io/trino/trino-459.buildspec:467
-content/io/airlift/airbase/airbase-184.buildspec:203
+content/io/airlift/airbase/airbase-184.buildspec:204
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.20.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:30.0.4
@@ -42,7 +42,7 @@ content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0-alpha.5
 content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.29
 content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.0-rc23
 content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.7.1
-content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.1
+content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.2
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.0
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.12
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.3.4
@@ -112,12 +112,12 @@ content/org/codehaus/mojo/license-maven-plugin/license-maven-plugin-2.4.0.builds
 content/org/codehaus/mojo/taglist-maven-plugin/taglist-maven-plugin-3.1.0.buildspec:3.2.1
 content/org/codehaus/mojo/versions-maven-plugin/versions-maven-plugin-2.17.1.buildspec:2.18.0
 content/org/codehaus/plexus/plexus-velocity/plexus-velocity-2.1.0.buildspec:2.2.0
-content/org/cyclonedx/cyclonedx-core-java/cyclonedx-core-java-9.0.5.buildspec:9.1.0
+content/org/cyclonedx/cyclonedx-core-java/cyclonedx-core-java-9.0.5.buildspec:10.0.0
 content/org/cyclonedx/cyclonedx-maven-plugin/cyclonedx-maven-plugin-2.8.2.buildspec:2.9.1
 content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.0.alpha0
 content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:7.2.2.Final
 content/org/itsallcode/openfasttrace-maven-plugin/openfasttrace-maven-plugin-2.2.0.buildspec:2.3.0
-content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.6.7
+content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.6.8
 content/org/jpmml/jpmml-python/jpmml-python-1.2.4.buildspec:1.2.5
 content/org/jpmml/jpmml-r/jpmml-r-1.5.6.buildspec:1.6.2
 content/org/jpmml/jpmml-sklearn/jpmml-sklearn-1.8.4.buildspec:1.8.7
