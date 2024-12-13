@@ -44,7 +44,7 @@ content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.0-rc2
 content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.7.1
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.2
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.0
-content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.12
+content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.13
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.3.4
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.15.10
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:18
@@ -105,6 +105,7 @@ content/org/apache/sling/org.apache.sling.installer.factory.configuration/org.ap
 content/org/apache/sling/org.apache.sling.jcr.oak.server/org.apache.sling.jcr.oak.server-1.4.0.buildspec:1.4.2
 content/org/apache/sling/org.apache.sling.resourceresolver/org.apache.sling.resourceresolver-1.12.0.buildspec:1.12.2
 content/org/apache/sling/org.apache.sling.scripting.sightly/org.apache.sling.scripting.sightly-1.4.24-1.4.0.buildspec:1.4.26-1.4.0
+content/org/apache/sling/org.apache.sling.testing.osgi-mock/org.apache.sling.testing.osgi-mock-3.5.0.buildspec:3.5.2
 content/org/apache/tomee/jakartaee-api/jakartaee-api-10.0-M2.buildspec:10.0
 content/org/codehaus/mojo/exec-maven-plugin/exec-maven-plugin-3.4.1.buildspec:3.5.0
 content/org/codehaus/mojo/l10n-maven-plugin/l10n-maven-plugin-1.0.0.buildspec:1.1.0
@@ -116,6 +117,7 @@ content/org/cyclonedx/cyclonedx-core-java/cyclonedx-core-java-9.0.5.buildspec:10
 content/org/cyclonedx/cyclonedx-maven-plugin/cyclonedx-maven-plugin-2.8.2.buildspec:2.9.1
 content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.0.alpha0
 content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:7.2.2.Final
+content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.0.0.CR1
 content/org/itsallcode/openfasttrace-maven-plugin/openfasttrace-maven-plugin-2.2.0.buildspec:2.3.0
 content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.6.8
 content/org/jpmml/jpmml-python/jpmml-python-1.2.4.buildspec:1.2.5
