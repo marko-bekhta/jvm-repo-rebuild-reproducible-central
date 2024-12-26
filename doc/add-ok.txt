@@ -15,6 +15,7 @@ content/com/fasterxml/jackson/dataformat/jackson-dataformats-text/jackson-datafo
 content/com/fasterxml/jackson/datatype/jackson-datatype-joda/jackson-datatype-joda-2.18.0.buildspec:2.18.2
 content/com/fasterxml/jackson/datatype/jackson-datatypes-collections/jackson-datatypes-collections-2.18.0.buildspec:2.18.2
 content/com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/jackson-datatypes-misc-parent-2.18.0.buildspec:2.18.2
+content/com/github/hazendaz/7zip/7zip-24.08.buildspec:24.09
 content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.8.4
 content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.8.4
 content/com/github/marschall/jakarta-jms-adapter/jakarta-jms-adapter-1.4.1.buildspec:1.5.0
@@ -136,7 +137,7 @@ content/org/kordamp/pomchecker/pomchecker-1.13.0.buildspec:1.14.0
 content/org/liquibase/ext/liquibase-percona/liquibase-percona-4.29.2.buildspec:4.30.0
 content/org/mockito/mockito-core/mockito-5.14.1.buildspec:5.14.2
 content/org/mybatis/mybatis2/mybatis2-2.5.0.buildspec:2.6.0
-content/org/mybatis/parent/mybatis-parent-45.buildspec:46
+content/org/mybatis/parent/mybatis-parent-45.buildspec:48
 content/org/mybatis/scripting/mybatis-thymeleaf/mybatis-thymeleaf-1.0.4.buildspec:1.1.0
 content/org/mybatis/spring/boot/mybatis-spring-boot/mybatis-spring-boot-3.0.3.buildspec:3.0.4
 content/org/owasp/antisamy/antisamy-1.7.6.buildspec:1.7.7
