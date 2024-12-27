@@ -16,6 +16,7 @@ content/com/fasterxml/jackson/datatype/jackson-datatype-joda/jackson-datatype-jo
 content/com/fasterxml/jackson/datatype/jackson-datatypes-collections/jackson-datatypes-collections-2.18.0.buildspec:2.18.2
 content/com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/jackson-datatypes-misc-parent-2.18.0.buildspec:2.18.2
 content/com/github/hazendaz/7zip/7zip-24.08.buildspec:24.09
+content/com/github/hazendaz/displaytag-doc/displaytag-doc-3.0.3.buildspec:3.1.0
 content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.8.4
 content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.8.4
 content/com/github/marschall/jakarta-jms-adapter/jakarta-jms-adapter-1.4.1.buildspec:1.5.0
@@ -51,7 +52,7 @@ content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.3.4
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.15.11
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:18
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
-content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.8.0
+content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.9.0
 content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:28
 content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.9.0
 content/nl/basjes/parse/useragent/yauaa/yauaa-7.28.1.buildspec:7.29.0
