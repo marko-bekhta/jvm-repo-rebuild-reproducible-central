@@ -13,6 +13,7 @@ rebuilding **3 releases** of org.apache.maven.plugins:maven-remote-resources-plu
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.3.0](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-remote-resources-plugin/3.3.0/pom) | | | |
 | [3.2.0](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-remote-resources-plugin/3.2.0/pom) | [mvn jdk21](maven-remote-resources-plugin-3.2.0.buildspec) | [result](maven-remote-resources-plugin-3.2.0.buildinfo): [5 :white_check_mark:  1 :warning:](maven-remote-resources-plugin-3.2.0.buildcompare) [:mag:](maven-remote-resources-plugin-3.2.0.diffoscope) | 626K |
 | [3.1.0](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-remote-resources-plugin/3.1.0/pom) | [mvn jdk8](maven-remote-resources-plugin-3.1.0.buildspec) | [result](maven-remote-resources-plugin-3.1.0.buildinfo): [4 :white_check_mark: ](maven-remote-resources-plugin-3.1.0.buildcompare) | 343K |
 | [3.0.0](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-remote-resources-plugin/3.0.0/pom) | [mvn jdk17](maven-remote-resources-plugin-3.0.0.buildspec) | [result](maven-remote-resources-plugin-3.0.0.buildinfo): [4 :white_check_mark: ](maven-remote-resources-plugin-3.0.0.buildcompare) | 330K |
