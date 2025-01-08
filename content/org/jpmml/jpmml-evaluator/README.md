@@ -25,6 +25,7 @@ rebuilding **1 releases** of org.jpmml:jpmml-evaluator:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.6.10](https://central.sonatype.com/artifact/org.jpmml/jpmml-evaluator/1.6.10/pom) | | | |
 | [1.6.9](https://central.sonatype.com/artifact/org.jpmml/jpmml-evaluator/1.6.9/pom) | | | |
 | [1.6.8](https://central.sonatype.com/artifact/org.jpmml/jpmml-evaluator/1.6.8/pom) | | | |
 | [1.6.7](https://central.sonatype.com/artifact/org.jpmml/jpmml-evaluator/1.6.7/pom) | | | |
