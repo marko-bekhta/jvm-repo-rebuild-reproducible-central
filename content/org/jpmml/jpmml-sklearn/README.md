@@ -24,6 +24,7 @@ rebuilding **7 releases** of org.jpmml:jpmml-sklearn:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.8.9](https://central.sonatype.com/artifact/org.jpmml/jpmml-sklearn/1.8.9/pom) | | | |
 | [1.8.8](https://central.sonatype.com/artifact/org.jpmml/jpmml-sklearn/1.8.8/pom) | | | |
 | [1.8.7](https://central.sonatype.com/artifact/org.jpmml/jpmml-sklearn/1.8.7/pom) | | | |
 | [1.8.6](https://central.sonatype.com/artifact/org.jpmml/jpmml-sklearn/1.8.6/pom) | | | |
