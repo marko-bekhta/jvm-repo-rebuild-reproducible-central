@@ -13,6 +13,7 @@ rebuilding **18 releases** of io.wcm:io.wcm.parent_toplevel:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.4.4](https://central.sonatype.com/artifact/io.wcm/io.wcm.parent_toplevel/2.4.4/pom) | | | |
 | [2.4.2](https://central.sonatype.com/artifact/io.wcm/io.wcm.parent_toplevel/2.4.2/pom) | | | |
 | [2.4.0](https://central.sonatype.com/artifact/io.wcm/io.wcm.parent_toplevel/2.4.0/pom) | | | |
 | [2.3.4](https://central.sonatype.com/artifact/io.wcm/io.wcm.parent_toplevel/2.3.4/pom) | | | |
