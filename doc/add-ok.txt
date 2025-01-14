@@ -1,7 +1,7 @@
 content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.1.0
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.16
 content/com/flowlogix/flowlogix-9.0.5.buildspec:9.0.7
-content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.17
+content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.18
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:62
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.0
 content/com/fasterxml/jackson/annotations/jackson-annotations-2.18.0.buildspec:2.18.2
@@ -46,8 +46,8 @@ content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.7.
 content/io/cucumber/messages/messages-26.0.1.buildspec:27.0.2
 content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:6.1.1
 content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0-alpha.5
-content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.29
-content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.0-rc23
+content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.30
+content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.0-rc24
 content/io/github/xanthic/cache/cache-api/cache-api-0.6.2.buildspec:0.7.0
 content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.7.1
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.2
