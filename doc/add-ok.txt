@@ -28,6 +28,7 @@ content/com/intellectualsites/bom/bom-newest/bom-newest-1.49.buildspec:1.52
 content/com/intellectualsites/fastasyncvoxelsniper/fastasyncvoxelsniper/fastasyncvoxelsniper-3.2.1.buildspec:3.2.2
 content/com/io7m/primogenitor/com.io7m.primogenitor-8.2.0.buildspec:8.4.0
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.25
+content/com/spotify/github-client/github-client-0.3.2.buildspec:0.3.3
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.0.1
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.0
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-alpha1
