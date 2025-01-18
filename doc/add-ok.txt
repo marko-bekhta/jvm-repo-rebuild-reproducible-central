@@ -55,7 +55,7 @@ content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.2
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.1
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.14
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.4.4
-content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.15.11
+content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.16.0
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:18
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.9.0
