@@ -33,7 +33,7 @@ content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.0.1
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.0
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-alpha1
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.11.8
-content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.0.5
+content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.0
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.3.4
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.6.1
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.1.1-beta-23
@@ -43,6 +43,7 @@ content/io/airlift/airbase/airbase-184.buildspec:212
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.20.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:30.0.4
+content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:9.1.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.7.1
 content/io/cucumber/messages/messages-26.0.1.buildspec:27.0.2
 content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:6.1.1
@@ -53,7 +54,7 @@ content/io/github/xanthic/cache/cache-api/cache-api-0.6.2.buildspec:0.7.0
 content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.7.1
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.2
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.1
-content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.15
+content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.17
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.4.4
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.16.1
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:18

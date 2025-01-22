@@ -19,6 +19,7 @@ rebuilding **5 releases** of dk.mada.style:mada-style-gradle:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.1.0](https://central.sonatype.com/artifact/dk.mada.style/mada-style-gradle/1.1.0/pom) | | | |
 | [1.0.5](https://central.sonatype.com/artifact/dk.mada.style/mada-style-gradle/1.0.5/pom) | | | |
 | [1.0.4](https://central.sonatype.com/artifact/dk.mada.style/mada-style-gradle/1.0.4/pom) | | | |
 | [1.0.3](https://central.sonatype.com/artifact/dk.mada.style/mada-style-gradle/1.0.3/pom) | | | |
