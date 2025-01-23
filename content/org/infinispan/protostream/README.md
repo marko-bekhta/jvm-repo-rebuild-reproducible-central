@@ -24,9 +24,11 @@ rebuilding **1 releases** of org.infinispan.protostream:protostream-aggregator:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [15.0.13.Final](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/15.0.13.Final/pom) | | | |
 | [14.0.0.CR2](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/14.0.0.CR2/pom) | | | |
 | [6.0.0.Dev02](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.0.Dev02/pom) | | | |
 | [6.0.0.Dev01](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.0.Dev01/pom) | | | |
+| [5.0.13.Final](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/5.0.13.Final/pom) | | | |
 | [5.0.12.Final](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/5.0.12.Final/pom) | | | |
 | [5.0.11.Final](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/5.0.11.Final/pom) | | | |
 | [5.0.10.Final](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/5.0.10.Final/pom) | | | |

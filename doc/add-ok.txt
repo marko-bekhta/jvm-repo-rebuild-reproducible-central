@@ -1,7 +1,7 @@
 content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.1.0
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.16
 content/com/flowlogix/flowlogix-9.0.5.buildspec:9.0.7
-content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.18
+content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.19
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:62
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.0
 content/com/fasterxml/jackson/annotations/jackson-annotations-2.18.0.buildspec:2.18.2
@@ -36,7 +36,7 @@ content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.0
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.3.4
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.6.1
-content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.1.1-beta-23
+content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.0
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.24
 content/io/trino/trino-459.buildspec:468
 content/io/airlift/airbase/airbase-184.buildspec:212
@@ -60,7 +60,7 @@ content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.16.1
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:18
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.9.0
-content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:28
+content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:29
 content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.10.0
 content/nl/basjes/parse/useragent/yauaa/yauaa-7.28.1.buildspec:7.29.0
 content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5.3.18
@@ -164,6 +164,7 @@ content/org/spdx/java-spdx-library/java-spdx-library-2.0.0-Alpha.buildspec:2.0.0
 content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.95
 content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:6.7.1
 content/org/webjars/highcharts/highcharts-11.2.0.buildspec:12.1.0
+content/org/webjars/redoc/redoc-2.1.5.buildspec:2.3.0
 content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.0.1
 content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.19.1
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.4.9
