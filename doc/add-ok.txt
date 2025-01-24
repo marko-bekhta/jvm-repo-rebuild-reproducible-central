@@ -140,7 +140,7 @@ content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.0.a
 content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.0.0.Alpha1
 content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.0.0.CR1
 content/org/itsallcode/openfasttrace-maven-plugin/openfasttrace-maven-plugin-2.2.0.buildspec:2.3.0
-content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.6.11
+content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.7.0
 content/org/jpmml/jpmml-h2o/jpmml-h2o-1.2.14.buildspec:1.2.15
 content/org/jpmml/jpmml-lightgbm/jpmml-lightgbm-1.5.5.buildspec:1.5.6
 content/org/jpmml/jpmml-python/jpmml-python-1.2.4.buildspec:1.2.8
