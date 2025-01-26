@@ -194,6 +194,7 @@ rebuilding **76 releases** of org.apache.dubbo:dubbo:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.3.3](https://central.sonatype.com/artifact/org.apache.dubbo/dubbo/3.3.3/pom) | | | |
 | [3.3.2](https://central.sonatype.com/artifact/org.apache.dubbo/dubbo/3.3.2/pom) | | | |
 | [3.3.1](https://central.sonatype.com/artifact/org.apache.dubbo/dubbo/3.3.1/pom) | | | |
 | [3.3.0](https://central.sonatype.com/artifact/org.apache.dubbo/dubbo/3.3.0/pom) | [mvn jdk21](dubbo-3.3.0.buildspec) | [result](dubbo-parent-3.3.0.buildinfo): [253 :white_check_mark: ](dubbo-parent-3.3.0.buildcompare) | 47M |
