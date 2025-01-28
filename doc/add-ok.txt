@@ -38,14 +38,14 @@ content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.3.4
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.6.1
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-1
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.24
-content/io/trino/trino-459.buildspec:468
-content/io/airlift/airbase/airbase-184.buildspec:213
+content/io/trino/trino-459.buildspec:469
+content/io/airlift/airbase/airbase-184.buildspec:214
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.20.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:30.0.4
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:9.1.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.7.1
-content/io/cucumber/messages/messages-26.0.1.buildspec:27.0.2
+content/io/cucumber/messages/messages-26.0.1.buildspec:27.1.0
 content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:6.1.1
 content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0-rc.1
 content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.30
@@ -155,6 +155,7 @@ content/org/mybatis/mybatis2/mybatis2-2.5.0.buildspec:2.6.0
 content/org/mybatis/parent/mybatis-parent-45.buildspec:48
 content/org/mybatis/scripting/mybatis-thymeleaf/mybatis-thymeleaf-1.0.4.buildspec:1.1.0
 content/org/mybatis/spring/boot/mybatis-spring-boot/mybatis-spring-boot-3.0.3.buildspec:3.0.4
+content/org/openapitools/openapidiff/openapi-diff-2.1.0-beta.11.buildspec:2.1.0-beta.12
 content/org/owasp/antisamy/antisamy-1.7.6.buildspec:1.7.7
 content/org/owasp/dependency-check/dependency-check-10.0.4.buildspec:12.0.1
 content/org/simplify4u/pgp-keys-map/pgp-keys-map-2024.06.29.buildspec:2024.11.03
