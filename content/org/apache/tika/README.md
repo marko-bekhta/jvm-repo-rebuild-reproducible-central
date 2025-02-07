@@ -129,6 +129,7 @@ rebuilding **6 releases** of org.apache.tika:tika:
 | [3.0.0](https://central.sonatype.com/artifact/org.apache.tika/tika/3.0.0/pom) | | | |
 | [3.0.0-BETA2](https://central.sonatype.com/artifact/org.apache.tika/tika/3.0.0-BETA2/pom) | | | |
 | [3.0.0-BETA](https://central.sonatype.com/artifact/org.apache.tika/tika/3.0.0-BETA/pom) | | | |
+| [2.9.3](https://central.sonatype.com/artifact/org.apache.tika/tika/2.9.3/pom) | | | |
 | [2.9.2](https://central.sonatype.com/artifact/org.apache.tika/tika/2.9.2/pom) | | | |
 | [2.9.1](https://central.sonatype.com/artifact/org.apache.tika/tika/2.9.1/pom) | | | |
 | [2.9.0](https://central.sonatype.com/artifact/org.apache.tika/tika/2.9.0/pom) | [mvn jdk17](tika-2.9.0.buildspec) | [result](tika-2.9.0.buildinfo): [338 :white_check_mark:  16 :warning:](tika-2.9.0.buildcompare) [:mag:](tika-2.9.0.diffoscope) | 1.3G |
