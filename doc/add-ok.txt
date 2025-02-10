@@ -32,14 +32,14 @@ content/com/spotify/github-client/github-client-0.3.2.buildspec:0.3.6
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.1
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-beta1
-content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.11.8
-content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.0
+content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.11.9
+content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.2
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.3.4
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.6.2
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-3
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.24
 content/io/trino/trino-459.buildspec:470
-content/io/airlift/airbase/airbase-184.buildspec:215
+content/io/airlift/airbase/airbase-184.buildspec:216
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.21.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:31.0.0
@@ -53,7 +53,7 @@ content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.0-rc2
 content/io/github/xanthic/cache/cache-api/cache-api-0.6.2.buildspec:0.7.1
 content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.7.2
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.2
-content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.1
+content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.2
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.18
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.4.4
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.17.0
@@ -88,6 +88,7 @@ content/org/apache/directory/project/project-49.buildspec:50
 content/org/apache/felix/maven-bundle-plugin/maven-bundle-plugin-5.1.9.buildspec:6.0.0
 content/org/apache/httpcomponents/parent/httpcomponents-parent-13.buildspec:14
 content/org/apache/jackrabbit/jackrabbit/jackrabbit-2.23.0-beta.buildspec:2.23.1-beta
+content/org/apache/logging/parent/logging-parent-11.3.0.buildspec:12.0.0
 content/org/apache/logging/log4j/log4j/log4j-3.0.0-beta2.buildspec:3.0.0-beta3
 content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
 content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.3.1
