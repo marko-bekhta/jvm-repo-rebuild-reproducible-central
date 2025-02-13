@@ -35,7 +35,7 @@ content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-beta1
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.11.9
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.2
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.3.4
-content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.6.2
+content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.6.3
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-3
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.24
 content/io/trino/trino-459.buildspec:470
@@ -53,7 +53,7 @@ content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.0-rc2
 content/io/github/xanthic/cache/cache-api/cache-api-0.6.2.buildspec:0.7.1
 content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.7.2
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.2
-content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.3
+content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.4
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.18
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.4.4
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.17.0
@@ -165,6 +165,7 @@ content/org/openapitools/openapidiff/openapi-diff-2.1.0-beta.11.buildspec:2.1.0-
 content/org/owasp/antisamy/antisamy-1.7.6.buildspec:1.7.7
 content/org/owasp/dependency-check/dependency-check-10.0.4.buildspec:12.0.2
 content/org/sentrysoftware/ipmi/ipmi-1.1.00.buildspec:1.2.00
+content/org/sentrysoftware/jawk/jawk-3.3.03.buildspec:3.3.04
 content/org/simplify4u/pgp-keys-map/pgp-keys-map-2024.06.29.buildspec:2024.11.03
 content/org/simplify4u/slf4j-mock/slf4j-mock-2.3.0.buildspec:2.4.0
 content/org/sonatype/nexus/archetypes/nexus-format-archetype/nexus-format-archetype-1.0.63.buildspec:1.0.72
