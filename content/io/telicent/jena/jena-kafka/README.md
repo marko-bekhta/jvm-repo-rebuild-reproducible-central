@@ -22,6 +22,7 @@ rebuilding **1 releases** of io.telicent.jena:jena-kafka:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.5.3](https://central.sonatype.com/artifact/io.telicent.jena/jena-kafka/1.5.3/pom) | | | |
 | [1.5.2](https://central.sonatype.com/artifact/io.telicent.jena/jena-kafka/1.5.2/pom) | | | |
 | [1.5.1](https://central.sonatype.com/artifact/io.telicent.jena/jena-kafka/1.5.1/pom) | | | |
 | [1.5.0](https://central.sonatype.com/artifact/io.telicent.jena/jena-kafka/1.5.0/pom) | | | |

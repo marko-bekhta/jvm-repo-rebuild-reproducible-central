@@ -2,7 +2,7 @@ content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.1.0
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.16
 content/com/flowlogix/flowlogix-9.0.5.buildspec:9.0.7
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.20
-content/com/fasterxml/oss-parent/oss-parent-61.buildspec:62
+content/com/fasterxml/oss-parent/oss-parent-61.buildspec:63
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.0
 content/com/fasterxml/jackson/annotations/jackson-annotations-2.18.0.buildspec:2.18.2
 content/com/fasterxml/jackson/core/jackson-core-2.18.0.buildspec:2.18.2
@@ -52,11 +52,11 @@ content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.30
 content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.0-rc24
 content/io/github/xanthic/cache/cache-api/cache-api-0.6.2.buildspec:0.7.1
 content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.7.2
-content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.2
+content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.3
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.4
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.18
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.4.4
-content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.17.0
+content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.17.1
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:18
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.10.0
@@ -76,7 +76,7 @@ content/org/apache/shiro/shiro-2.0.1.buildspec:2.0.2
 content/org/apache/struts/struts2-6.6.0.buildspec:7.0.0
 content/org/apache/syncope/syncope-3.0.8.buildspec:4.0.0-M0
 content/org/apache/wicket/wicket-parent-10.2.0.buildspec:10.4.0
-content/org/apache/wss4j/wss4j-3.0.3.buildspec:3.0.4
+content/org/apache/wss4j/wss4j-3.0.3.buildspec:4.0.0
 content/org/apache/activemq/artemis/artemis-2.37.0.buildspec:2.39.0
 content/org/apache/commons/commons-io/commons-io-2.17.0.buildspec:2.18.0
 content/org/apache/commons/csv/commons-csv-1.12.0.buildspec:1.13.0
@@ -166,6 +166,8 @@ content/org/owasp/antisamy/antisamy-1.7.6.buildspec:1.7.7
 content/org/owasp/dependency-check/dependency-check-10.0.4.buildspec:12.0.2
 content/org/sentrysoftware/ipmi/ipmi-1.1.00.buildspec:1.2.00
 content/org/sentrysoftware/jawk/jawk-3.3.03.buildspec:3.3.04
+content/org/sentrysoftware/snmp/snmp-1.0.01.buildspec:2.0.00
+content/org/sentrysoftware/winrm/winrm-1.0.01.buildspec:1.1.00
 content/org/simplify4u/pgp-keys-map/pgp-keys-map-2024.06.29.buildspec:2024.11.03
 content/org/simplify4u/slf4j-mock/slf4j-mock-2.3.0.buildspec:2.4.0
 content/org/sonatype/nexus/archetypes/nexus-format-archetype/nexus-format-archetype-1.0.63.buildspec:1.0.72
