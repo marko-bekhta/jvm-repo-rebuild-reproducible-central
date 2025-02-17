@@ -32,7 +32,7 @@ content/com/spotify/github-client/github-client-0.3.2.buildspec:0.3.6
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.1
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-beta1
-content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.11.9
+content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.11.10
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.2
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.3.4
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.6.3
@@ -42,7 +42,7 @@ content/io/trino/trino-459.buildspec:470
 content/io/airlift/airbase/airbase-184.buildspec:218
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.21.1
-content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:31.0.0
+content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:32.0.0
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:9.2.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.7.1
 content/io/cucumber/messages/messages-26.0.1.buildspec:27.2.0
@@ -54,7 +54,7 @@ content/io/github/xanthic/cache/cache-api/cache-api-0.6.2.buildspec:0.7.1
 content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.7.2
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.3
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.4
-content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.18
+content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.19
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.4.4
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.17.1
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:18
@@ -167,7 +167,7 @@ content/org/owasp/dependency-check/dependency-check-10.0.4.buildspec:12.1.0
 content/org/sentrysoftware/ipmi/ipmi-1.1.00.buildspec:1.2.00
 content/org/sentrysoftware/jawk/jawk-3.3.03.buildspec:3.3.04
 content/org/sentrysoftware/snmp/snmp-1.0.01.buildspec:2.0.00
-content/org/sentrysoftware/winrm/winrm-1.0.01.buildspec:1.1.00
+content/org/sentrysoftware/winrm/winrm-1.0.01.buildspec:1.1.01
 content/org/simplify4u/pgp-keys-map/pgp-keys-map-2024.06.29.buildspec:2024.11.03
 content/org/simplify4u/slf4j-mock/slf4j-mock-2.3.0.buildspec:2.4.0
 content/org/sonatype/nexus/archetypes/nexus-format-archetype/nexus-format-archetype-1.0.63.buildspec:1.0.72
