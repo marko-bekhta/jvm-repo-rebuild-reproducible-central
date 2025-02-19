@@ -39,7 +39,7 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.6.3
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-4
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.24
 content/io/trino/trino-459.buildspec:470
-content/io/airlift/airbase/airbase-184.buildspec:218
+content/io/airlift/airbase/airbase-184.buildspec:219
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.21.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:32.0.0
@@ -100,6 +100,7 @@ content/org/apache/maven/doxia/doxia-sitetools/doxia-sitetools-2.0.0-M19.buildsp
 content/org/apache/maven/plugin-testing/maven-plugin-testing/maven-plugin-testing-4.0.0-beta-1.buildspec:4.0.0-beta-3
 content/org/apache/maven/plugins/maven-artifact-plugin/maven-artifact-plugin-3.5.1.buildspec:3.6.0
 content/org/apache/maven/plugins/maven-checkstyle-plugin/maven-checkstyle-plugin-3.5.0.buildspec:3.6.0
+content/org/apache/maven/plugins/maven-clean-plugin/maven-clean-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-2
 content/org/apache/maven/plugins/maven-dependency-plugin/maven-dependency-plugin-3.8.0.buildspec:3.8.1
 content/org/apache/maven/plugins/maven-help-plugin/maven-help-plugin-3.5.0.buildspec:3.5.1
 content/org/apache/maven/plugins/maven-invoker-plugin/maven-invoker-plugin-3.8.0.buildspec:3.9.0
@@ -114,7 +115,8 @@ content/org/apache/maven/resolver/maven-resolver-ant-tasks/maven-resolver-ant-ta
 content/org/apache/maven/shared/maven-dependency-analyzer/maven-dependency-analyzer-1.14.1.buildspec:1.15.1
 content/org/apache/maven/shared/maven-shared-jar/maven-shared-jar-3.1.1.buildspec:3.2.0
 content/org/apache/maven/skins/fluido/maven-fluido-skin-2.0.0-M11.buildspec:2.0.1
-content/org/apache/qpid/jms/qpid-jms-2.6.0.buildspec:2.6.1
+content/org/apache/qpid/jms/qpid-jms-2.6.0.buildspec:2.7.0
+content/org/apache/qpid/protonj2/protonj2-1.0.0-M22.buildspec:1.0.0-M23
 content/org/apache/santuario/xmlsec/xmlsec-4.0.2.buildspec:4.0.3
 content/org/apache/sling/org.apache.sling.distribution.journal/org.apache.sling.distribution.journal-0.4.0.buildspec:0.5.0
 content/org/apache/sling/org.apache.sling.engine/org.apache.sling.engine-2.15.16.buildspec:2.16.0
@@ -171,7 +173,7 @@ content/org/sentrysoftware/snmp/snmp-1.0.01.buildspec:2.0.00
 content/org/sentrysoftware/winrm/winrm-1.0.01.buildspec:1.1.01
 content/org/simplify4u/pgp-keys-map/pgp-keys-map-2024.06.29.buildspec:2024.11.03
 content/org/simplify4u/slf4j-mock/slf4j-mock-2.3.0.buildspec:2.4.0
-content/org/sonatype/nexus/archetypes/nexus-format-archetype/nexus-format-archetype-1.0.63.buildspec:1.0.72
+content/org/sonatype/nexus/archetypes/nexus-format-archetype/nexus-format-archetype-1.0.63.buildspec:1.0.73
 content/org/spdx/java-spdx-library/java-spdx-library-2.0.0-Alpha.buildspec:2.0.0-RC2
 content/org/spdx/spdx-maven-plugin/spdx-maven-plugin-0.7.4.buildspec:1.0.0-RC1
 content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.97
