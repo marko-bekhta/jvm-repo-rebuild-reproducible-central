@@ -39,7 +39,7 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.6.3
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-4
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.24
 content/io/trino/trino-459.buildspec:471
-content/io/airlift/airbase/airbase-184.buildspec:221
+content/io/airlift/airbase/airbase-184.buildspec:223
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.21.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:32.0.0
