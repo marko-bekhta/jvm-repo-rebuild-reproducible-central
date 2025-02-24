@@ -61,7 +61,7 @@ content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:18
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.10.0
 content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:29
-content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.10.0
+content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.11.0
 content/nl/basjes/parse/useragent/yauaa/yauaa-7.28.1.buildspec:7.30.0
 content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5.3.20
 content/org/jline/jline-3.26.3.buildspec:3.29.0
