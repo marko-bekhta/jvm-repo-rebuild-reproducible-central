@@ -20,7 +20,7 @@ content/com/github/hazendaz/7zip/7zip-24.08.buildspec:24.09
 content/com/github/hazendaz/displaytag-doc/displaytag-doc-3.0.3.buildspec:3.1.0
 content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.8.4
 content/com/github/hazendaz/maven/coveralls-maven-plugin/coveralls-maven-plugin-4.5.0-M5.buildspec:4.5.0-M6
-content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.8.5
+content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.9.0
 content/com/github/marschall/jakarta-jms-adapter/jakarta-jms-adapter-1.4.1.buildspec:1.5.0
 content/com/github/spotbugs/spotbugs-maven-plugin/spotbugs-maven-plugin-4.8.6.3.buildspec:4.9.1.0
 content/com/github/veithen/parent/veithen-parent-52.buildspec:53
@@ -32,14 +32,14 @@ content/com/spotify/github-client/github-client-0.3.2.buildspec:0.3.9
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.1
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-beta1
-content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.11.10
+content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.11.11
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.2
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.3.4
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.6.3
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-5
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.24
 content/io/trino/trino-459.buildspec:471
-content/io/airlift/airbase/airbase-184.buildspec:223
+content/io/airlift/airbase/airbase-184.buildspec:224
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.21.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:32.0.0
@@ -54,7 +54,7 @@ content/io/github/xanthic/cache/cache-api/cache-api-0.6.2.buildspec:0.7.1
 content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.7.2
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.3
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.4
-content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.82.19
+content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.83.0
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.4.4
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.17.1
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:18
@@ -107,7 +107,7 @@ content/org/apache/maven/plugins/maven-help-plugin/maven-help-plugin-3.5.0.build
 content/org/apache/maven/plugins/maven-invoker-plugin/maven-invoker-plugin-3.8.0.buildspec:3.9.0
 content/org/apache/maven/plugins/maven-javadoc-plugin/maven-javadoc-plugin-3.10.1.buildspec:3.11.2
 content/org/apache/maven/plugins/maven-pmd-plugin/maven-pmd-plugin-3.25.0.buildspec:3.26.0
-content/org/apache/maven/plugins/maven-project-info-reports-plugin/maven-project-info-reports-plugin-3.7.0.buildspec:3.8.0
+content/org/apache/maven/plugins/maven-project-info-reports-plugin/maven-project-info-reports-plugin-3.7.0.buildspec:3.9.0
 content/org/apache/maven/reporting/maven-reporting-api/maven-reporting-api-4.0.0-M12.buildspec:4.0.0
 content/org/apache/maven/reporting/maven-reporting-exec/maven-reporting-exec-2.0.0-M14.buildspec:2.0.0
 content/org/apache/maven/reporting/maven-reporting-impl/maven-reporting-impl-4.0.0-M15.buildspec:4.0.0
@@ -135,6 +135,7 @@ content/org/apache/sling/org.apache.sling.testing.osgi-mock/org.apache.sling.tes
 content/org/apache/sling/org.apache.sling.xss/org.apache.sling.xss-2.4.2.buildspec:2.4.6
 content/org/apache/tomee/jakartaee-api/jakartaee-api-10.0-M2.buildspec:10.0
 content/org/codehaus/mojo/exec-maven-plugin/exec-maven-plugin-3.4.1.buildspec:3.5.0
+content/org/codehaus/mojo/flatten-maven-plugin/flatten-maven-plugin-1.6.0.buildspec:1.7.0
 content/org/codehaus/mojo/l10n-maven-plugin/l10n-maven-plugin-1.0.0.buildspec:1.1.0
 content/org/codehaus/mojo/license-maven-plugin/license-maven-plugin-2.4.0.buildspec:2.5.0
 content/org/codehaus/mojo/mojo-parent/mojo-parent-86.buildspec:87
