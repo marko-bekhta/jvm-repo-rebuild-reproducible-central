@@ -23,6 +23,7 @@ rebuilding **18 releases** of com.flowlogix:flowlogix:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [9.0.8](https://central.sonatype.com/artifact/com.flowlogix/flowlogix/9.0.8/pom) | | | |
 | [9.0.7](https://central.sonatype.com/artifact/com.flowlogix/flowlogix/9.0.7/pom) | | | |
 | [9.0.6](https://central.sonatype.com/artifact/com.flowlogix/flowlogix/9.0.6/pom) | | | |
 | [9.0.5](https://central.sonatype.com/artifact/com.flowlogix/flowlogix/9.0.5/pom) | [mvn jdk22](flowlogix-9.0.5.buildspec) | [result](flowlogix-9.0.5.buildinfo): [9 :white_check_mark: ](flowlogix-9.0.5.buildcompare) | 218K |
