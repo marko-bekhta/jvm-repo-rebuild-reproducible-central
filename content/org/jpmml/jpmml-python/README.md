@@ -20,6 +20,7 @@ rebuilding **3 releases** of org.jpmml:jpmml-python:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.3.1](https://central.sonatype.com/artifact/org.jpmml/jpmml-python/1.3.1/pom) | | | |
 | [1.3.0](https://central.sonatype.com/artifact/org.jpmml/jpmml-python/1.3.0/pom) | | | |
 | [1.2.8](https://central.sonatype.com/artifact/org.jpmml/jpmml-python/1.2.8/pom) | | | |
 | [1.2.7](https://central.sonatype.com/artifact/org.jpmml/jpmml-python/1.2.7/pom) | | | |
