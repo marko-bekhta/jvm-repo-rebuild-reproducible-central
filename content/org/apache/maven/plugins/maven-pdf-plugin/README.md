@@ -13,6 +13,7 @@ rebuilding **3 releases** of org.apache.maven.plugins:maven-pdf-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.6.2](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-pdf-plugin/1.6.2/pom) | | | |
 | [1.6.1](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-pdf-plugin/1.6.1/pom) | [mvn jdk8 w](maven-pdf-plugin-1.6.1.buildspec) | [result](maven-pdf-plugin-1.6.1.buildinfo): [4 :white_check_mark: ](maven-pdf-plugin-1.6.1.buildcompare) | 254K |
 | [1.6.0](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-pdf-plugin/1.6.0/pom) | [mvn jdk8 w](maven-pdf-plugin-1.6.0.buildspec) | [result](maven-pdf-plugin-1.6.0.buildinfo): [4 :white_check_mark: ](maven-pdf-plugin-1.6.0.buildcompare) | 254K |
 | [1.5.1](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-pdf-plugin/1.5.1/pom) | [mvn jdk8 w](maven-pdf-plugin-1.5.1.buildspec) | [result](maven-pdf-plugin-1.5.1.buildinfo): [4 :white_check_mark: ](maven-pdf-plugin-1.5.1.buildcompare) | 256K |

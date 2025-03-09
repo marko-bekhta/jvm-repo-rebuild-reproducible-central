@@ -639,6 +639,7 @@ rebuilding **7 releases** of org.apache.camel:camel:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.10.2](https://central.sonatype.com/artifact/org.apache.camel/camel/4.10.2/pom) | | | |
 | [4.10.1](https://central.sonatype.com/artifact/org.apache.camel/camel/4.10.1/pom) | | | |
 | [4.10.0](https://central.sonatype.com/artifact/org.apache.camel/camel/4.10.0/pom) | | | |
 | [4.9.0](https://central.sonatype.com/artifact/org.apache.camel/camel/4.9.0/pom) | | | |
@@ -672,6 +673,7 @@ rebuilding **7 releases** of org.apache.camel:camel:
 | [4.0.0-M3](https://central.sonatype.com/artifact/org.apache.camel/camel/4.0.0-M3/pom) | [mvn jdk17](camel-4.0.0-M3.buildspec) | [result](camel-4.0.0-M3.buildinfo): [1095 :white_check_mark:  403 :warning:](camel-4.0.0-M3.buildcompare) [:mag:](camel-4.0.0-M3.diffoscope) | 168M |
 | [4.0.0-M2](https://central.sonatype.com/artifact/org.apache.camel/camel/4.0.0-M2/pom) | | | |
 | [4.0.0-M1](https://central.sonatype.com/artifact/org.apache.camel/camel/4.0.0-M1/pom) | | | |
+| [3.22.4](https://central.sonatype.com/artifact/org.apache.camel/camel/3.22.4/pom) | | | |
 | [3.22.3](https://central.sonatype.com/artifact/org.apache.camel/camel/3.22.3/pom) | | | |
 | [3.22.2](https://central.sonatype.com/artifact/org.apache.camel/camel/3.22.2/pom) | | | |
 | [3.22.1](https://central.sonatype.com/artifact/org.apache.camel/camel/3.22.1/pom) | | | |
