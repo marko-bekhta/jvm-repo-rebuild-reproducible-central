@@ -29,7 +29,7 @@ content/com/intellectualsites/bom/bom-newest/bom-newest-1.49.buildspec:1.52
 content/com/intellectualsites/fastasyncvoxelsniper/fastasyncvoxelsniper/fastasyncvoxelsniper-3.2.1.buildspec:3.2.2
 content/com/io7m/primogenitor/com.io7m.primogenitor-8.2.0.buildspec:8.4.0
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.25
-content/com/spotify/github-client/github-client-0.3.2.buildspec:0.3.9
+content/com/spotify/github-client/github-client-0.3.2.buildspec:0.3.10
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.1
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-beta1
@@ -52,6 +52,7 @@ content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0-rc.1
 content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.30
 content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.0-rc24
 content/io/github/xanthic/cache/cache-api/cache-api-0.6.2.buildspec:0.7.1
+content/io/jstach/jstachio/jstachio-1.3.6.buildspec:1.3.7
 content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.7.2
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.3
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.4
@@ -67,7 +68,7 @@ content/nl/basjes/parse/useragent/yauaa/yauaa-7.28.1.buildspec:7.30.0
 content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5.3.20
 content/org/jline/jline-3.26.3.buildspec:3.29.0
 content/org/jreleaser/jreleaser-1.14.0.buildspec:1.17.0
-content/org/apache/activemq/activemq-6.1.3.buildspec:6.1.5
+content/org/apache/activemq/activemq-6.1.3.buildspec:6.1.6
 content/org/apache/dubbo/dubbo-3.3.0.buildspec:3.3.3
 content/org/apache/helix/helix-1.4.1.buildspec:1.4.3
 content/org/apache/mina/mina-2.2.3.buildspec:2.2.4
@@ -75,7 +76,7 @@ content/org/apache/orc/orc-2.0.2.buildspec:2.1.1
 content/org/apache/ratis/ratis-3.1.1.buildspec:3.1.3
 content/org/apache/shiro/shiro-2.0.1.buildspec:2.0.2
 content/org/apache/struts/struts2-6.6.0.buildspec:7.0.3
-content/org/apache/syncope/syncope-3.0.8.buildspec:4.0.0-M0
+content/org/apache/syncope/syncope-3.0.8.buildspec:4.0.0-M1
 content/org/apache/wayang/wayang-0.7.1.buildspec:1.0.0
 content/org/apache/wicket/wicket-parent-10.2.0.buildspec:10.4.0
 content/org/apache/wss4j/wss4j-3.0.3.buildspec:4.0.0
@@ -95,7 +96,7 @@ content/org/apache/logging/log4j/log4j/log4j-3.0.0-beta2.buildspec:3.0.0-beta3
 content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
 content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.3.1
 content/org/apache/maven/jxr/jxr-3.5.0.buildspec:3.6.0
-content/org/apache/maven/maven/maven-4.0.0-beta-4.buildspec:4.0.0-rc-2
+content/org/apache/maven/maven/maven-4.0.0-beta-4.buildspec:4.0.0-rc-3
 content/org/apache/maven/surefire/surefire-3.5.0.buildspec:3.5.2
 content/org/apache/maven/doxia/doxia-sitetools/doxia-sitetools-2.0.0-M19.buildspec:2.0.0
 content/org/apache/maven/plugin-testing/maven-plugin-testing/maven-plugin-testing-4.0.0-beta-1.buildspec:4.0.0-beta-3
@@ -127,6 +128,7 @@ content/org/apache/sling/org.apache.sling.distribution.journal/org.apache.sling.
 content/org/apache/sling/org.apache.sling.engine/org.apache.sling.engine-2.15.16.buildspec:2.16.0
 content/org/apache/sling/org.apache.sling.feature/org.apache.sling.feature-2.0.0.buildspec:2.0.4
 content/org/apache/sling/org.apache.sling.feature.analyser/org.apache.sling.feature.analyser-2.0.10.buildspec:2.0.12
+content/org/apache/sling/org.apache.sling.fsresource/org.apache.sling.fsresource-2.2.0.buildspec:2.3.0
 content/org/apache/sling/org.apache.sling.installer.core/org.apache.sling.installer.core-3.14.0.buildspec:3.14.2
 content/org/apache/sling/org.apache.sling.installer.factory.configuration/org.apache.sling.installer.factory.configuration-1.4.6.buildspec:1.4.10
 content/org/apache/sling/org.apache.sling.jcr.oak.server/org.apache.sling.jcr.oak.server-1.4.0.buildspec:1.4.2
