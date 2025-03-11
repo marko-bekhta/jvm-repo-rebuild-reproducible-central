@@ -21,6 +21,7 @@ rebuilding **19 releases** of nl.basjes.codeowners:codeowners-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.11.2](https://central.sonatype.com/artifact/nl.basjes.codeowners/codeowners-parent/1.11.2/pom) | | | |
 | [1.11.1](https://central.sonatype.com/artifact/nl.basjes.codeowners/codeowners-parent/1.11.1/pom) | | | |
 | [1.11.0](https://central.sonatype.com/artifact/nl.basjes.codeowners/codeowners-parent/1.11.0/pom) | | | |
 | [1.10.0](https://central.sonatype.com/artifact/nl.basjes.codeowners/codeowners-parent/1.10.0/pom) | | | |

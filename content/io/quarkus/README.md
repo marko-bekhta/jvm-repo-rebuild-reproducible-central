@@ -1039,6 +1039,7 @@ rebuilding **3 releases** of io.quarkus:quarkus-project:
 | [3.16.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.16.1/pom) | | | |
 | [3.16.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.16.0/pom) | | | |
 | [3.16.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.16.0.CR1/pom) | | | |
+| [3.15.4](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.4/pom) | | | |
 | [3.15.3.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.3.1/pom) | | | |
 | [3.15.3](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.3/pom) | | | |
 | [3.15.2](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.2/pom) | | | |
