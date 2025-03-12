@@ -28,6 +28,7 @@ rebuilding **4 releases** of eu.maveniverse.maven.nisse:nisse:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [0.4.1](https://central.sonatype.com/artifact/eu.maveniverse.maven.nisse/nisse/0.4.1/pom) | | | |
 | [0.4.0](https://central.sonatype.com/artifact/eu.maveniverse.maven.nisse/nisse/0.4.0/pom) | | | |
 | [0.3.4](https://central.sonatype.com/artifact/eu.maveniverse.maven.nisse/nisse/0.3.4/pom) | | | |
 | [0.3.3](https://central.sonatype.com/artifact/eu.maveniverse.maven.nisse/nisse/0.3.3/pom) | | | |
