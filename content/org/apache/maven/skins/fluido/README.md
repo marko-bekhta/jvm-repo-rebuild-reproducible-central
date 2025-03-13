@@ -13,6 +13,7 @@ rebuilding **15 releases** of org.apache.maven.skins:maven-fluido-skin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.1.0](https://central.sonatype.com/artifact/org.apache.maven.skins/maven-fluido-skin/2.1.0/pom) | | | |
 | [2.0.1](https://central.sonatype.com/artifact/org.apache.maven.skins/maven-fluido-skin/2.0.1/pom) | | | |
 | [2.0.0](https://central.sonatype.com/artifact/org.apache.maven.skins/maven-fluido-skin/2.0.0/pom) | | | |
 | [2.0.0-M11](https://central.sonatype.com/artifact/org.apache.maven.skins/maven-fluido-skin/2.0.0-M11/pom) | [mvn jdk8 w](maven-fluido-skin-2.0.0-M11.buildspec) | [result](maven-fluido-skin-2.0.0-M11.buildinfo): [6 :white_check_mark: ](maven-fluido-skin-2.0.0-M11.buildcompare) | 1.4M |
