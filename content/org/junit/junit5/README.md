@@ -37,6 +37,7 @@ rebuilding **20 releases** of org.junit:junit-bom:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [5.12.1](https://central.sonatype.com/artifact/org.junit/junit-bom/5.12.1/pom) | | | |
 | [5.12.0](https://central.sonatype.com/artifact/org.junit/junit-bom/5.12.0/pom) | | | |
 | [5.12.0-RC2](https://central.sonatype.com/artifact/org.junit/junit-bom/5.12.0-RC2/pom) | | | |
 | [5.12.0-RC1](https://central.sonatype.com/artifact/org.junit/junit-bom/5.12.0-RC1/pom) | | | |

@@ -197,4 +197,4 @@ content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.
 content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.20.0
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.5.0
 content/us/abstracta/jmeter/jmeter-java-dsl/jmeter-java-dsl-1.29.buildspec:1.29.1
-content/world/convex/convex-0.7.15.buildspec:0.8.0
+content/world/convex/convex-0.7.15.buildspec:0.8.1
