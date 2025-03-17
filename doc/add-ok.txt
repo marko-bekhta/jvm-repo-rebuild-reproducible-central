@@ -29,14 +29,14 @@ content/com/intellectualsites/bom/bom-newest/bom-newest-1.49.buildspec:1.52
 content/com/intellectualsites/fastasyncvoxelsniper/fastasyncvoxelsniper/fastasyncvoxelsniper-3.2.1.buildspec:3.2.2
 content/com/io7m/primogenitor/com.io7m.primogenitor-8.2.0.buildspec:8.4.0
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.25
-content/com/spotify/github-client/github-client-0.3.2.buildspec:0.3.11
+content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.0
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.1
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-beta2
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.11.12
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.2
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.4.1
-content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.6.4
+content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.7.0
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-8
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.25
 content/io/trino/trino-459.buildspec:472
@@ -58,6 +58,7 @@ content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.3
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.4
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.83.4
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.4.4
+content/io/wcm/tooling/commons/crx-packmgr-helper/wcm-crx-packmgr-helper-2.1.6.buildspec:2.2.0
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.17.2
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:19
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
@@ -80,7 +81,7 @@ content/org/apache/syncope/syncope-3.0.8.buildspec:4.0.0-M1
 content/org/apache/wayang/wayang-0.7.1.buildspec:1.0.0
 content/org/apache/wicket/wicket-parent-10.2.0.buildspec:10.4.0
 content/org/apache/wss4j/wss4j-3.0.3.buildspec:4.0.0
-content/org/apache/activemq/artemis/artemis-2.37.0.buildspec:2.39.0
+content/org/apache/activemq/artemis/artemis-2.37.0.buildspec:2.40.0
 content/org/apache/commons/commons-io/commons-io-2.17.0.buildspec:2.18.0
 content/org/apache/commons/csv/commons-csv-1.12.0.buildspec:1.13.0
 content/org/apache/commons/parent/commons-parent-76.buildspec:81
@@ -126,6 +127,7 @@ content/org/apache/qpid/protonj2/protonj2-1.0.0-M22.buildspec:1.0.0-M23
 content/org/apache/santuario/xmlsec/xmlsec-4.0.2.buildspec:4.0.3
 content/org/apache/sling/org.apache.sling.adapter/org.apache.sling.adapter-2.2.0.buildspec:2.3.0
 content/org/apache/sling/org.apache.sling.bundleresource.impl/org.apache.sling.bundleresource.impl-2.3.4.buildspec:2.4.0
+content/org/apache/sling/org.apache.sling.caconfig.impl/org.apache.sling.caconfig.impl-1.6.0.buildspec:1.7.2
 content/org/apache/sling/org.apache.sling.distribution.journal/org.apache.sling.distribution.journal-0.4.0.buildspec:0.5.0
 content/org/apache/sling/org.apache.sling.engine/org.apache.sling.engine-2.15.16.buildspec:2.16.0
 content/org/apache/sling/org.apache.sling.feature/org.apache.sling.feature-2.0.0.buildspec:2.0.4
@@ -189,7 +191,7 @@ content/org/simplify4u/plugins/pgpverify-maven-plugin/pgpverify-maven-plugin-1.1
 content/org/sonatype/nexus/archetypes/nexus-format-archetype/nexus-format-archetype-1.0.63.buildspec:1.0.73
 content/org/spdx/java-spdx-library/java-spdx-library-2.0.0-Alpha.buildspec:2.0.0-RC2
 content/org/spdx/spdx-maven-plugin/spdx-maven-plugin-0.7.4.buildspec:1.0.0-RC2
-content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.98
+content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.99
 content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:6.7.2
 content/org/webjars/highcharts/highcharts-11.2.0.buildspec:12.1.0
 content/org/webjars/redoc/redoc-2.1.5.buildspec:2.3.0
