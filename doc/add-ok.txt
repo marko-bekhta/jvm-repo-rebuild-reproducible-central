@@ -1,5 +1,5 @@
 content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.1.0
-content/ch/qos/logback/logback-1.5.8.buildspec:1.5.17
+content/ch/qos/logback/logback-1.5.8.buildspec:1.5.18
 content/com/flowlogix/flowlogix-9.0.5.buildspec:9.0.9
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.21
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:64
@@ -29,7 +29,7 @@ content/com/intellectualsites/bom/bom-newest/bom-newest-1.49.buildspec:1.52
 content/com/intellectualsites/fastasyncvoxelsniper/fastasyncvoxelsniper/fastasyncvoxelsniper-3.2.1.buildspec:3.2.2
 content/com/io7m/primogenitor/com.io7m.primogenitor-8.2.0.buildspec:8.4.0
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.25
-content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.0
+content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.1
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.1
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-beta2
@@ -40,7 +40,7 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.7.0
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-8
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.25
 content/io/trino/trino-459.buildspec:472
-content/io/airlift/airbase/airbase-184.buildspec:232
+content/io/airlift/airbase/airbase-184.buildspec:234
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.21.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:32.0.0
@@ -70,6 +70,7 @@ content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5
 content/org/jline/jline-3.26.3.buildspec:3.29.0
 content/org/jreleaser/jreleaser-1.14.0.buildspec:1.17.0
 content/org/apache/activemq/activemq-6.1.3.buildspec:6.1.6
+content/org/apache/apache/apache-33.buildspec:34
 content/org/apache/dubbo/dubbo-3.3.0.buildspec:3.3.4
 content/org/apache/helix/helix-1.4.1.buildspec:1.4.3
 content/org/apache/mina/mina-2.2.3.buildspec:2.2.4
@@ -98,6 +99,7 @@ content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
 content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.3.1
 content/org/apache/maven/jxr/jxr-3.5.0.buildspec:3.6.0
 content/org/apache/maven/maven/maven-4.0.0-beta-4.buildspec:4.0.0-rc-3
+content/org/apache/maven/parent/maven-parent-43.buildspec:44
 content/org/apache/maven/surefire/surefire-3.5.0.buildspec:3.5.2
 content/org/apache/maven/doxia/doxia-sitetools/doxia-sitetools-2.0.0-M19.buildspec:2.0.0
 content/org/apache/maven/plugin-testing/maven-plugin-testing/maven-plugin-testing-4.0.0-beta-1.buildspec:4.0.0-beta-3
@@ -140,6 +142,7 @@ content/org/apache/sling/org.apache.sling.launchpad.test-services/org.apache.sli
 content/org/apache/sling/org.apache.sling.repoinit.parser/org.apache.sling.repoinit.parser-1.9.0.buildspec:1.9.2
 content/org/apache/sling/org.apache.sling.resourceresolver/org.apache.sling.resourceresolver-1.12.0.buildspec:1.12.4
 content/org/apache/sling/org.apache.sling.scripting.sightly/org.apache.sling.scripting.sightly-1.4.24-1.4.0.buildspec:1.4.26-1.4.0
+content/org/apache/sling/org.apache.sling.security/org.apache.sling.security-1.2.0.buildspec:1.3.0
 content/org/apache/sling/org.apache.sling.starter.content/org.apache.sling.starter.content-1.0.14.buildspec:1.0.16
 content/org/apache/sling/org.apache.sling.testing.clients/org.apache.sling.testing.clients-3.0.24.buildspec:3.1.0
 content/org/apache/sling/org.apache.sling.testing.osgi-mock/org.apache.sling.testing.osgi-mock-3.5.0.buildspec:3.5.2
@@ -159,8 +162,8 @@ content/org/codehaus/plexus/plexus-velocity/plexus-velocity-2.1.0.buildspec:2.2.
 content/org/cyclonedx/cyclonedx-core-java/cyclonedx-core-java-9.0.5.buildspec:10.2.1
 content/org/cyclonedx/cyclonedx-maven-plugin/cyclonedx-maven-plugin-2.8.2.buildspec:2.9.1
 content/org/eclipse/jkube/jkube-1.17.0.buildspec:1.18.1
-content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.0.alpha1
-content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.0.0.Alpha1
+content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.0.alpha2
+content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.0.0.Alpha2
 content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.0.0.CR1
 content/org/itsallcode/openfasttrace-maven-plugin/openfasttrace-maven-plugin-2.2.0.buildspec:2.3.0
 content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.7.2
@@ -168,7 +171,7 @@ content/org/jpmml/jpmml-h2o/jpmml-h2o-1.2.14.buildspec:1.3.0
 content/org/jpmml/jpmml-lightgbm/jpmml-lightgbm-1.5.5.buildspec:1.6.0
 content/org/jpmml/jpmml-python/jpmml-python-1.2.4.buildspec:1.3.1
 content/org/jpmml/jpmml-r/jpmml-r-1.5.6.buildspec:1.7.1
-content/org/jpmml/jpmml-sklearn/jpmml-sklearn-1.8.4.buildspec:1.9.2
+content/org/jpmml/jpmml-sklearn/jpmml-sklearn-1.8.4.buildspec:1.9.3
 content/org/jpmml/jpmml-transpiler/jpmml-transpiler-1.3.6.buildspec:1.4.1
 content/org/jpmml/jpmml-xgboost/jpmml-xgboost-1.8.7.buildspec:1.9.0
 content/org/kordamp/pomchecker/pomchecker-1.13.0.buildspec:1.14.0
