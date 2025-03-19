@@ -20,6 +20,7 @@ rebuilding **28 releases** of io.airlift:airbase:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [235](https://central.sonatype.com/artifact/io.airlift/airbase/235/pom) | | | |
 | [234](https://central.sonatype.com/artifact/io.airlift/airbase/234/pom) | | | |
 | [233](https://central.sonatype.com/artifact/io.airlift/airbase/233/pom) | | | |
 | [232](https://central.sonatype.com/artifact/io.airlift/airbase/232/pom) | | | |
