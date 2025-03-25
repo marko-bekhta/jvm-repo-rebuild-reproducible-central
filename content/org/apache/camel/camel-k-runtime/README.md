@@ -110,6 +110,7 @@ rebuilding **5 releases** of org.apache.camel.k:camel-k-runtime-project:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.15.3](https://central.sonatype.com/artifact/org.apache.camel.k/camel-k-runtime-project/3.15.3/pom) | | | |
 | [3.15.2](https://central.sonatype.com/artifact/org.apache.camel.k/camel-k-runtime-project/3.15.2/pom) | | | |
 | [3.15.0](https://central.sonatype.com/artifact/org.apache.camel.k/camel-k-runtime-project/3.15.0/pom) | | | |
 | [3.8.1](https://central.sonatype.com/artifact/org.apache.camel.k/camel-k-runtime-project/3.8.1/pom) | | | |
