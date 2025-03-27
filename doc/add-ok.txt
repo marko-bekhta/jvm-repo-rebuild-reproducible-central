@@ -40,7 +40,7 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.7.2
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-9
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.25
 content/io/trino/trino-459.buildspec:474
-content/io/airlift/airbase/airbase-184.buildspec:241
+content/io/airlift/airbase/airbase-184.buildspec:242
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.21.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:32.0.0
@@ -48,7 +48,7 @@ content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:9.2.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.7.1
 content/io/cucumber/messages/messages-26.0.1.buildspec:27.2.0
 content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:6.1.2
-content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0-rc.1
+content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0-rc.2
 content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.30
 content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.0-rc24
 content/io/github/xanthic/cache/cache-api/cache-api-0.6.2.buildspec:0.7.1
