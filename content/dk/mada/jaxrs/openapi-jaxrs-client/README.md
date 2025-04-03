@@ -22,6 +22,7 @@ rebuilding **5 releases** of dk.mada.jaxrs:openapi-jaxrs-client:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [0.12.2](https://central.sonatype.com/artifact/dk.mada.jaxrs/openapi-jaxrs-bom/0.12.2/pom) | | | |
 | [0.12.1](https://central.sonatype.com/artifact/dk.mada.jaxrs/openapi-jaxrs-bom/0.12.1/pom) | | | |
 | [0.12.0](https://central.sonatype.com/artifact/dk.mada.jaxrs/openapi-jaxrs-bom/0.12.0/pom) | | | |
 | [0.11.12](https://central.sonatype.com/artifact/dk.mada.jaxrs/openapi-jaxrs-bom/0.11.12/pom) | | | |
