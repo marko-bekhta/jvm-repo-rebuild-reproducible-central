@@ -39,7 +39,7 @@ content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.2
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.4.1
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.7.2
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-11
-content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.25
+content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.26
 content/io/trino/trino-459.buildspec:474
 content/io/airlift/airbase/airbase-184.buildspec:249
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
@@ -55,7 +55,7 @@ content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.0-rc2
 content/io/fabric8/docker-maven-plugin/docker-maven-plugin-0.45.1.buildspec:0.46.0
 content/io/github/xanthic/cache/cache-api/cache-api-0.6.2.buildspec:0.7.1
 content/io/jstach/jstachio/jstachio-1.3.6.buildspec:1.3.7
-content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.8.1
+content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.8.2
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.3
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:0.73.4
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.83.5
@@ -80,7 +80,7 @@ content/org/apache/helix/helix-1.4.1.buildspec:1.4.3
 content/org/apache/mina/mina-2.2.3.buildspec:2.2.4
 content/org/apache/orc/orc-2.0.2.buildspec:2.1.1
 content/org/apache/ratis/ratis-3.1.1.buildspec:3.1.3
-content/org/apache/shiro/shiro-2.0.1.buildspec:2.0.2
+content/org/apache/shiro/shiro-2.0.1.buildspec:2.0.3
 content/org/apache/struts/struts2-6.6.0.buildspec:7.0.3
 content/org/apache/syncope/syncope-3.0.8.buildspec:4.0.0-M1
 content/org/apache/wayang/wayang-0.7.1.buildspec:1.0.0
@@ -98,7 +98,7 @@ content/org/apache/felix/maven-bundle-plugin/maven-bundle-plugin-5.1.9.buildspec
 content/org/apache/httpcomponents/parent/httpcomponents-parent-13.buildspec:14
 content/org/apache/jackrabbit/filevault/jackrabbit-filevault-3.8.2.buildspec:3.8.4
 content/org/apache/jackrabbit/jackrabbit/jackrabbit-2.23.0-beta.buildspec:2.23.1-beta
-content/org/apache/logging/parent/logging-parent-11.3.0.buildspec:12.0.0
+content/org/apache/logging/parent/logging-parent-11.3.0.buildspec:12.1.0
 content/org/apache/logging/log4j/log4j/log4j-3.0.0-beta2.buildspec:3.0.0-beta3
 content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
 content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.3.1
