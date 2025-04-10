@@ -66,6 +66,7 @@ rebuilding **2 releases** of org.apache.cxf.fediz:fediz:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.7.1](https://central.sonatype.com/artifact/org.apache.cxf.fediz/fediz/1.7.1/pom) | | | |
 | [1.7.0](https://central.sonatype.com/artifact/org.apache.cxf.fediz/fediz/1.7.0/pom) | | | |
 | [1.6.2](https://central.sonatype.com/artifact/org.apache.cxf.fediz/fediz/1.6.2/pom) | | | |
 | [1.6.1](https://central.sonatype.com/artifact/org.apache.cxf.fediz/fediz/1.6.1/pom) | [mvn jdk8](fediz-1.6.1.buildspec) | [result](fediz-1.6.1.buildinfo): [125 :white_check_mark:  4 :warning:](fediz-1.6.1.buildcompare) [:mag:](fediz-1.6.1.diffoscope) | 537M |
