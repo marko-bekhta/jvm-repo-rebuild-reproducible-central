@@ -13,6 +13,7 @@ rebuilding **18 releases** of de.gematik.pki:gemLibPki:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.1.2](https://central.sonatype.com/artifact/de.gematik.pki/gemLibPki/3.1.2/pom) | | | |
 | [3.1.1](https://central.sonatype.com/artifact/de.gematik.pki/gemLibPki/3.1.1/pom) | | | |
 | [3.0.1](https://central.sonatype.com/artifact/de.gematik.pki/gemLibPki/3.0.1/pom) | | | |
 | [3.0.0](https://central.sonatype.com/artifact/de.gematik.pki/gemLibPki/3.0.0/pom) | | | |

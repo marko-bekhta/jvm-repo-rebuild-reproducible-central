@@ -5,7 +5,7 @@ content/com/flowlogix/flowlogix-9.0.5.buildspec:9.0.10
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.21
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:64
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.0
-content/com/fasterxml/jackson/annotations/jackson-annotations-2.18.0.buildspec:3.0-rc2
+content/com/fasterxml/jackson/annotations/jackson-annotations-2.18.0.buildspec:3.0-rc3
 content/com/fasterxml/jackson/core/jackson-core-2.18.0.buildspec:2.19.0-rc2
 content/com/fasterxml/jackson/databind/jackson-databind-2.18.0.buildspec:2.19.0-rc2
 content/com/fasterxml/jackson/jackson-bom/jackson-bom-2.18.0.buildspec:2.19.0-rc2
@@ -33,7 +33,7 @@ content/com/io7m/looseleaf/com.io7m.looseleaf-2.0.0.buildspec:3.0.0
 content/com/io7m/primogenitor/com.io7m.primogenitor-8.2.0.buildspec:8.4.0
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.25
 content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.3
-content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.1
+content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.2
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-beta3
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.2
@@ -43,7 +43,7 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.7.2
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-12
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.27
 content/io/trino/trino-459.buildspec:474
-content/io/airlift/airbase/airbase-184.buildspec:250
+content/io/airlift/airbase/airbase-184.buildspec:251
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.22.0
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:32.1.1
@@ -131,6 +131,7 @@ content/org/apache/maven/resolver/maven-resolver-ant-tasks/maven-resolver-ant-ta
 content/org/apache/maven/shared/maven-dependency-analyzer/maven-dependency-analyzer-1.14.1.buildspec:1.15.1
 content/org/apache/maven/shared/maven-shared-jar/maven-shared-jar-3.1.1.buildspec:3.2.0
 content/org/apache/maven/skins/fluido/maven-fluido-skin-2.0.0-M11.buildspec:2.1.0
+content/org/apache/plc4x/plc4x-code-generation/plc4x-code-generation-1.7.0.buildspec:1.8.0
 content/org/apache/qpid/jms/qpid-jms-2.6.0.buildspec:2.7.0
 content/org/apache/qpid/protonj2/protonj2-1.0.0-M22.buildspec:1.0.0-M23
 content/org/apache/santuario/xmlsec/xmlsec-4.0.2.buildspec:4.0.4
@@ -215,7 +216,7 @@ content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:6.7.2
 content/org/webjars/highcharts/highcharts-11.2.0.buildspec:12.1.2
 content/org/webjars/redoc/redoc-2.1.5.buildspec:2.3.0
 content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.1.0
-content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.21.0
+content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.22.0
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.5.0
 content/us/abstracta/jmeter/jmeter-java-dsl/jmeter-java-dsl-1.29.buildspec:1.29.1
 content/world/convex/convex-0.7.15.buildspec:0.8.1
