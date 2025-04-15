@@ -18,7 +18,7 @@ content/com/fasterxml/jackson/datatype/jackson-datatype-joda/jackson-datatype-jo
 content/com/fasterxml/jackson/datatype/jackson-datatypes-collections/jackson-datatypes-collections-2.18.0.buildspec:2.19.0-rc2
 content/com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/jackson-datatypes-misc-parent-2.18.0.buildspec:2.19.0-rc2
 content/com/github/hazendaz/7zip/7zip-24.08.buildspec:24.09
-content/com/github/hazendaz/displaytag-doc/displaytag-doc-3.0.3.buildspec:3.1.0
+content/com/github/hazendaz/displaytag-doc/displaytag-doc-3.0.3.buildspec:3.2.0
 content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.8.4
 content/com/github/hazendaz/maven/coveralls-maven-plugin/coveralls-maven-plugin-4.5.0-M5.buildspec:4.6.0
 content/com/github/hazendaz/maven/directory-maven-plugin/directory-maven-plugin-1.2.0.buildspec:1.2.1
