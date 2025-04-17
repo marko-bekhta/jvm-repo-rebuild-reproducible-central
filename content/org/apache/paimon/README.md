@@ -64,6 +64,7 @@ rebuilding **4 releases** of org.apache.paimon:paimon-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.1.0](https://central.sonatype.com/artifact/org.apache.paimon/paimon-parent/1.1.0/pom) | | | |
 | [1.0.1](https://central.sonatype.com/artifact/org.apache.paimon/paimon-parent/1.0.1/pom) | | | |
 | [1.0.0](https://central.sonatype.com/artifact/org.apache.paimon/paimon-parent/1.0.0/pom) | | | |
 | [0.9.0](https://central.sonatype.com/artifact/org.apache.paimon/paimon-parent/0.9.0/pom) | [mvn jdk8](paimon-parent-0.9.0.buildspec) | [result](paimon-parent-0.9.0.buildinfo): [81 :white_check_mark:  51 :warning:](paimon-parent-0.9.0.buildcompare) [:mag:](paimon-parent-0.9.0.diffoscope) [:memo:](https://github.com/apache/paimon/pull/4190) | 983M |
