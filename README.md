@@ -11,10 +11,10 @@ Its objectives are to provide:
 1) [**Tools and methods allowing to verify that Java builds are reproducible**](doc/TOOLS.md)
 2) [**A list of reproducible releases published to Maven Central**](#rebuild-detailed-results)<br>
    <!-- BEGIN GENERATED INTRO -->
-   rebuilding **4920 releases** of **706 projects**:
-   - **3675** releases are confirmed **fully reproducible** (100% reproducible artifacts :white_check_mark:),
+   rebuilding **4908 releases** of **706 projects**:
+   - **3663** releases are confirmed **fully reproducible** (100% reproducible artifacts :white_check_mark:),
    - 1245 releases are only partially reproducible (contain some unreproducible artifacts :warning:)
-   - on 706 projects, 609 have at least one fully reproducible release, 97 have none
+   - on 706 projects, 608 have at least one fully reproducible release, 98 have none
 
 <!-- END GENERATED INTRO -->
 
@@ -56,7 +56,7 @@ Its objectives are to provide:
 | | [javabean-tester](content/com/github/hazendaz/javabean-tester/README.md) | 13 | 11 :white_check_mark: / 2 :warning: |
 | com.github.hazendaz.maven | [coveralls-maven-plugin](content/com/github/hazendaz/maven/coveralls-maven-plugin/README.md) | 5 | 5 :white_check_mark: |
 | | [directory-maven-plugin](content/com/github/hazendaz/maven/directory-maven-plugin/README.md) | 5 | 5 :white_check_mark: |
-| | [htmlcompressor-maven-plugin](content/com/github/hazendaz/maven/htmlcompressor-maven-plugin/README.md) | 12 | 12 :white_check_mark: |
+| | [htmlcompressor-maven-plugin](content/com/github/hazendaz/maven/htmlcompressor-maven-plugin/README.md) | 0 | 0 :warning: |
 | | [makeself-maven-plugin](content/com/github/hazendaz/maven/makeself-maven-plugin/README.md) | 7 | 7 :white_check_mark: |
 | | [smartsprites-maven-plugin](content/com/github/hazendaz/maven/smartsprites-maven-plugin/README.md) | 2 | 2 :white_check_mark: |
 | | [whitespace-maven-plugin](content/com/github/hazendaz/maven/whitespace-maven-plugin/README.md) | 5 | 2 :white_check_mark: / 3 :warning: |
@@ -729,7 +729,7 @@ Its objectives are to provide:
 | uk.org.okapibarcode | [okapibarcode](content/uk/org/okapibarcode/okapibarcode/README.md) | 3 | 3 :white_check_mark: |
 | us.abstracta.jmeter | [jmeter-java-dsl-parent](content/us/abstracta/jmeter/jmeter-java-dsl/README.md) | 40 | 39 :white_check_mark: / 1 :warning: |
 | world.convex | [convex](content/world/convex/README.md) | 18 | 1 :white_check_mark: / 17 :warning: |
-| **Count:** | **706** | **4920** | **3675** :white_check_mark: **1245** :warning: |
+| **Count:** | **706** | **4908** | **3663** :white_check_mark: **1245** :warning: |
 <!-- END GENERATED RESULTS TABLE -->
 
 Nightly Results Update: [![CircleCI](https://circleci.com/gh/jvm-repo-rebuild/reproducible-central/tree/master.svg?style=shield)](https://circleci.com/gh/jvm-repo-rebuild/reproducible-central/tree/master)
@@ -777,7 +777,7 @@ Number of rebuild recipes (`.buildspec`) per build tool (as configured) and JDK 
       1 mvn-3.8.5  21
      45 mvn-3.8.6   8
       3 mvn-3.8.6  11
-     37 mvn-3.8.6  17
+     34 mvn-3.8.6  17
       2 mvn-3.8.6  18
       3 mvn-3.8.6  18
       6 mvn-3.8.6  19
@@ -837,13 +837,13 @@ Number of rebuild recipes (`.buildspec`) per build tool (as configured) and JDK 
      24 mvn-3.9.5  17
       2 mvn-3.9.5  17.0.7
       1 mvn-3.9.5  17.0.9
-     38 mvn-3.9.5  21
+     35 mvn-3.9.5  21
       8 mvn-3.9.5  22
      32 mvn-3.9.6   8
       6 mvn-3.9.6  11
      39 mvn-3.9.6  17
       2 mvn-3.9.6  17.0.7
-     59 mvn-3.9.6  21
+     58 mvn-3.9.6  21
      20 mvn-3.9.6  22
       1 mvn-3.9.7  11
       4 mvn-3.9.7  17
@@ -855,11 +855,11 @@ Number of rebuild recipes (`.buildspec`) per build tool (as configured) and JDK 
      48 mvn-3.9.8  17
       1 mvn-3.9.8  17.0.12
      23 mvn-3.9.8  21
-     37 mvn-3.9.8  22
+     35 mvn-3.9.8  22
       3 mvn-3.9.9  11
       1 mvn-3.9.9  17
-      8 mvn-3.9.9  21
-      4 mvn-3.9.9  22
+      7 mvn-3.9.9  21
+      2 mvn-3.9.9  22
       2 mvn-4.0.0-alpha-12  21
       2 mvn-4.0.0-alpha-12  22
       1 mvn-4.0.0-alpha-13  21
