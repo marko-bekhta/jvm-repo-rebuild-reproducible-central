@@ -4,6 +4,7 @@ rebuilding **0 releases** of com.github.hazendaz.maven:htmlcompressor-maven-plug
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.2.0](https://central.sonatype.com/artifact/com.github.hazendaz.maven/htmlcompressor-maven-plugin/2.2.0/pom) | | | |
 | [1.11.0](https://central.sonatype.com/artifact/com.github.hazendaz.maven/htmlcompressor-maven-plugin/1.11.0/pom) | | | |
 | [2.1.1](https://central.sonatype.com/artifact/com.github.hazendaz.maven/htmlcompressor-maven-plugin/2.1.1/pom) | | | |
 
