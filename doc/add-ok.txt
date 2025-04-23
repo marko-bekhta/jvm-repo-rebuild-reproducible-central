@@ -3,7 +3,7 @@ content/ch/qos/logback/logback-1.5.8.buildspec:1.5.18
 content/ch/vorburger/mariaDB4j/mariaDB4j-pom-3.1.0.buildspec:3.2.0
 content/com/flowlogix/flowlogix-9.0.5.buildspec:9.0.10
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.21
-content/com/fasterxml/oss-parent/oss-parent-61.buildspec:64
+content/com/fasterxml/oss-parent/oss-parent-61.buildspec:65
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.0
 content/com/fasterxml/jackson/annotations/jackson-annotations-2.18.0.buildspec:3.0-rc3
 content/com/fasterxml/jackson/core/jackson-core-2.18.0.buildspec:2.19.0-rc2
@@ -39,7 +39,7 @@ content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.3
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.2
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-beta3
-content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.3
+content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.4
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.4
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.4.3
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.7.5
