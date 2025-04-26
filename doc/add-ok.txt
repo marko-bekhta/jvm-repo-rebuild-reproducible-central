@@ -19,7 +19,7 @@ content/com/fasterxml/jackson/datatype/jackson-datatypes-collections/jackson-dat
 content/com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/jackson-datatypes-misc-parent-2.18.0.buildspec:2.19.0
 content/com/github/hazendaz/7zip/7zip-24.08.buildspec:24.09
 content/com/github/hazendaz/displaytag-doc/displaytag-doc-3.0.3.buildspec:2.7.0
-content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.8.4
+content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.8.5
 content/com/github/hazendaz/maven/coveralls-maven-plugin/coveralls-maven-plugin-4.5.0-M5.buildspec:4.7.0
 content/com/github/hazendaz/maven/directory-maven-plugin/directory-maven-plugin-1.2.0.buildspec:1.2.1
 content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.9.0
@@ -33,7 +33,7 @@ content/com/intellectualsites/fastasyncvoxelsniper/fastasyncvoxelsniper/fastasyn
 content/com/intellectualsites/informative-annotations/informative-annotations/informative-annotations-1.5.buildspec:1.6
 content/com/intellectualsites/paster/Paster/Paster-1.1.6.buildspec:1.1.7
 content/com/io7m/looseleaf/com.io7m.looseleaf-2.0.0.buildspec:3.0.0
-content/com/io7m/primogenitor/com.io7m.primogenitor-8.2.0.buildspec:8.4.0
+content/com/io7m/primogenitor/com.io7m.primogenitor-8.2.0.buildspec:8.5.0
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.25
 content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.3
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.2
@@ -203,7 +203,7 @@ content/org/mybatis/mybatis2/mybatis2-2.5.0.buildspec:2.6.0
 content/org/mybatis/parent/mybatis-parent-45.buildspec:48
 content/org/mybatis/scripting/mybatis-thymeleaf/mybatis-thymeleaf-1.0.4.buildspec:1.1.0
 content/org/mybatis/spring/boot/mybatis-spring-boot/mybatis-spring-boot-3.0.3.buildspec:3.0.4
-content/org/openapitools/openapidiff/openapi-diff-2.1.0-beta.11.buildspec:2.1.0-beta.12
+content/org/openapitools/openapidiff/openapi-diff-2.1.0-beta.11.buildspec:2.1.0
 content/org/owasp/antisamy/antisamy-1.7.6.buildspec:1.7.7
 content/org/owasp/dependency-check/dependency-check-10.0.4.buildspec:12.1.1
 content/org/sentrysoftware/ipmi/ipmi-1.1.00.buildspec:1.2.00
