@@ -13,6 +13,7 @@ rebuilding **7 releases** of com.github.hazendaz.maven:makeself-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.9.1](https://central.sonatype.com/artifact/com.github.hazendaz.maven/makeself-maven-plugin/1.9.1/pom) | | | |
 | [1.9.0](https://central.sonatype.com/artifact/com.github.hazendaz.maven/makeself-maven-plugin/1.9.0/pom) | | | |
 | [1.8.5](https://central.sonatype.com/artifact/com.github.hazendaz.maven/makeself-maven-plugin/1.8.5/pom) | | | |
 | [1.8.4](https://central.sonatype.com/artifact/com.github.hazendaz.maven/makeself-maven-plugin/1.8.4/pom) | | | |
