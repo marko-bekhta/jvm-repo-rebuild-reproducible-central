@@ -69,6 +69,7 @@ rebuilding **10 releases** of org.jreleaser:jreleaser:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.18.0](https://central.sonatype.com/artifact/org.jreleaser/jreleaser/1.18.0/pom) | | | |
 | [1.17.0](https://central.sonatype.com/artifact/org.jreleaser/jreleaser/1.17.0/pom) | | | |
 | [1.16.0](https://central.sonatype.com/artifact/org.jreleaser/jreleaser/1.16.0/pom) | | | |
 | [1.15.0](https://central.sonatype.com/artifact/org.jreleaser/jreleaser/1.15.0/pom) | | | |
