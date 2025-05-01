@@ -11,10 +11,10 @@ Its objectives are to provide:
 1) [**Tools and methods allowing to verify that Java builds are reproducible**](doc/TOOLS.md)
 2) [**A list of reproducible releases published to Maven Central**](#rebuild-detailed-results)<br>
    <!-- BEGIN GENERATED INTRO -->
-   rebuilding **4908 releases** of **706 projects**:
-   - **3663** releases are confirmed **fully reproducible** (100% reproducible artifacts :white_check_mark:),
+   rebuilding **4896 releases** of **706 projects**:
+   - **3651** releases are confirmed **fully reproducible** (100% reproducible artifacts :white_check_mark:),
    - 1245 releases are only partially reproducible (contain some unreproducible artifacts :warning:)
-   - on 706 projects, 608 have at least one fully reproducible release, 98 have none
+   - on 706 projects, 607 have at least one fully reproducible release, 99 have none
 
 <!-- END GENERATED INTRO -->
 
@@ -668,7 +668,7 @@ Its objectives are to provide:
 | | [mybatis-spring](content/org/mybatis/mybatis-spring/README.md) | 8 | 3 :white_check_mark: / 5 :warning: |
 | | [mybatis-typehandlers-threeten-extra](content/org/mybatis/mybatis-typehandlers-threeten-extra/README.md) | 1 | 1 :white_check_mark: |
 | | [mybatis2](content/org/mybatis/mybatis2/README.md) | 1 | 1 :white_check_mark: |
-| | [mybatis-parent](content/org/mybatis/parent/README.md) | 12 | 12 :white_check_mark: |
+| | [mybatis-parent](content/org/mybatis/parent/README.md) | 0 | 0 :warning: |
 | org.mybatis.scala | [mybatis-scala-parent_2.13](content/org/mybatis/scala/README.md) | 1 | 1 :white_check_mark: |
 | org.mybatis.caches | [mybatis-caffeine](content/org/mybatis/caches/mybatis-caffeine/README.md) | 3 | 3 :white_check_mark: |
 | | [mybatis-ehcache](content/org/mybatis/caches/mybatis-ehcache/README.md) | 2 | 2 :white_check_mark: |
@@ -729,7 +729,7 @@ Its objectives are to provide:
 | uk.org.okapibarcode | [okapibarcode](content/uk/org/okapibarcode/okapibarcode/README.md) | 3 | 3 :white_check_mark: |
 | us.abstracta.jmeter | [jmeter-java-dsl-parent](content/us/abstracta/jmeter/jmeter-java-dsl/README.md) | 40 | 39 :white_check_mark: / 1 :warning: |
 | world.convex | [convex](content/world/convex/README.md) | 18 | 1 :white_check_mark: / 17 :warning: |
-| **Count:** | **706** | **4908** | **3663** :white_check_mark: **1245** :warning: |
+| **Count:** | **706** | **4896** | **3651** :white_check_mark: **1245** :warning: |
 <!-- END GENERATED RESULTS TABLE -->
 
 Nightly Results Update: [![CircleCI](https://circleci.com/gh/jvm-repo-rebuild/reproducible-central/tree/master.svg?style=shield)](https://circleci.com/gh/jvm-repo-rebuild/reproducible-central/tree/master)
@@ -746,7 +746,7 @@ Number of rebuild recipes (`.buildspec`) per build tool (as configured) and JDK 
      33 mvn         7
    1335 mvn         8
       1 mvn         9
-   1256 mvn        11
+   1250 mvn        11
       2 mvn        11.0.19
       1 mvn        11.0.21
       1 mvn        11.0.6
@@ -833,26 +833,25 @@ Number of rebuild recipes (`.buildspec`) per build tool (as configured) and JDK 
       2 mvn-3.9.4  20
       4 mvn-3.9.4  21
       1 mvn-3.9.4  22
-      3 mvn-3.9.5  11
+      1 mvn-3.9.5  11
      24 mvn-3.9.5  17
       2 mvn-3.9.5  17.0.7
       1 mvn-3.9.5  17.0.9
      35 mvn-3.9.5  21
       8 mvn-3.9.5  22
      32 mvn-3.9.6   8
-      6 mvn-3.9.6  11
+      4 mvn-3.9.6  11
      39 mvn-3.9.6  17
       2 mvn-3.9.6  17.0.7
      58 mvn-3.9.6  21
      20 mvn-3.9.6  22
-      1 mvn-3.9.7  11
       4 mvn-3.9.7  17
       1 mvn-3.9.7  21
       2 mvn-3.9.7  22
       2 mvn-3.9.8   8
       2 mvn-3.9.8  11
       5 mvn-3.9.8  16
-     48 mvn-3.9.8  17
+     47 mvn-3.9.8  17
       1 mvn-3.9.8  17.0.12
      23 mvn-3.9.8  21
      35 mvn-3.9.8  22
