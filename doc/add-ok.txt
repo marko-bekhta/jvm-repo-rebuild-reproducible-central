@@ -34,6 +34,7 @@ content/com/intellectualsites/informative-annotations/informative-annotations/in
 content/com/intellectualsites/paster/Paster/Paster-1.1.6.buildspec:1.1.7
 content/com/io7m/looseleaf/com.io7m.looseleaf-2.0.0.buildspec:3.0.0
 content/com/io7m/primogenitor/com.io7m.primogenitor-8.2.0.buildspec:8.5.0
+content/com/io7m/trasco/com.io7m.trasco-3.0.0.buildspec:3.1.1
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.25
 content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.4
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.2
@@ -78,7 +79,7 @@ content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.13.0
 content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:30
 content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.11.3
-content/nl/basjes/parse/useragent/yauaa/yauaa-7.28.1.buildspec:7.30.0
+content/nl/basjes/parse/useragent/yauaa/yauaa-7.28.1.buildspec:7.31.0
 content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5.3.20
 content/org/jline/jline-3.26.3.buildspec:3.29.0
 content/org/jreleaser/jreleaser-1.14.0.buildspec:1.18.0
