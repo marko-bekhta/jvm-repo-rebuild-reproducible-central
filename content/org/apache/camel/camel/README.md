@@ -646,6 +646,7 @@ rebuilding **7 releases** of org.apache.camel:camel:
 | [4.10.1](https://central.sonatype.com/artifact/org.apache.camel/camel/4.10.1/pom) | | | |
 | [4.10.0](https://central.sonatype.com/artifact/org.apache.camel/camel/4.10.0/pom) | | | |
 | [4.9.0](https://central.sonatype.com/artifact/org.apache.camel/camel/4.9.0/pom) | | | |
+| [4.8.7](https://central.sonatype.com/artifact/org.apache.camel/camel/4.8.7/pom) | | | |
 | [4.8.6](https://central.sonatype.com/artifact/org.apache.camel/camel/4.8.6/pom) | | | |
 | [4.8.5](https://central.sonatype.com/artifact/org.apache.camel/camel/4.8.5/pom) | | | |
 | [4.8.4](https://central.sonatype.com/artifact/org.apache.camel/camel/4.8.4/pom) | | | |
