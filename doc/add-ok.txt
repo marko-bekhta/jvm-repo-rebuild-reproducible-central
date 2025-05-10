@@ -47,7 +47,7 @@ content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-rc1
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.4
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.5
-content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.4.3
+content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.4.4
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.7.5
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-15
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.30
