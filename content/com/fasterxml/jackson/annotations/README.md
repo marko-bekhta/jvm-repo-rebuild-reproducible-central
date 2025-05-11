@@ -13,6 +13,7 @@ rebuilding **25 releases** of com.fasterxml.jackson.core:jackson-annotations:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.0-rc4](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/3.0-rc4/pom) | | | |
 | [3.0-rc3](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/3.0-rc3/pom) | | | |
 | [3.0-rc2](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/3.0-rc2/pom) | | | |
 | [3.0-rc1](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/3.0-rc1/pom) | | | |
