@@ -21,6 +21,7 @@ rebuilding **12 releases** of org.openapitools.openapidiff:openapi-diff-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.1.1](https://central.sonatype.com/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.1.1/pom) | | | |
 | [2.1.0](https://central.sonatype.com/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.1.0/pom) | | | |
 | [2.1.0-beta.12](https://central.sonatype.com/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.1.0-beta.12/pom) | | | |
 | [2.1.0-beta.11](https://central.sonatype.com/artifact/org.openapitools.openapidiff/openapi-diff-parent/2.1.0-beta.11/pom) | [mvn jdk11](openapi-diff-2.1.0-beta.11.buildspec) | [result](openapi-diff-parent-2.1.0-beta.11.buildinfo): [11 :white_check_mark: ](openapi-diff-parent-2.1.0-beta.11.buildcompare) | 16M |
