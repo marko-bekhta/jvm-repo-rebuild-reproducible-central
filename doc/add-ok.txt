@@ -3,7 +3,7 @@ content/ch/qos/logback/logback-1.5.8.buildspec:1.5.18
 content/ch/vorburger/mariaDB4j/mariaDB4j-pom-3.1.0.buildspec:3.2.0
 content/com/flowlogix/flowlogix-9.0.5.buildspec:9.0.10
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.21
-content/com/fasterxml/oss-parent/oss-parent-61.buildspec:65
+content/com/fasterxml/oss-parent/oss-parent-61.buildspec:66
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.0
 content/com/fasterxml/jackson/annotations/jackson-annotations-2.18.0.buildspec:3.0-rc4
 content/com/fasterxml/jackson/core/jackson-core-2.18.0.buildspec:2.19.0
@@ -52,7 +52,7 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.7.5
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-16
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.30
 content/io/trino/trino-459.buildspec:475
-content/io/airlift/airbase/airbase-184.buildspec:258
+content/io/airlift/airbase/airbase-184.buildspec:259
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.22.2
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:32.1.1
@@ -200,7 +200,7 @@ content/org/cyclonedx/cyclonedx-maven-plugin/cyclonedx-maven-plugin-2.8.2.builds
 content/org/eclipse/jkube/jkube-1.17.0.buildspec:1.18.1
 content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.0.alpha2
 content/org/glassfish/build/glassfishbuild-maven-plugin/glassfishbuild-maven-plugin-4.0.1.buildspec:4.1.0
-content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.0.0.Alpha3
+content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.0.0.Beta1
 content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.0.0.CR1
 content/org/itsallcode/openfasttrace-maven-plugin/openfasttrace-maven-plugin-2.2.0.buildspec:2.3.0
 content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.7.3

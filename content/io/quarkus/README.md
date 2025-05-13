@@ -1023,6 +1023,7 @@ rebuilding **3 releases** of io.quarkus:quarkus-project:
 | [3.21.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.21.1/pom) | | | |
 | [3.21.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.21.0/pom) | | | |
 | [3.21.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.21.0.CR1/pom) | | | |
+| [3.20.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.20.1/pom) | | | |
 | [3.20.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.20.0/pom) | | | |
 | [3.20.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.20.0.CR1/pom) | | | |
 | [3.19.4](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.19.4/pom) | | | |
@@ -1053,9 +1054,10 @@ rebuilding **3 releases** of io.quarkus:quarkus-project:
 | [3.16.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.16.1/pom) | | | |
 | [3.16.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.16.0/pom) | | | |
 | [3.16.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.16.0.CR1/pom) | | | |
+| [3.15.5](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.5/pom) | | | |
 | [3.15.4](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.4/pom) | | | |
-| [3.15.3.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.3.1/pom) | | | |
 | [3.15.3](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.3/pom) | | | |
+| [3.15.3.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.3.1/pom) | | | |
 | [3.15.2](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.2/pom) | | | |
 | [3.15.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.1/pom) | [mvn jdk17](quarkus-3.15.1.buildspec) | [result](quarkus-project-3.15.1.buildinfo): [2340 :white_check_mark:  11 :warning:](quarkus-project-3.15.1.buildcompare) | 129M |
 | [3.15.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.0/pom) | [mvn jdk17](quarkus-3.15.0.buildspec) | [result](quarkus-project-3.15.0.buildinfo): [2339 :white_check_mark:  12 :warning:](quarkus-project-3.15.0.buildcompare) | 129M |
