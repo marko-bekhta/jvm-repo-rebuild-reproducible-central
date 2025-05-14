@@ -9,7 +9,7 @@ content/com/fasterxml/jackson/annotations/jackson-annotations-2.18.0.buildspec:3
 content/com/fasterxml/jackson/core/jackson-core-2.18.0.buildspec:2.19.0
 content/com/fasterxml/jackson/databind/jackson-databind-2.18.0.buildspec:2.19.0
 content/com/fasterxml/jackson/jackson-bom/jackson-bom-2.18.0.buildspec:2.19.0
-content/com/fasterxml/jackson/jackson-parent/jackson-parent-2.18.buildspec:2.19
+content/com/fasterxml/jackson/jackson-parent/jackson-parent-2.18.buildspec:2.19.1
 content/com/fasterxml/jackson/jr/jackson-jr-2.18.0.buildspec:2.19.0
 content/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/jackson-dataformat-xml-2.18.0.buildspec:2.19.0
 content/com/fasterxml/jackson/dataformat/jackson-dataformats-binary/jackson-dataformats-binary-2.18.0.buildspec:2.19.0
@@ -44,13 +44,13 @@ content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.27
 content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.4
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.2
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
-content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0-rc1
+content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.0
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.4
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.5
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.4.4
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.7.5
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-16
-content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.30
+content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.31
 content/io/trino/trino-459.buildspec:475
 content/io/airlift/airbase/airbase-184.buildspec:259
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
@@ -73,7 +73,7 @@ content/io/takari/maven/plugins/takari-lifecycle-plugin/takari-lifecycle-plugin-
 content/io/takari/maven/plugins/takari-plugin-testing/takari-plugin-testing-3.0.5.buildspec:3.1.0
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.3
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:1.0.0
-content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.83.6
+content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.83.8
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.4.4
 content/io/wcm/maven/plugins/cq-maven-plugin/cq-maven-plugin-1.2.0.buildspec:1.2.2
 content/io/wcm/maven/plugins/sling-initial-content-transform-maven-plugin/sling-initial-content-transform-maven-plugin-1.1.4.buildspec:1.1.8
