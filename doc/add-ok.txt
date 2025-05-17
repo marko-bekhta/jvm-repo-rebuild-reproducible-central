@@ -85,7 +85,7 @@ content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.13.0
 content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:30
 content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.11.3
 content/nl/basjes/parse/useragent/yauaa/yauaa-7.28.1.buildspec:7.31.0
-content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5.3.20
+content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5.3.21
 content/org/jline/jline-3.26.3.buildspec:3.30.1
 content/org/jreleaser/jreleaser-1.14.0.buildspec:1.18.0
 content/org/apache/activemq/activemq-6.1.3.buildspec:6.1.6
@@ -118,7 +118,7 @@ content/org/apache/jackrabbit/jackrabbit/jackrabbit-2.23.0-beta.buildspec:2.23.1
 content/org/apache/logging/parent/logging-parent-11.3.0.buildspec:12.1.0
 content/org/apache/logging/log4j/log4j/log4j-3.0.0-beta2.buildspec:3.0.0-beta3
 content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
-content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.3.1
+content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.4.0
 content/org/apache/maven/jxr/jxr-3.5.0.buildspec:3.6.0
 content/org/apache/maven/maven/maven-4.0.0-beta-4.buildspec:4.0.0-rc-3
 content/org/apache/maven/parent/maven-parent-43.buildspec:44

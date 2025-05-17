@@ -13,6 +13,7 @@ rebuilding **100 releases** of nl.hsac:hsac-fitnesse-fixtures:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [5.3.21](https://central.sonatype.com/artifact/nl.hsac/hsac-fitnesse-fixtures/5.3.21/pom) | | | |
 | [5.3.20](https://central.sonatype.com/artifact/nl.hsac/hsac-fitnesse-fixtures/5.3.20/pom) | | | |
 | [5.3.19](https://central.sonatype.com/artifact/nl.hsac/hsac-fitnesse-fixtures/5.3.19/pom) | | | |
 | [5.3.18](https://central.sonatype.com/artifact/nl.hsac/hsac-fitnesse-fixtures/5.3.18/pom) | | | |
