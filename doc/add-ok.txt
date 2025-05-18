@@ -17,6 +17,7 @@ content/com/fasterxml/jackson/dataformat/jackson-dataformats-text/jackson-datafo
 content/com/fasterxml/jackson/datatype/jackson-datatype-joda/jackson-datatype-joda-2.18.0.buildspec:2.19.0
 content/com/fasterxml/jackson/datatype/jackson-datatypes-collections/jackson-datatypes-collections-2.18.0.buildspec:2.19.0
 content/com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/jackson-datatypes-misc-parent-2.18.0.buildspec:2.19.0
+content/com/github/psi-probe/psi-probe-5.1.1.buildspec:5.2.0
 content/com/github/hazendaz/7zip/7zip-24.08.buildspec:24.09
 content/com/github/hazendaz/displaytag-doc/displaytag-doc-3.0.3.buildspec:2.7.0
 content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.9.0
@@ -49,7 +50,7 @@ content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.5
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.4.4
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.8.1
-content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-16
+content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-17
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.31
 content/io/trino/trino-459.buildspec:475
 content/io/airlift/airbase/airbase-184.buildspec:260
@@ -141,7 +142,7 @@ content/org/apache/maven/plugins/maven-project-info-reports-plugin/maven-project
 content/org/apache/maven/reporting/maven-reporting-api/maven-reporting-api-4.0.0-M12.buildspec:4.0.0
 content/org/apache/maven/reporting/maven-reporting-exec/maven-reporting-exec-2.0.0-M14.buildspec:2.0.0
 content/org/apache/maven/reporting/maven-reporting-impl/maven-reporting-impl-4.0.0-M15.buildspec:4.0.0
-content/org/apache/maven/resolver/maven-resolver/maven-resolver-2.0.1.buildspec:2.0.8
+content/org/apache/maven/resolver/maven-resolver/maven-resolver-2.0.1.buildspec:2.0.9
 content/org/apache/maven/resolver/maven-resolver-ant-tasks/maven-resolver-ant-tasks-1.5.1.buildspec:1.5.2
 content/org/apache/maven/shared/file-management/file-management-3.1.0.buildspec:3.2.0
 content/org/apache/maven/shared/maven-dependency-analyzer/maven-dependency-analyzer-1.14.1.buildspec:1.16.0
