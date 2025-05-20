@@ -13,6 +13,7 @@ rebuilding **8 releases** of org.sonatype.nexus.archetypes:nexus-format-archetyp
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.0.74](https://central.sonatype.com/artifact/org.sonatype.nexus.archetypes/nexus-format-archetype/1.0.74/pom) | | | |
 | [1.0.73](https://central.sonatype.com/artifact/org.sonatype.nexus.archetypes/nexus-format-archetype/1.0.73/pom) | | | |
 | [1.0.72](https://central.sonatype.com/artifact/org.sonatype.nexus.archetypes/nexus-format-archetype/1.0.72/pom) | | | |
 | [1.0.71](https://central.sonatype.com/artifact/org.sonatype.nexus.archetypes/nexus-format-archetype/1.0.71/pom) | | | |
