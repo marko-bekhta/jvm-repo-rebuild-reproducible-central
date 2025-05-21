@@ -56,6 +56,7 @@ rebuilding **6 releases** of org.apache.jackrabbit:jackrabbit-oak:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.80](https://central.sonatype.com/artifact/org.apache.jackrabbit/oak-parent/1.80/pom) | | | |
 | [1.78.0](https://central.sonatype.com/artifact/org.apache.jackrabbit/oak-parent/1.78.0/pom) | | | |
 | [1.76.0](https://central.sonatype.com/artifact/org.apache.jackrabbit/oak-parent/1.76.0/pom) | | | |
 | [1.74.0](https://central.sonatype.com/artifact/org.apache.jackrabbit/oak-parent/1.74.0/pom) | | | |
