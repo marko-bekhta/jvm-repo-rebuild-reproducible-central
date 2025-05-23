@@ -147,6 +147,7 @@ rebuilding **3 releases** of org.apache.pulsar:pulsar:
 | [4.0.1](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.1/pom) | | | |
 | [4.0.0-preview.1](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.0-preview.1/pom) | | | |
 | [4.0.0](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.0/pom) | | | |
+| [3.3.7](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.3.7/pom) | | | |
 | [3.3.6](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.3.6/pom) | | | |
 | [3.3.5](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.3.5/pom) | | | |
 | [3.3.4](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.3.4/pom) | | | |
