@@ -219,7 +219,7 @@ content/org/jpmml/jpmml-xgboost/jpmml-xgboost-1.8.7.buildspec:1.9.1
 content/org/kordamp/pomchecker/pomchecker-1.13.0.buildspec:1.14.0
 content/org/liquibase/ext/liquibase-percona/liquibase-percona-4.29.2.buildspec:4.31.0
 content/org/mockito/mockito-core/mockito-5.14.1.buildspec:5.18.0
-content/org/mybatis/mybatis2/mybatis2-2.5.0.buildspec:2.6.0
+content/org/mybatis/mybatis2/mybatis2-2.5.0.buildspec:2.6.1
 content/org/mybatis/scripting/mybatis-thymeleaf/mybatis-thymeleaf-1.0.4.buildspec:1.1.0
 content/org/mybatis/spring/boot/mybatis-spring-boot/mybatis-spring-boot-3.0.3.buildspec:3.0.4
 content/org/openapitools/openapidiff/openapi-diff-2.1.0-beta.11.buildspec:2.1.1

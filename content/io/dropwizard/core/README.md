@@ -79,6 +79,7 @@ rebuilding **77 releases** of io.dropwizard:dropwizard-project:
 | [4.0.0-beta.3](https://central.sonatype.com/artifact/io.dropwizard/dropwizard-project/4.0.0-beta.3/pom) | [mvn jdk11](dropwizard-4.0.0-beta.3.buildspec) | [result](dropwizard-project-4.0.0-beta.3.buildinfo): [91 :white_check_mark: ](dropwizard-project-4.0.0-beta.3.buildcompare) | 1.5M |
 | [4.0.0-beta.2](https://central.sonatype.com/artifact/io.dropwizard/dropwizard-project/4.0.0-beta.2/pom) | [mvn jdk11](dropwizard-4.0.0-beta.2.buildspec) | [result](dropwizard-project-4.0.0-beta.2.buildinfo): [91 :white_check_mark: ](dropwizard-project-4.0.0-beta.2.buildcompare) | 1.4M |
 | [4.0.0-beta.1](https://central.sonatype.com/artifact/io.dropwizard/dropwizard-project/4.0.0-beta.1/pom) | [mvn jdk11](dropwizard-4.0.0-beta.1.buildspec) | [result](dropwizard-project-4.0.0-beta.1.buildinfo): [91 :white_check_mark: ](dropwizard-project-4.0.0-beta.1.buildcompare) | 1.4M |
+| [3.0.14](https://central.sonatype.com/artifact/io.dropwizard/dropwizard-project/3.0.14/pom) | | | |
 | [3.0.13](https://central.sonatype.com/artifact/io.dropwizard/dropwizard-project/3.0.13/pom) | | | |
 | [3.0.12](https://central.sonatype.com/artifact/io.dropwizard/dropwizard-project/3.0.12/pom) | | | |
 | [3.0.11](https://central.sonatype.com/artifact/io.dropwizard/dropwizard-project/3.0.11/pom) | | | |
