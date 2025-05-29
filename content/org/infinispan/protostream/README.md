@@ -24,9 +24,9 @@ rebuilding **1 releases** of org.infinispan.protostream:protostream-aggregator:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
-| [6.0.0.Dev08](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.0.Dev08/pom) | | | |
 | [15.0.13.Final](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/15.0.13.Final/pom) | | | |
 | [14.0.0.CR2](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/14.0.0.CR2/pom) | | | |
+| [6.0.0.Dev08](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.0.Dev08/pom) | | | |
 | [6.0.0.Dev07](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.0.Dev07/pom) | | | |
 | [6.0.0.Dev06](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.0.Dev06/pom) | | | |
 | [6.0.0.Dev05](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.0.Dev05/pom) | | | |
@@ -34,6 +34,7 @@ rebuilding **1 releases** of org.infinispan.protostream:protostream-aggregator:
 | [6.0.0.Dev03](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.0.Dev03/pom) | | | |
 | [6.0.0.Dev02](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.0.Dev02/pom) | | | |
 | [6.0.0.Dev01](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.0.Dev01/pom) | | | |
+| [5.0.14.Final](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/5.0.14.Final/pom) | | | |
 | [5.0.13.Final](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/5.0.13.Final/pom) | | | |
 | [5.0.12.Final](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/5.0.12.Final/pom) | | | |
 | [5.0.11.Final](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/5.0.11.Final/pom) | | | |
