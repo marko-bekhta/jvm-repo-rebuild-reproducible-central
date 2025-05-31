@@ -34,6 +34,7 @@ rebuilding **5 releases** of org.hibernate.search:hibernate-search-bom:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [8.0.0.CR1](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.0.0.CR1/pom) | | | |
 | [8.0.0.Beta1](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.0.0.Beta1/pom) | | | |
 | [8.0.0.Alpha3](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.0.0.Alpha3/pom) | | | |
 | [8.0.0.Alpha2](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.0.0.Alpha2/pom) | | | |
