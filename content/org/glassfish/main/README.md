@@ -313,11 +313,13 @@ rebuilding **13 releases** of org.glassfish.main:glassfish-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [8.0.0-JDK17-M12](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-JDK17-M12/pom) | | | |
 | [8.0.0-JDK17-M10](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-JDK17-M10/pom) | | | |
 | [8.0.0-JDK17-M9](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-JDK17-M9/pom) | | | |
 | [8.0.0-JDK17-M7](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-JDK17-M7/pom) | | | |
 | [8.0.0-JDK17-M6](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-JDK17-M6/pom) | | | |
 | [8.0.0-JDK17-M5](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-JDK17-M5/pom) | | | |
+| [8.0.0-M12](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-M12/pom) | | | |
 | [8.0.0-M11](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-M11/pom) | | | |
 | [8.0.0-M10](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-M10/pom) | | | |
 | [8.0.0-M9](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-M9/pom) | | | |
