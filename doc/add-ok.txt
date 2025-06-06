@@ -52,7 +52,7 @@ content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.4.6
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.10.2
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-19
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.31
-content/io/trino/trino-459.buildspec:475
+content/io/trino/trino-459.buildspec:476
 content/io/airlift/airbase/airbase-184.buildspec:265
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.23.0
@@ -163,7 +163,7 @@ content/org/apache/sling/org.apache.sling.caconfig.impl/org.apache.sling.caconfi
 content/org/apache/sling/org.apache.sling.commons.log/org.apache.sling.commons.log-5.5.0.buildspec:6.0.0
 content/org/apache/sling/org.apache.sling.distribution.journal/org.apache.sling.distribution.journal-0.4.0.buildspec:0.5.0
 content/org/apache/sling/org.apache.sling.distribution.journal.messages/org.apache.sling.distribution.journal.messages-0.5.10.buildspec:0.5.12
-content/org/apache/sling/org.apache.sling.engine/org.apache.sling.engine-2.15.16.buildspec:2.16.2
+content/org/apache/sling/org.apache.sling.engine/org.apache.sling.engine-2.15.16.buildspec:2.16.4
 content/org/apache/sling/org.apache.sling.event/org.apache.sling.event-4.3.14.buildspec:4.3.16
 content/org/apache/sling/org.apache.sling.feature/org.apache.sling.feature-2.0.0.buildspec:2.0.4
 content/org/apache/sling/org.apache.sling.feature.analyser/org.apache.sling.feature.analyser-2.0.10.buildspec:2.0.14
@@ -210,7 +210,7 @@ content/org/cyclonedx/cyclonedx-maven-plugin/cyclonedx-maven-plugin-2.8.2.builds
 content/org/eclipse/jkube/jkube-1.17.0.buildspec:1.18.1
 content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.0.beta0
 content/org/glassfish/build/glassfishbuild-maven-plugin/glassfishbuild-maven-plugin-4.0.1.buildspec:4.1.0
-content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.0.0.CR1
+content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.0.0.Final
 content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.0.0.Final
 content/org/itsallcode/openfasttrace-maven-plugin/openfasttrace-maven-plugin-2.2.0.buildspec:2.3.0
 content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.7.3

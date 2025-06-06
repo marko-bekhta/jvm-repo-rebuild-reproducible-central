@@ -13,6 +13,7 @@ rebuilding **18 releases** of org.apache.sling:org.apache.sling.engine:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.16.4](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.engine/2.16.4/pom) | | | |
 | [2.16.2](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.engine/2.16.2/pom) | | | |
 | [2.16.0](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.engine/2.16.0/pom) | | | |
 | [2.15.18](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.engine/2.15.18/pom) | | | |
