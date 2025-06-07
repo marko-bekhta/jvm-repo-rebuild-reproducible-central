@@ -230,7 +230,7 @@ content/org/mybatis/scripting/mybatis-thymeleaf/mybatis-thymeleaf-1.0.4.buildspe
 content/org/mybatis/spring/boot/mybatis-spring-boot/mybatis-spring-boot-3.0.3.buildspec:3.0.4
 content/org/openapitools/openapidiff/openapi-diff-2.1.0-beta.11.buildspec:2.1.2
 content/org/owasp/antisamy/antisamy-1.7.6.buildspec:1.7.8
-content/org/owasp/dependency-check/dependency-check-10.0.4.buildspec:12.1.1
+content/org/owasp/dependency-check/dependency-check-10.0.4.buildspec:12.1.2
 content/org/sentrysoftware/ipmi/ipmi-1.1.00.buildspec:1.2.00
 content/org/sentrysoftware/jawk/jawk-3.3.03.buildspec:3.3.04
 content/org/sentrysoftware/snmp/snmp-1.0.01.buildspec:2.0.00
