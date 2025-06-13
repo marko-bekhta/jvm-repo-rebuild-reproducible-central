@@ -42,7 +42,7 @@ content/com/io7m/quarrel/com.io7m.quarrel-1.6.1.buildspec:1.8.0
 content/com/io7m/seltzer/com.io7m.seltzer-1.1.0.buildspec:1.2.0
 content/com/io7m/trasco/com.io7m.trasco-3.0.0.buildspec:3.1.1
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.27
-content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.7
+content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.8
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.4
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.0.1
@@ -53,7 +53,7 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.10.2
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.1-beta-20
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.31
 content/io/trino/trino-459.buildspec:476
-content/io/airlift/airbase/airbase-184.buildspec:267
+content/io/airlift/airbase/airbase-184.buildspec:268
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.23.0
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:32.1.1
@@ -75,7 +75,7 @@ content/io/takari/maven/plugins/takari-lifecycle-plugin/takari-lifecycle-plugin-
 content/io/takari/maven/plugins/takari-plugin-testing/takari-plugin-testing-3.0.5.buildspec:3.1.1
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:1.5.3
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:1.0.2
-content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.83.14
+content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.83.15
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.5.0
 content/io/wcm/maven/plugins/cq-maven-plugin/cq-maven-plugin-1.2.0.buildspec:1.2.2
 content/io/wcm/maven/plugins/sling-initial-content-transform-maven-plugin/sling-initial-content-transform-maven-plugin-1.1.4.buildspec:1.1.8
@@ -91,7 +91,7 @@ content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5
 content/org/jline/jline-3.26.3.buildspec:3.30.4
 content/org/jreleaser/jreleaser-1.14.0.buildspec:1.18.0
 content/org/apache/activemq/activemq-6.1.3.buildspec:6.1.6
-content/org/apache/apache/apache-33.buildspec:34
+content/org/apache/apache/apache-33.buildspec:35
 content/org/apache/dubbo/dubbo-3.3.0.buildspec:3.3.4
 content/org/apache/helix/helix-1.4.1.buildspec:1.4.3
 content/org/apache/johnzon/johnzon-2.0.1.buildspec:2.0.2
@@ -119,7 +119,7 @@ content/org/apache/felix/maven-bundle-plugin/maven-bundle-plugin-5.1.9.buildspec
 content/org/apache/httpcomponents/parent/httpcomponents-parent-13.buildspec:14
 content/org/apache/jackrabbit/filevault/jackrabbit-filevault-3.8.2.buildspec:3.8.4
 content/org/apache/jackrabbit/jackrabbit/jackrabbit-2.23.0-beta.buildspec:2.23.1-beta
-content/org/apache/logging/parent/logging-parent-11.3.0.buildspec:12.1.0
+content/org/apache/logging/parent/logging-parent-11.3.0.buildspec:12.1.1
 content/org/apache/logging/log4j/log4j/log4j-3.0.0-beta2.buildspec:3.0.0-beta3
 content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
 content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.4.0
@@ -212,7 +212,7 @@ content/org/eclipse/jkube/jkube-1.17.0.buildspec:1.18.1
 content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.0.beta0
 content/org/glassfish/build/glassfishbuild-maven-plugin/glassfishbuild-maven-plugin-4.0.1.buildspec:4.1.0
 content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.0.0.Final
-content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.0.0.Final
+content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.0.1.Final
 content/org/itsallcode/openfasttrace-maven-plugin/openfasttrace-maven-plugin-2.2.0.buildspec:2.3.0
 content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.7.3
 content/org/jpmml/jpmml-h2o/jpmml-h2o-1.2.14.buildspec:1.3.1
