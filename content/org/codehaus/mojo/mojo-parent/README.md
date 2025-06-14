@@ -13,6 +13,7 @@ rebuilding **27 releases** of org.codehaus.mojo:mojo-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [92](https://central.sonatype.com/artifact/org.codehaus.mojo/mojo-parent/92/pom) | | | |
 | [91](https://central.sonatype.com/artifact/org.codehaus.mojo/mojo-parent/91/pom) | | | |
 | [90](https://central.sonatype.com/artifact/org.codehaus.mojo/mojo-parent/90/pom) | | | |
 | [89](https://central.sonatype.com/artifact/org.codehaus.mojo/mojo-parent/89/pom) | | | |
