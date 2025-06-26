@@ -42,7 +42,7 @@ content/com/io7m/quarrel/com.io7m.quarrel-1.6.1.buildspec:1.8.0
 content/com/io7m/seltzer/com.io7m.seltzer-1.1.0.buildspec:1.2.0
 content/com/io7m/trasco/com.io7m.trasco-3.0.0.buildspec:3.1.1
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.27
-content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.8
+content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.9
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.4
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.1.0
@@ -86,7 +86,7 @@ content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.17.6
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:20
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.14.0
-content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:30
+content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:32
 content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.12.0
 content/nl/basjes/maven/release/conventional-commits-version-policy/conventional-commits-version-policy-1.0.7.buildspec:1.0.8
 content/nl/basjes/parse/useragent/yauaa/yauaa-7.28.1.buildspec:7.31.0

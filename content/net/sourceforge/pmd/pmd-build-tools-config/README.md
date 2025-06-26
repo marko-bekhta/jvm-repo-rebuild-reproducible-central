@@ -13,6 +13,7 @@ rebuilding **10 releases** of net.sourceforge.pmd:pmd-build-tools-config:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [32](https://central.sonatype.com/artifact/net.sourceforge.pmd/pmd-build-tools-config/32/pom) | | | |
 | [30](https://central.sonatype.com/artifact/net.sourceforge.pmd/pmd-build-tools-config/30/pom) | | | |
 | [29](https://central.sonatype.com/artifact/net.sourceforge.pmd/pmd-build-tools-config/29/pom) | | | |
 | [28](https://central.sonatype.com/artifact/net.sourceforge.pmd/pmd-build-tools-config/28/pom) | | | |
