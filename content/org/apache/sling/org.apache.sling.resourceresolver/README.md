@@ -13,6 +13,7 @@ rebuilding **11 releases** of org.apache.sling:org.apache.sling.resourceresolver
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.0.0](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.resourceresolver/2.0.0/pom) | | | |
 | [1.12.10](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.resourceresolver/1.12.10/pom) | | | |
 | [1.12.8](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.resourceresolver/1.12.8/pom) | | | |
 | [1.12.6](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.resourceresolver/1.12.6/pom) | | | |
