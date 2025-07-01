@@ -150,7 +150,7 @@ content/org/apache/maven/plugins/maven-project-info-reports-plugin/maven-project
 content/org/apache/maven/reporting/maven-reporting-api/maven-reporting-api-4.0.0-M12.buildspec:4.0.0
 content/org/apache/maven/reporting/maven-reporting-exec/maven-reporting-exec-2.0.0-M14.buildspec:2.0.0
 content/org/apache/maven/reporting/maven-reporting-impl/maven-reporting-impl-4.0.0-M15.buildspec:4.0.0
-content/org/apache/maven/resolver/maven-resolver/maven-resolver-2.0.1.buildspec:2.0.9
+content/org/apache/maven/resolver/maven-resolver/maven-resolver-2.0.1.buildspec:2.0.10
 content/org/apache/maven/resolver/maven-resolver-ant-tasks/maven-resolver-ant-tasks-1.5.1.buildspec:1.5.2
 content/org/apache/maven/shared/file-management/file-management-3.1.0.buildspec:3.2.0
 content/org/apache/maven/shared/maven-dependency-analyzer/maven-dependency-analyzer-1.14.1.buildspec:1.16.0
