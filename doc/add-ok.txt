@@ -45,7 +45,7 @@ content/com/io7m/trasco/com.io7m.trasco-3.0.0.buildspec:3.1.1
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.27
 content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.9
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.4
-content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.4.1
+content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.5.0
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.1.0
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.4
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.5
