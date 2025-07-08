@@ -26,6 +26,7 @@ rebuilding **20 releases** of org.apache.orc:orc:
 | [2.1.2](https://central.sonatype.com/artifact/org.apache.orc/orc/2.1.2/pom) | | | |
 | [2.1.1](https://central.sonatype.com/artifact/org.apache.orc/orc/2.1.1/pom) | | | |
 | [2.1.0](https://central.sonatype.com/artifact/org.apache.orc/orc/2.1.0/pom) | | | |
+| [2.0.6](https://central.sonatype.com/artifact/org.apache.orc/orc/2.0.6/pom) | | | |
 | [2.0.5](https://central.sonatype.com/artifact/org.apache.orc/orc/2.0.5/pom) | | | |
 | [2.0.4](https://central.sonatype.com/artifact/org.apache.orc/orc/2.0.4/pom) | | | |
 | [2.0.3](https://central.sonatype.com/artifact/org.apache.orc/orc/2.0.3/pom) | | | |
