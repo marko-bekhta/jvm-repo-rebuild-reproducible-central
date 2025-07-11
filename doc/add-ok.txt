@@ -50,7 +50,7 @@ content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.1.0
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.4
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.5
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.4.6
-content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.11.4
+content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.11.5
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-2
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.32
 content/io/trino/trino-459.buildspec:476
@@ -242,7 +242,7 @@ content/org/mybatis/mybatis-spring/mybatis-spring-3.0.4.buildspec:3.0.5
 content/org/mybatis/mybatis2/mybatis2-2.5.0.buildspec:2.6.1
 content/org/mybatis/parent/mybatis-parent-45.buildspec:50
 content/org/mybatis/scripting/mybatis-thymeleaf/mybatis-thymeleaf-1.0.4.buildspec:1.1.0
-content/org/mybatis/spring/boot/mybatis-spring-boot/mybatis-spring-boot-3.0.3.buildspec:3.0.4
+content/org/mybatis/spring/boot/mybatis-spring-boot/mybatis-spring-boot-3.0.3.buildspec:3.0.5
 content/org/openapitools/openapidiff/openapi-diff-2.1.0-beta.11.buildspec:2.1.2
 content/org/owasp/antisamy/antisamy-1.7.6.buildspec:1.7.8
 content/org/owasp/dependency-check/dependency-check-10.0.4.buildspec:12.1.3
