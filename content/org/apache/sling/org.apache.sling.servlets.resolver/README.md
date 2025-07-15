@@ -14,6 +14,7 @@ rebuilding **12 releases** of org.apache.sling:org.apache.sling.servlets.resolve
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
 | [3.0.0](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.servlets.resolver/3.0.0/pom) | | | |
+| [2.11.12](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.servlets.resolver/2.11.12/pom) | | | |
 | [2.11.8](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.servlets.resolver/2.11.8/pom) | | | |
 | [2.11.6](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.servlets.resolver/2.11.6/pom) | | | |
 | [2.11.4](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.servlets.resolver/2.11.4/pom) | | | |
