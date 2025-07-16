@@ -1,7 +1,7 @@
 content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.1.0
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.18
 content/ch/vorburger/mariaDB4j/mariaDB4j-pom-3.1.0.buildspec:3.2.0
-content/com/flowlogix/flowlogix-9.0.5.buildspec:9.0.10
+content/com/flowlogix/flowlogix-9.0.5.buildspec:9.0.11
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.22
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:69
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.1
@@ -68,7 +68,7 @@ content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.1
 content/io/fabric8/docker-maven-plugin/docker-maven-plugin-0.45.1.buildspec:0.46.0
 content/io/github/xanthic/cache/cache-api/cache-api-0.6.2.buildspec:0.7.1
 content/io/jstach/jstachio/jstachio-1.3.6.buildspec:1.3.7
-content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.9.0
+content/io/micronaut/maven/micronaut-maven-plugin/micronaut-maven-plugin-4.6.3.buildspec:4.10.0
 content/io/repaint/maven/tiles-maven-plugin/tiles-maven-plugin-2.40.buildspec:2.41
 content/io/takari/takari-archiver/takari-archiver-1.0.3.buildspec:1.0.4
 content/io/takari/maven/maven-timeline/maven-timeline-2.0.2.buildspec:2.0.3
@@ -127,7 +127,7 @@ content/org/apache/logging/parent/logging-parent-11.3.0.buildspec:12.1.1
 content/org/apache/logging/log4j/log4j/log4j-3.0.0-beta2.buildspec:3.0.0-beta3
 content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
 content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.4.0
-content/org/apache/maven/enforcer/maven-enforcer-plugin-3.5.0.buildspec:3.6.0
+content/org/apache/maven/enforcer/maven-enforcer-plugin-3.5.0.buildspec:3.6.1
 content/org/apache/maven/indexer/maven-indexer-7.1.5.buildspec:7.1.6
 content/org/apache/maven/jxr/jxr-3.5.0.buildspec:3.6.0
 content/org/apache/maven/maven/maven-4.0.0-beta-4.buildspec:4.0.0-rc-4
