@@ -110,7 +110,7 @@ content/org/apache/wicket/wicket-parent-10.2.0.buildspec:10.6.0
 content/org/apache/wss4j/wss4j-3.0.3.buildspec:4.0.0
 content/org/apache/activemq/artemis/artemis-2.37.0.buildspec:2.42.0
 content/org/apache/commons/commons-exec/commons-exec-1.4.0.buildspec:1.5.0
-content/org/apache/commons/commons-io/commons-io-2.17.0.buildspec:2.19.0
+content/org/apache/commons/commons-io/commons-io-2.17.0.buildspec:2.20.0
 content/org/apache/commons/commons-jexl3/commons-jexl3-3.4.0.buildspec:3.5.0
 content/org/apache/commons/configuration2/commons-configuration2-2.11.0.buildspec:2.12.0
 content/org/apache/commons/csv/commons-csv-1.12.0.buildspec:1.14.0
