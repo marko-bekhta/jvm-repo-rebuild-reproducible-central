@@ -60,7 +60,7 @@ content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.26.0
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:33.0.0
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:9.2.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.8.0
-content/io/cucumber/messages/messages-26.0.1.buildspec:28.0.0
+content/io/cucumber/messages/messages-26.0.1.buildspec:28.1.0
 content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:6.1.2
 content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0-rc.3
 content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.33
@@ -258,7 +258,7 @@ content/org/sonatype/nexus/archetypes/nexus-format-archetype/nexus-format-archet
 content/org/spdx/java-spdx-library/java-spdx-library-2.0.0-Alpha.buildspec:2.0.0
 content/org/spdx/spdx-maven-plugin/spdx-maven-plugin-0.7.4.buildspec:1.0.2
 content/org/webjars/bootstrap/bootstrap-5.3.3.buildspec:5.3.7
-content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.107
+content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.108
 content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:6.7.2
 content/org/webjars/highcharts/highcharts-11.2.0.buildspec:12.1.2
 content/org/webjars/redoc/redoc-2.1.5.buildspec:2.3.0
