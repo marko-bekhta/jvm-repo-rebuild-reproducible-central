@@ -75,7 +75,7 @@ content/io/takari/maven/maven-timeline/maven-timeline-2.0.2.buildspec:2.0.3
 content/io/takari/maven/takari-smart-builder/takari-smart-builder-1.0.2.buildspec:1.1.0
 content/io/takari/maven/plugins/takari-lifecycle-plugin/takari-lifecycle-plugin-2.2.0.buildspec:2.3.2
 content/io/takari/maven/plugins/takari-plugin-testing/takari-plugin-testing-3.0.5.buildspec:3.1.1
-content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:2.0.1
+content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:2.0.2
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:1.0.2
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.83.16
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.5.0
