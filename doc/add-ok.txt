@@ -54,7 +54,7 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.11.5
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-3
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.32
 content/io/trino/trino-459.buildspec:476
-content/io/airlift/airbase/airbase-184.buildspec:280
+content/io/airlift/airbase/airbase-184.buildspec:281
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.26.0
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:33.0.0
@@ -179,7 +179,7 @@ content/org/apache/sling/org.apache.sling.feature.analyser/org.apache.sling.feat
 content/org/apache/sling/org.apache.sling.fsresource/org.apache.sling.fsresource-2.2.0.buildspec:2.3.0
 content/org/apache/sling/org.apache.sling.installer.core/org.apache.sling.installer.core-3.14.0.buildspec:3.14.4
 content/org/apache/sling/org.apache.sling.installer.factory.configuration/org.apache.sling.installer.factory.configuration-1.4.6.buildspec:1.4.10
-content/org/apache/sling/org.apache.sling.jcr.oak.server/org.apache.sling.jcr.oak.server-1.4.0.buildspec:1.4.2
+content/org/apache/sling/org.apache.sling.jcr.oak.server/org.apache.sling.jcr.oak.server-1.4.0.buildspec:1.4.4
 content/org/apache/sling/org.apache.sling.jcr.packageinit/org.apache.sling.jcr.packageinit-1.0.4.buildspec:1.0.6
 content/org/apache/sling/org.apache.sling.launchpad.test-services/org.apache.sling.launchpad.test-services-12.buildspec:13
 content/org/apache/sling/org.apache.sling.models.jacksonexporter/org.apache.sling.models.jacksonexporter-1.1.4.buildspec:2.0.0
