@@ -44,7 +44,7 @@ content/com/io7m/seltzer/com.io7m.seltzer-1.1.0.buildspec:1.2.0
 content/com/io7m/trasco/com.io7m.trasco-3.0.0.buildspec:3.1.1
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.27
 content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.9
-content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.1.5
+content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.2.0
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.5.0
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.1.0
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.4
@@ -62,7 +62,7 @@ content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:9.2.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.8.0
 content/io/cucumber/messages/messages-26.0.1.buildspec:28.1.0
 content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:6.1.2
-content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0-rc.3
+content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0-rc.4
 content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.33
 content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.1
 content/io/fabric8/docker-maven-plugin/docker-maven-plugin-0.45.1.buildspec:0.46.0
@@ -77,7 +77,7 @@ content/io/takari/maven/plugins/takari-lifecycle-plugin/takari-lifecycle-plugin-
 content/io/takari/maven/plugins/takari-plugin-testing/takari-plugin-testing-3.0.5.buildspec:3.1.1
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:2.0.2
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:1.0.2
-content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.83.16
+content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.90.0
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.5.0
 content/io/wcm/maven/plugins/cq-maven-plugin/cq-maven-plugin-1.2.0.buildspec:1.2.2
 content/io/wcm/maven/plugins/sling-initial-content-transform-maven-plugin/sling-initial-content-transform-maven-plugin-1.1.4.buildspec:1.1.8
@@ -263,7 +263,7 @@ content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:6.7.2
 content/org/webjars/highcharts/highcharts-11.2.0.buildspec:12.1.2
 content/org/webjars/redoc/redoc-2.1.5.buildspec:2.3.0
 content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.1.0
-content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.23.0
+content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.24.0
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.5.1
 content/us/abstracta/jmeter/jmeter-java-dsl/jmeter-java-dsl-1.29.buildspec:1.29.1
 content/world/convex/convex-0.7.15.buildspec:0.8.1
