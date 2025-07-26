@@ -256,7 +256,7 @@ content/org/simplify4u/slf4j-mock/slf4j-mock-2.3.0.buildspec:2.4.0
 content/org/simplify4u/plugins/pgpverify-maven-plugin/pgpverify-maven-plugin-1.18.2.buildspec:1.19.1
 content/org/sonatype/nexus/archetypes/nexus-format-archetype/nexus-format-archetype-1.0.63.buildspec:1.0.74
 content/org/spdx/java-spdx-library/java-spdx-library-2.0.0-Alpha.buildspec:2.0.0
-content/org/spdx/spdx-maven-plugin/spdx-maven-plugin-0.7.4.buildspec:1.0.2
+content/org/spdx/spdx-maven-plugin/spdx-maven-plugin-0.7.4.buildspec:1.0.3
 content/org/webjars/bootstrap/bootstrap-5.3.3.buildspec:5.3.7
 content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.108
 content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:6.7.2
