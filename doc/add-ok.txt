@@ -43,7 +43,7 @@ content/com/io7m/quarrel/com.io7m.quarrel-1.6.1.buildspec:1.8.0
 content/com/io7m/seltzer/com.io7m.seltzer-1.1.0.buildspec:1.2.0
 content/com/io7m/trasco/com.io7m.trasco-3.0.0.buildspec:3.1.1
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.27
-content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.9
+content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.11
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.2.0
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.5.0
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.1.0
@@ -54,9 +54,9 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.11.5
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-4
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.32
 content/io/trino/trino-459.buildspec:476
-content/io/airlift/airbase/airbase-184.buildspec:281
+content/io/airlift/airbase/airbase-184.buildspec:282
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
-content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.26.0
+content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.27.0
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:33.1.0
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:9.2.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.8.0
@@ -202,7 +202,7 @@ content/org/codehaus/modello/modello-2.4.0.buildspec:2.5.1
 content/org/codehaus/mojo/build-helper-maven-plugin/build-helper-maven-plugin-3.6.0.buildspec:3.6.1
 content/org/codehaus/mojo/exec-maven-plugin/exec-maven-plugin-3.4.1.buildspec:3.5.1
 content/org/codehaus/mojo/extra-enforcer-rules/extra-enforcer-rules-1.9.0.buildspec:1.10.0
-content/org/codehaus/mojo/flatten-maven-plugin/flatten-maven-plugin-1.6.0.buildspec:1.7.1
+content/org/codehaus/mojo/flatten-maven-plugin/flatten-maven-plugin-1.6.0.buildspec:1.7.2
 content/org/codehaus/mojo/jaxb2-maven-plugin/jaxb2-maven-plugin-3.2.0.buildspec:3.3.0
 content/org/codehaus/mojo/l10n-maven-plugin/l10n-maven-plugin-1.0.0.buildspec:1.1.0
 content/org/codehaus/mojo/license-maven-plugin/license-maven-plugin-2.4.0.buildspec:2.6.0
