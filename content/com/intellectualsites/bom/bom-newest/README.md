@@ -20,6 +20,7 @@ rebuilding **6 releases** of com.intellectualsites.bom:bom-newest:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.55](https://central.sonatype.com/artifact/com.intellectualsites.bom/bom-newest/1.55/pom) | | | |
 | [1.52](https://central.sonatype.com/artifact/com.intellectualsites.bom/bom-newest/1.52/pom) | | | |
 | [1.51](https://central.sonatype.com/artifact/com.intellectualsites.bom/bom-newest/1.51/pom) | | | |
 | [1.50](https://central.sonatype.com/artifact/com.intellectualsites.bom/bom-newest/1.50/pom) | | | |
