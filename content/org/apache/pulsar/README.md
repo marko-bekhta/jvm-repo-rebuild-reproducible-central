@@ -140,6 +140,7 @@ rebuilding **3 releases** of org.apache.pulsar:pulsar:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.0.6](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.6/pom) | | | |
 | [4.0.5](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.5/pom) | | | |
 | [4.0.4](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.4/pom) | | | |
 | [4.0.3](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.3/pom) | | | |
@@ -147,6 +148,7 @@ rebuilding **3 releases** of org.apache.pulsar:pulsar:
 | [4.0.1](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.1/pom) | | | |
 | [4.0.0-preview.1](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.0-preview.1/pom) | | | |
 | [4.0.0](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.0/pom) | | | |
+| [3.3.8](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.3.8/pom) | | | |
 | [3.3.7](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.3.7/pom) | | | |
 | [3.3.6](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.3.6/pom) | | | |
 | [3.3.5](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.3.5/pom) | | | |
@@ -164,6 +166,7 @@ rebuilding **3 releases** of org.apache.pulsar:pulsar:
 | [3.1.2](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.1.2/pom) | | | |
 | [3.1.1](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.1.1/pom) | | | |
 | [3.1.0](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.1.0/pom) | | | |
+| [3.0.13](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.0.13/pom) | | | |
 | [3.0.12](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.0.12/pom) | | | |
 | [3.0.11](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.0.11/pom) | | | |
 | [3.0.10](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/3.0.10/pom) | | | |
