@@ -125,6 +125,7 @@ rebuilding **6 releases** of org.apache.tika:tika:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.2.2](https://central.sonatype.com/artifact/org.apache.tika/tika/3.2.2/pom) | | | |
 | [3.2.1](https://central.sonatype.com/artifact/org.apache.tika/tika/3.2.1/pom) | | | |
 | [3.2.0](https://central.sonatype.com/artifact/org.apache.tika/tika/3.2.0/pom) | | | |
 | [3.1.0](https://central.sonatype.com/artifact/org.apache.tika/tika/3.1.0/pom) | | | |
