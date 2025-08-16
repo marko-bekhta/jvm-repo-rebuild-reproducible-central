@@ -149,7 +149,7 @@ content/org/apache/maven/plugins/maven-gpg-plugin/maven-gpg-plugin-3.2.7.buildsp
 content/org/apache/maven/plugins/maven-help-plugin/maven-help-plugin-3.5.0.buildspec:3.5.1
 content/org/apache/maven/plugins/maven-install-plugin/maven-install-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-2
 content/org/apache/maven/plugins/maven-invoker-plugin/maven-invoker-plugin-3.8.0.buildspec:3.9.1
-content/org/apache/maven/plugins/maven-javadoc-plugin/maven-javadoc-plugin-3.10.1.buildspec:3.11.2
+content/org/apache/maven/plugins/maven-javadoc-plugin/maven-javadoc-plugin-3.10.1.buildspec:3.11.3
 content/org/apache/maven/plugins/maven-pdf-plugin/maven-pdf-plugin-1.6.1.buildspec:1.6.2
 content/org/apache/maven/plugins/maven-pmd-plugin/maven-pmd-plugin-3.25.0.buildspec:3.27.0
 content/org/apache/maven/plugins/maven-project-info-reports-plugin/maven-project-info-reports-plugin-3.7.0.buildspec:3.9.0
