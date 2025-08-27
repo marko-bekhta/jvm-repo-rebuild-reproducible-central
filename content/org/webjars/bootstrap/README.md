@@ -13,6 +13,7 @@ rebuilding **8 releases** of org.webjars:bootstrap:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [5.3.8](https://central.sonatype.com/artifact/org.webjars/bootstrap/5.3.8/pom) | | | |
 | [5.3.7](https://central.sonatype.com/artifact/org.webjars/bootstrap/5.3.7/pom) | | | |
 | [5.3.6](https://central.sonatype.com/artifact/org.webjars/bootstrap/5.3.6/pom) | | | |
 | [5.3.5](https://central.sonatype.com/artifact/org.webjars/bootstrap/5.3.5/pom) | | | |
