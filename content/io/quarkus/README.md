@@ -1013,6 +1013,7 @@ rebuilding **3 releases** of io.quarkus:quarkus-project:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.26.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.26.1/pom) | | | |
 | [3.26.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.26.0/pom) | | | |
 | [3.26.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.26.0.CR1/pom) | | | |
 | [3.25.4](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.25.4/pom) | | | |
@@ -1046,6 +1047,7 @@ rebuilding **3 releases** of io.quarkus:quarkus-project:
 | [3.21.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.21.0/pom) | | | |
 | [3.21.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.21.0.CR1/pom) | | | |
 | [3.20.2](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.20.2/pom) | | | |
+| [3.20.2.2](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.20.2.2/pom) | | | |
 | [3.20.2.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.20.2.1/pom) | | | |
 | [3.20.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.20.1/pom) | | | |
 | [3.20.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.20.0/pom) | | | |
@@ -1079,6 +1081,7 @@ rebuilding **3 releases** of io.quarkus:quarkus-project:
 | [3.16.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.16.0/pom) | | | |
 | [3.16.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.16.0.CR1/pom) | | | |
 | [3.15.6](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.6/pom) | | | |
+| [3.15.6.2](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.6.2/pom) | | | |
 | [3.15.6.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.6.1/pom) | | | |
 | [3.15.5](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.5/pom) | | | |
 | [3.15.4](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.15.4/pom) | | | |
