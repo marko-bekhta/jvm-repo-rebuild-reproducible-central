@@ -13,6 +13,7 @@ rebuilding **7 releases** of org.apache.sling:org.apache.sling.models.impl:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.0.0](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.models.impl/2.0.0/pom) | | | |
 | [1.7.8](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.models.impl/1.7.8/pom) | | | |
 | [1.7.6](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.models.impl/1.7.6/pom) | | | |
 | [1.7.4](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.models.impl/1.7.4/pom) | | | |
