@@ -52,7 +52,7 @@ content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.4.0
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.4
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.6
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.5.0
-content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.6.0
+content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.6.1
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.12.0
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-9
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.33
@@ -203,7 +203,7 @@ content/org/apache/sling/org.apache.sling.starter.content/org.apache.sling.start
 content/org/apache/sling/org.apache.sling.testing.clients/org.apache.sling.testing.clients-3.0.24.buildspec:3.1.0
 content/org/apache/sling/org.apache.sling.testing.osgi-mock/org.apache.sling.testing.osgi-mock-3.5.0.buildspec:3.5.2
 content/org/apache/sling/org.apache.sling.testing.resourceresolver-mock/org.apache.sling.testing.resourceresolver-mock-1.5.0.buildspec:2.0.0
-content/org/apache/sling/org.apache.sling.testing.sling-mock/org.apache.sling.testing.sling-mock-3.5.2.buildspec:3.5.4
+content/org/apache/sling/org.apache.sling.testing.sling-mock/org.apache.sling.testing.sling-mock-3.5.2.buildspec:4.0.0
 content/org/apache/sling/org.apache.sling.xss/org.apache.sling.xss-2.4.2.buildspec:2.4.6
 content/org/apache/sling/slingfeature-maven-plugin/slingfeature-maven-plugin-1.9.0.buildspec:1.9.2
 content/org/apache/tomee/jakartaee-api/jakartaee-api-10.0-M2.buildspec:10.0.1
