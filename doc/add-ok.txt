@@ -27,7 +27,7 @@ content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.
 content/com/github/hazendaz/maven/whitespace-maven-plugin/whitespace-maven-plugin-1.4.0.buildspec:1.5.0
 content/com/github/hazendaz/maven/yuicompressor-maven-plugin/yuicompressor-maven-plugin-2.1.0.buildspec:2.2.0
 content/com/github/marschall/jakarta-jms-adapter/jakarta-jms-adapter-1.4.1.buildspec:1.6.0
-content/com/github/spotbugs/spotbugs-maven-plugin/spotbugs-maven-plugin-4.8.6.3.buildspec:4.9.4.1
+content/com/github/spotbugs/spotbugs-maven-plugin/spotbugs-maven-plugin-4.8.6.3.buildspec:4.9.4.2
 content/com/github/veithen/daemon/daemon-0.6.3.buildspec:0.6.4
 content/com/github/veithen/parent/veithen-parent-52.buildspec:55
 content/com/github/veithen/maven/hermetic-maven-plugin/hermetic-maven-plugin-0.8.0.buildspec:0.9.0
@@ -57,13 +57,13 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.12.0
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-10
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.33
 content/io/trino/trino-459.buildspec:476
-content/io/airlift/airbase/airbase-184.buildspec:296
+content/io/airlift/airbase/airbase-184.buildspec:297
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.28.1
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:34.0.0
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:9.2.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.8.1
-content/io/cucumber/messages/messages-26.0.1.buildspec:28.1.0
+content/io/cucumber/messages/messages-26.0.1.buildspec:29.0.1
 content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:6.1.2
 content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0-rc.5
 content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.36
@@ -204,7 +204,7 @@ content/org/apache/sling/org.apache.sling.testing.clients/org.apache.sling.testi
 content/org/apache/sling/org.apache.sling.testing.osgi-mock/org.apache.sling.testing.osgi-mock-3.5.0.buildspec:3.5.2
 content/org/apache/sling/org.apache.sling.testing.resourceresolver-mock/org.apache.sling.testing.resourceresolver-mock-1.5.0.buildspec:2.0.0
 content/org/apache/sling/org.apache.sling.testing.sling-mock/org.apache.sling.testing.sling-mock-3.5.2.buildspec:4.0.0
-content/org/apache/sling/org.apache.sling.xss/org.apache.sling.xss-2.4.2.buildspec:2.4.6
+content/org/apache/sling/org.apache.sling.xss/org.apache.sling.xss-2.4.2.buildspec:2.4.8
 content/org/apache/sling/slingfeature-maven-plugin/slingfeature-maven-plugin-1.9.0.buildspec:1.9.2
 content/org/apache/tomee/jakartaee-api/jakartaee-api-10.0-M2.buildspec:10.0.1
 content/org/chabala/brick/brick-control-lab/brick-control-lab-0.2.1.buildspec:0.2.2
@@ -235,7 +235,7 @@ content/org/cyclonedx/cyclonedx-core-java/cyclonedx-core-java-9.0.5.buildspec:10
 content/org/cyclonedx/cyclonedx-maven-plugin/cyclonedx-maven-plugin-2.8.2.buildspec:2.9.1
 content/org/eclipse/jkube/jkube-1.17.0.buildspec:1.18.1
 content/org/eclipse/daanse/org.eclipse.daanse.pom.parent/org.eclipse.daanse.pom.parent-0.0.2.buildspec:0.0.4
-content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.0
+content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.1
 content/org/glassfish/build/glassfishbuild-maven-plugin/glassfishbuild-maven-plugin-4.0.1.buildspec:4.1.0
 content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.1.1.Final
 content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.1.0.Alpha1
