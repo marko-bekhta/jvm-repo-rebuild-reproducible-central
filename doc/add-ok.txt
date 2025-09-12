@@ -61,7 +61,7 @@ content/io/airlift/airbase/airbase-184.buildspec:298
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.28.2
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:35.0.0
-content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:9.2.0
+content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:10.0.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.9.0
 content/io/cucumber/messages/messages-26.0.1.buildspec:29.0.1
 content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:6.1.2
@@ -89,7 +89,7 @@ content/io/wcm/tooling/commons/crx-packmgr-helper/wcm-crx-packmgr-helper-2.1.6.b
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.17.7
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:20
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
-content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.16.0
+content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.17.0
 content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:34
 content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.12.0
 content/nl/basjes/maven/release/conventional-commits-version-policy/conventional-commits-version-policy-1.0.7.buildspec:1.0.8
