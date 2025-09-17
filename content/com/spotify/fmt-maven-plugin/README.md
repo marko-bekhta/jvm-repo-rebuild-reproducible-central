@@ -13,6 +13,7 @@ rebuilding **7 releases** of com.spotify.fmt:fmt-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.29](https://central.sonatype.com/artifact/com.spotify.fmt/fmt-maven-plugin/2.29/pom) | | | |
 | [2.28](https://central.sonatype.com/artifact/com.spotify.fmt/fmt-maven-plugin/2.28/pom) | | | |
 | [2.27](https://central.sonatype.com/artifact/com.spotify.fmt/fmt-maven-plugin/2.27/pom) | | | |
 | [2.25](https://central.sonatype.com/artifact/com.spotify.fmt/fmt-maven-plugin/2.25/pom) | | | |
