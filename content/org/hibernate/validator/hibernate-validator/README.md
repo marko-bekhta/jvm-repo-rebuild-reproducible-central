@@ -22,6 +22,7 @@ rebuilding **2 releases** of org.hibernate.validator:hibernate-validator:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [9.1.0.Alpha2](https://central.sonatype.com/artifact/org.hibernate.validator/hibernate-validator/9.1.0.Alpha2/pom) | | | |
 | [9.1.0.Alpha1](https://central.sonatype.com/artifact/org.hibernate.validator/hibernate-validator/9.1.0.Alpha1/pom) | | | |
 | [9.0.1.Final](https://central.sonatype.com/artifact/org.hibernate.validator/hibernate-validator/9.0.1.Final/pom) | | | |
 | [9.0.0.Final](https://central.sonatype.com/artifact/org.hibernate.validator/hibernate-validator/9.0.0.Final/pom) | | | |
