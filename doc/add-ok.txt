@@ -54,7 +54,7 @@ content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.6
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.5.0
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.6.1
-content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.13.5
+content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.13.6
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-10
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.33
 content/io/trino/trino-459.buildspec:476
@@ -153,7 +153,7 @@ content/org/apache/maven/plugins/maven-gpg-plugin/maven-gpg-plugin-3.2.7.buildsp
 content/org/apache/maven/plugins/maven-help-plugin/maven-help-plugin-3.5.0.buildspec:3.5.1
 content/org/apache/maven/plugins/maven-install-plugin/maven-install-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-2
 content/org/apache/maven/plugins/maven-invoker-plugin/maven-invoker-plugin-3.8.0.buildspec:3.9.1
-content/org/apache/maven/plugins/maven-javadoc-plugin/maven-javadoc-plugin-3.10.1.buildspec:3.11.3
+content/org/apache/maven/plugins/maven-javadoc-plugin/maven-javadoc-plugin-3.10.1.buildspec:3.12.0
 content/org/apache/maven/plugins/maven-pdf-plugin/maven-pdf-plugin-1.6.1.buildspec:1.6.2
 content/org/apache/maven/plugins/maven-pmd-plugin/maven-pmd-plugin-3.25.0.buildspec:3.27.0
 content/org/apache/maven/plugins/maven-project-info-reports-plugin/maven-project-info-reports-plugin-3.7.0.buildspec:3.9.0
@@ -192,6 +192,7 @@ content/org/apache/sling/org.apache.sling.jcr.jackrabbit.accessmanager/org.apach
 content/org/apache/sling/org.apache.sling.jcr.jackrabbit.usermanager/org.apache.sling.jcr.jackrabbit.usermanager-2.2.30.buildspec:3.0.0
 content/org/apache/sling/org.apache.sling.jcr.oak.server/org.apache.sling.jcr.oak.server-1.4.0.buildspec:1.4.4
 content/org/apache/sling/org.apache.sling.jcr.packageinit/org.apache.sling.jcr.packageinit-1.0.4.buildspec:1.0.6
+content/org/apache/sling/org.apache.sling.jcr.resource/org.apache.sling.jcr.resource-3.3.2.buildspec:3.3.4
 content/org/apache/sling/org.apache.sling.launchpad.test-services/org.apache.sling.launchpad.test-services-12.buildspec:13
 content/org/apache/sling/org.apache.sling.models.api/org.apache.sling.models.api-1.5.4.buildspec:2.0.0
 content/org/apache/sling/org.apache.sling.models.jacksonexporter/org.apache.sling.models.jacksonexporter-1.1.4.buildspec:2.0.0
@@ -215,7 +216,7 @@ content/org/codehaus/modello/modello-2.4.0.buildspec:2.5.1
 content/org/codehaus/mojo/build-helper-maven-plugin/build-helper-maven-plugin-3.6.0.buildspec:3.6.1
 content/org/codehaus/mojo/exec-maven-plugin/exec-maven-plugin-3.4.1.buildspec:3.5.1
 content/org/codehaus/mojo/extra-enforcer-rules/extra-enforcer-rules-1.9.0.buildspec:1.10.0
-content/org/codehaus/mojo/flatten-maven-plugin/flatten-maven-plugin-1.6.0.buildspec:1.7.2
+content/org/codehaus/mojo/flatten-maven-plugin/flatten-maven-plugin-1.6.0.buildspec:1.7.3
 content/org/codehaus/mojo/jaxb2-maven-plugin/jaxb2-maven-plugin-3.2.0.buildspec:3.3.0
 content/org/codehaus/mojo/l10n-maven-plugin/l10n-maven-plugin-1.0.0.buildspec:1.1.0
 content/org/codehaus/mojo/license-maven-plugin/license-maven-plugin-2.4.0.buildspec:2.6.0

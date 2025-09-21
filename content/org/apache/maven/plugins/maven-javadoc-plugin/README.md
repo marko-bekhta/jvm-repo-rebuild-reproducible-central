@@ -13,6 +13,7 @@ rebuilding **14 releases** of org.apache.maven.plugins:maven-javadoc-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.12.0](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-javadoc-plugin/3.12.0/pom) | | | |
 | [3.11.3](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-javadoc-plugin/3.11.3/pom) | | | |
 | [3.11.2](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-javadoc-plugin/3.11.2/pom) | | | |
 | [3.11.1](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-javadoc-plugin/3.11.1/pom) | | | |

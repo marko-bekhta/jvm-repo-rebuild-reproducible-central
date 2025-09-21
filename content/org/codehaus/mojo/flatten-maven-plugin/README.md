@@ -13,6 +13,7 @@ rebuilding **6 releases** of org.codehaus.mojo:flatten-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.7.3](https://central.sonatype.com/artifact/org.codehaus.mojo/flatten-maven-plugin/1.7.3/pom) | | | |
 | [1.7.2](https://central.sonatype.com/artifact/org.codehaus.mojo/flatten-maven-plugin/1.7.2/pom) | | | |
 | [1.7.1](https://central.sonatype.com/artifact/org.codehaus.mojo/flatten-maven-plugin/1.7.1/pom) | | | |
 | [1.7.0](https://central.sonatype.com/artifact/org.codehaus.mojo/flatten-maven-plugin/1.7.0/pom) | | | |
