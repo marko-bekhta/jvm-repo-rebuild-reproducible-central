@@ -13,6 +13,7 @@ rebuilding **5 releases** of org.codehaus.mojo:license-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.7.0](https://central.sonatype.com/artifact/org.codehaus.mojo/license-maven-plugin/2.7.0/pom) | | | |
 | [2.6.0](https://central.sonatype.com/artifact/org.codehaus.mojo/license-maven-plugin/2.6.0/pom) | | | |
 | [2.5.0](https://central.sonatype.com/artifact/org.codehaus.mojo/license-maven-plugin/2.5.0/pom) | | | |
 | [2.4.0](https://central.sonatype.com/artifact/org.codehaus.mojo/license-maven-plugin/2.4.0/pom) | [mvn jdk21](license-maven-plugin-2.4.0.buildspec) | [result](license-maven-plugin-2.4.0.buildinfo): [5 :white_check_mark: ](license-maven-plugin-2.4.0.buildcompare) | 2.0M |
