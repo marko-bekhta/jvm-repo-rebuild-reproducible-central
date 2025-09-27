@@ -1,7 +1,7 @@
 content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.1.0
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.18
 content/ch/vorburger/mariaDB4j/mariaDB4j-pom-3.1.0.buildspec:3.2.0
-content/com/flowlogix/flowlogix-9.0.5.buildspec:10.0.2
+content/com/flowlogix/flowlogix-9.0.5.buildspec:10.0.3
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.23
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:71
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.1
@@ -51,7 +51,7 @@ content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.2.0
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.5.0
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.6.0
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.4
-content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.1.6
+content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.5.0
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.6.1
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.13.7
