@@ -1,7 +1,7 @@
 content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.1.0
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.19
 content/ch/vorburger/mariaDB4j/mariaDB4j-pom-3.1.0.buildspec:3.2.0
-content/com/flowlogix/flowlogix-9.0.5.buildspec:10.0.3
+content/com/flowlogix/flowlogix-9.0.5.buildspec:10.0.4
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.23
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:72
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.1
@@ -58,9 +58,9 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.13.7
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-10
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.33
 content/io/trino/trino-459.buildspec:477
-content/io/airlift/airbase/airbase-184.buildspec:307
+content/io/airlift/airbase/airbase-184.buildspec:308
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
-content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.29.0
+content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.30.0
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:35.1.0
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:10.0.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.9.0
@@ -104,7 +104,7 @@ content/org/apache/dubbo/dubbo-3.3.0.buildspec:3.3.5
 content/org/apache/helix/helix-1.4.1.buildspec:1.4.3
 content/org/apache/johnzon/johnzon-2.0.1.buildspec:2.0.2
 content/org/apache/mina/mina-2.2.3.buildspec:2.2.4
-content/org/apache/orc/orc-2.0.2.buildspec:2.2.0
+content/org/apache/orc/orc-2.0.2.buildspec:2.2.1
 content/org/apache/ratis/ratis-3.1.1.buildspec:3.2.0
 content/org/apache/shiro/shiro-2.0.1.buildspec:2.0.5
 content/org/apache/struts/struts2-6.6.0.buildspec:7.0.3
@@ -225,7 +225,7 @@ content/org/codehaus/mojo/mrm/mrm-1.6.0.buildspec:1.7.0
 content/org/codehaus/mojo/taglist-maven-plugin/taglist-maven-plugin-3.1.0.buildspec:3.2.1
 content/org/codehaus/mojo/tidy-maven-plugin/tidy-maven-plugin-1.3.0.buildspec:1.4.0
 content/org/codehaus/mojo/versions-maven-plugin/versions-maven-plugin-2.17.1.buildspec:2.19.1
-content/org/codehaus/plexus/plexus-archiver/plexus-archiver-4.10.0.buildspec:4.10.1
+content/org/codehaus/plexus/plexus-archiver/plexus-archiver-4.10.0.buildspec:4.10.2
 content/org/codehaus/plexus/plexus-classworlds/plexus-classworlds-2.8.0.buildspec:2.9.0
 content/org/codehaus/plexus/plexus-interactivity/plexus-interactivity-1.3.buildspec:1.4
 content/org/codehaus/plexus/plexus-interpolation/plexus-interpolation-1.27.buildspec:1.28
