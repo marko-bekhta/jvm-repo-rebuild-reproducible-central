@@ -49,8 +49,8 @@ content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.29
 content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.12
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.2.0
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.5.0
-content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.6.0
-content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.4
+content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.7.1
+content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.5
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.5.0
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.6.1
@@ -80,7 +80,7 @@ content/io/takari/maven/takari-smart-builder/takari-smart-builder-1.0.2.buildspe
 content/io/takari/maven/plugins/takari-lifecycle-plugin/takari-lifecycle-plugin-2.2.0.buildspec:2.3.2
 content/io/takari/maven/plugins/takari-plugin-testing/takari-plugin-testing-3.0.5.buildspec:3.1.1
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:2.1.0
-content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:1.0.2
+content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:1.1.0
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.90.2
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.6.0
 content/io/wcm/maven/plugins/cq-maven-plugin/cq-maven-plugin-1.2.0.buildspec:1.2.2
@@ -134,7 +134,7 @@ content/org/apache/logging/parent/logging-parent-11.3.0.buildspec:12.1.1
 content/org/apache/logging/log4j/log4j/log4j-3.0.0-beta2.buildspec:3.0.0-beta3
 content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
 content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.4.0
-content/org/apache/maven/enforcer/maven-enforcer-plugin-3.5.0.buildspec:3.6.1
+content/org/apache/maven/enforcer/maven-enforcer-plugin-3.5.0.buildspec:3.6.2
 content/org/apache/maven/indexer/maven-indexer-7.1.5.buildspec:7.1.6
 content/org/apache/maven/jxr/jxr-3.5.0.buildspec:3.6.0
 content/org/apache/maven/maven/maven-4.0.0-beta-4.buildspec:4.0.0-rc-4
@@ -142,11 +142,11 @@ content/org/apache/maven/parent/maven-parent-43.buildspec:45
 content/org/apache/maven/surefire/surefire-3.5.0.buildspec:3.5.4
 content/org/apache/maven/doxia/doxia-sitetools/doxia-sitetools-2.0.0-M19.buildspec:2.0.0
 content/org/apache/maven/plugin-testing/maven-plugin-testing/maven-plugin-testing-4.0.0-beta-1.buildspec:4.0.0-beta-4
-content/org/apache/maven/plugins/maven-artifact-plugin/maven-artifact-plugin-3.5.1.buildspec:3.6.0
+content/org/apache/maven/plugins/maven-artifact-plugin/maven-artifact-plugin-3.5.1.buildspec:3.6.1
 content/org/apache/maven/plugins/maven-checkstyle-plugin/maven-checkstyle-plugin-3.5.0.buildspec:3.6.0
 content/org/apache/maven/plugins/maven-clean-plugin/maven-clean-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-2
 content/org/apache/maven/plugins/maven-compiler-plugin/maven-compiler-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-2
-content/org/apache/maven/plugins/maven-dependency-plugin/maven-dependency-plugin-3.8.0.buildspec:3.8.1
+content/org/apache/maven/plugins/maven-dependency-plugin/maven-dependency-plugin-3.8.0.buildspec:3.9.0
 content/org/apache/maven/plugins/maven-deploy-plugin/maven-deploy-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-2
 content/org/apache/maven/plugins/maven-ear-plugin/maven-ear-plugin-3.3.0.buildspec:3.4.0
 content/org/apache/maven/plugins/maven-gpg-plugin/maven-gpg-plugin-3.2.7.buildspec:3.2.8

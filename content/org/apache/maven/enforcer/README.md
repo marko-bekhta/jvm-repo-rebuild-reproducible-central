@@ -22,6 +22,7 @@ rebuilding **7 releases** of org.apache.maven.enforcer:enforcer:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.6.2](https://central.sonatype.com/artifact/org.apache.maven.enforcer/enforcer/3.6.2/pom) | | | |
 | [3.6.1](https://central.sonatype.com/artifact/org.apache.maven.enforcer/enforcer/3.6.1/pom) | | | |
 | [3.6.0](https://central.sonatype.com/artifact/org.apache.maven.enforcer/enforcer/3.6.0/pom) | | | |
 | [3.5.0](https://central.sonatype.com/artifact/org.apache.maven.enforcer/enforcer/3.5.0/pom) | [mvn jdk21](maven-enforcer-plugin-3.5.0.buildspec) | [result](enforcer-3.5.0.buildinfo): [24 :white_check_mark: ](enforcer-3.5.0.buildcompare) | 2.2M |
