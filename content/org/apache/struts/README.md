@@ -59,6 +59,7 @@ rebuilding **23 releases** of org.apache.struts:struts2-parent:
 | -- | --------- | ------ | -- |
 | [7.0.3](https://central.sonatype.com/artifact/org.apache.struts/struts2-parent/7.0.3/pom) | | | |
 | [7.0.0](https://central.sonatype.com/artifact/org.apache.struts/struts2-parent/7.0.0/pom) | | | |
+| [6.8.0](https://central.sonatype.com/artifact/org.apache.struts/struts2-parent/6.8.0/pom) | | | |
 | [6.7.4](https://central.sonatype.com/artifact/org.apache.struts/struts2-parent/6.7.4/pom) | | | |
 | [6.7.0](https://central.sonatype.com/artifact/org.apache.struts/struts2-parent/6.7.0/pom) | | | |
 | [6.6.1](https://central.sonatype.com/artifact/org.apache.struts/struts2-parent/6.6.1/pom) | | | |
