@@ -270,6 +270,7 @@ rebuilding **14 releases** of org.eclipse.jetty:jetty-project:
 | [12.1.0.alpha2](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.1.0.alpha2/pom) | | | |
 | [12.1.0.alpha1](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.1.0.alpha1/pom) | | | |
 | [12.1.0.alpha0](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.1.0.alpha0/pom) | | | |
+| [12.0.28](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.0.28/pom) | | | |
 | [12.0.27](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.0.27/pom) | | | |
 | [12.0.26](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.0.26/pom) | | | |
 | [12.0.25](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.0.25/pom) | | | |
