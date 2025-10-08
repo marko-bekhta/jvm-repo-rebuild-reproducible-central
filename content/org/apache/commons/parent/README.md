@@ -13,6 +13,7 @@ rebuilding **24 releases** of org.apache.commons:commons-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [89](https://central.sonatype.com/artifact/org.apache.commons/commons-parent/89/pom) | | | |
 | [88](https://central.sonatype.com/artifact/org.apache.commons/commons-parent/88/pom) | | | |
 | [87](https://central.sonatype.com/artifact/org.apache.commons/commons-parent/87/pom) | | | |
 | [86](https://central.sonatype.com/artifact/org.apache.commons/commons-parent/86/pom) | | | |
