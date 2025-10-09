@@ -62,7 +62,7 @@ content/io/airlift/airbase/airbase-184.buildspec:314
 content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:11.0.0
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.30.0
-content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:35.1.0
+content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:36.0.0
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:10.0.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.9.0
 content/io/cucumber/messages/messages-26.0.1.buildspec:30.1.0
@@ -88,7 +88,7 @@ content/io/wcm/maven/plugins/cq-maven-plugin/cq-maven-plugin-1.2.0.buildspec:1.2
 content/io/wcm/maven/plugins/sling-initial-content-transform-maven-plugin/sling-initial-content-transform-maven-plugin-1.1.4.buildspec:1.1.8
 content/io/wcm/tooling/commons/content-package-builder/wcm-content-package-builder-1.7.4.buildspec:1.7.6
 content/io/wcm/tooling/commons/crx-packmgr-helper/wcm-crx-packmgr-helper-2.1.6.buildspec:2.4.0
-content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.17.7
+content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.17.8
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:20
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.17.0
@@ -214,7 +214,9 @@ content/org/apache/sling/slingfeature-maven-plugin/slingfeature-maven-plugin-1.9
 content/org/apache/tomee/jakartaee-api/jakartaee-api-10.0-M2.buildspec:10.0.1
 content/org/chabala/brick/brick-control-lab/brick-control-lab-0.2.1.buildspec:0.2.2
 content/org/codehaus/modello/modello-2.4.0.buildspec:2.5.1
+content/org/codehaus/mojo/animal-sniffer/animal-sniffer-1.24.buildspec:1.26
 content/org/codehaus/mojo/build-helper-maven-plugin/build-helper-maven-plugin-3.6.0.buildspec:3.6.1
+content/org/codehaus/mojo/cassandra-maven-plugin/cassandra-maven-plugin-4.0.0.buildspec:4.1.10.0
 content/org/codehaus/mojo/exec-maven-plugin/exec-maven-plugin-3.4.1.buildspec:3.6.1
 content/org/codehaus/mojo/extra-enforcer-rules/extra-enforcer-rules-1.9.0.buildspec:1.11.0
 content/org/codehaus/mojo/flatten-maven-plugin/flatten-maven-plugin-1.6.0.buildspec:1.7.3
