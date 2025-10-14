@@ -19,10 +19,10 @@ content/com/fasterxml/jackson/datatype/jackson-datatypes-collections/jackson-dat
 content/com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/jackson-datatypes-misc-parent-2.18.0.buildspec:2.20.0
 content/com/github/psi-probe/psi-probe-5.1.1.buildspec:5.3.0
 content/com/github/hazendaz/7zip/7zip-24.08.buildspec:25.01
-content/com/github/hazendaz/displaytag-doc/displaytag-doc-3.0.3.buildspec:3.3.0
+content/com/github/hazendaz/displaytag-doc/displaytag-doc-3.0.3.buildspec:3.4.0
 content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.11.1
 content/com/github/hazendaz/maven/coveralls-maven-plugin/coveralls-maven-plugin-4.5.0-M5.buildspec:5.0.0
-content/com/github/hazendaz/maven/directory-maven-plugin/directory-maven-plugin-1.2.0.buildspec:1.2.1
+content/com/github/hazendaz/maven/directory-maven-plugin/directory-maven-plugin-1.2.0.buildspec:1.2.2
 content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.9.2
 content/com/github/hazendaz/maven/whitespace-maven-plugin/whitespace-maven-plugin-1.4.0.buildspec:1.5.0
 content/com/github/hazendaz/maven/yuicompressor-maven-plugin/yuicompressor-maven-plugin-2.1.0.buildspec:2.2.0
@@ -58,7 +58,7 @@ content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.14.0
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-10
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.33
 content/io/trino/trino-459.buildspec:477
-content/io/airlift/airbase/airbase-184.buildspec:315
+content/io/airlift/airbase/airbase-184.buildspec:316
 content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:11.0.0
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.30.0
@@ -66,7 +66,7 @@ content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:36.0.0
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:10.0.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.9.0
 content/io/cucumber/messages/messages-26.0.1.buildspec:30.1.0
-content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:7.0.0
+content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:8.0.0
 content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0
 content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.37
 content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.5
@@ -80,9 +80,9 @@ content/io/takari/maven/maven-timeline/maven-timeline-2.0.2.buildspec:2.0.3
 content/io/takari/maven/takari-smart-builder/takari-smart-builder-1.0.2.buildspec:1.1.0
 content/io/takari/maven/plugins/takari-lifecycle-plugin/takari-lifecycle-plugin-2.2.0.buildspec:2.3.2
 content/io/takari/maven/plugins/takari-plugin-testing/takari-plugin-testing-3.0.5.buildspec:3.1.1
-content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:2.1.0
+content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:2.1.1
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:1.1.0
-content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.90.2
+content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.91.0
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.6.0
 content/io/wcm/maven/plugins/cq-maven-plugin/cq-maven-plugin-1.2.0.buildspec:1.2.2
 content/io/wcm/maven/plugins/sling-initial-content-transform-maven-plugin/sling-initial-content-transform-maven-plugin-1.1.4.buildspec:1.1.8
@@ -209,6 +209,7 @@ content/org/apache/sling/org.apache.sling.testing.clients/org.apache.sling.testi
 content/org/apache/sling/org.apache.sling.testing.osgi-mock/org.apache.sling.testing.osgi-mock-3.5.0.buildspec:3.5.2
 content/org/apache/sling/org.apache.sling.testing.resourceresolver-mock/org.apache.sling.testing.resourceresolver-mock-1.5.0.buildspec:2.0.0
 content/org/apache/sling/org.apache.sling.testing.sling-mock/org.apache.sling.testing.sling-mock-3.5.2.buildspec:4.0.0
+content/org/apache/sling/org.apache.sling.testing.sling-mock-oak/org.apache.sling.testing.sling-mock-oak-4.0.0-1.62.0.buildspec:4.1.0-1.86.0
 content/org/apache/sling/org.apache.sling.xss/org.apache.sling.xss-2.4.2.buildspec:2.4.8
 content/org/apache/sling/slingfeature-maven-plugin/slingfeature-maven-plugin-1.9.0.buildspec:1.9.2
 content/org/apache/tomee/jakartaee-api/jakartaee-api-10.0-M2.buildspec:10.0.1
@@ -268,7 +269,7 @@ content/org/mybatis/parent/mybatis-parent-45.buildspec:51
 content/org/mybatis/caches/mybatis-caffeine/mybatis-caffeine-1.2.0.buildspec:1.2.1
 content/org/mybatis/scripting/mybatis-thymeleaf/mybatis-thymeleaf-1.0.4.buildspec:1.1.0
 content/org/mybatis/spring/boot/mybatis-spring-boot/mybatis-spring-boot-3.0.3.buildspec:3.0.5
-content/org/openapitools/openapidiff/openapi-diff-2.1.0-beta.11.buildspec:2.1.3
+content/org/openapitools/openapidiff/openapi-diff-2.1.0-beta.11.buildspec:2.1.4
 content/org/owasp/antisamy/antisamy-1.7.6.buildspec:1.7.8
 content/org/owasp/dependency-check/dependency-check-10.0.4.buildspec:12.1.8
 content/org/sentrysoftware/ipmi/ipmi-1.1.00.buildspec:1.2.00
