@@ -93,7 +93,7 @@ content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.17.8
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:20
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.17.0
-content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:34
+content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:35
 content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.12.0
 content/nl/basjes/maven/release/conventional-commits-version-policy/conventional-commits-version-policy-1.0.7.buildspec:1.0.8
 content/nl/basjes/parse/useragent/yauaa/yauaa-7.28.1.buildspec:7.32.0
@@ -115,7 +115,7 @@ content/org/apache/syncope/syncope-3.0.8.buildspec:4.0.1
 content/org/apache/wayang/wayang-0.7.1.buildspec:1.1.0
 content/org/apache/wicket/wicket-parent-10.2.0.buildspec:10.7.0
 content/org/apache/wss4j/wss4j-3.0.3.buildspec:4.0.0
-content/org/apache/activemq/artemis/artemis-2.37.0.buildspec:2.42.0
+content/org/apache/activemq/artemis/artemis-2.37.0.buildspec:2.43.0
 content/org/apache/commons/commons-exec/commons-exec-1.4.0.buildspec:1.5.0
 content/org/apache/commons/commons-io/commons-io-2.17.0.buildspec:2.20.0
 content/org/apache/commons/commons-jexl3/commons-jexl3-3.4.0.buildspec:3.5.0
