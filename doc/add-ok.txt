@@ -54,7 +54,7 @@ content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.5.0
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.6.1
-content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.14.1
+content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.14.2
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-10
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.33
 content/io/trino/trino-459.buildspec:477
@@ -164,6 +164,7 @@ content/org/apache/maven/plugins/maven-pdf-plugin/maven-pdf-plugin-1.6.1.buildsp
 content/org/apache/maven/plugins/maven-pmd-plugin/maven-pmd-plugin-3.25.0.buildspec:3.28.0
 content/org/apache/maven/plugins/maven-project-info-reports-plugin/maven-project-info-reports-plugin-3.7.0.buildspec:3.9.0
 content/org/apache/maven/plugins/maven-shade-plugin/maven-shade-plugin-3.6.0.buildspec:3.6.1
+content/org/apache/maven/plugins/maven-war-plugin/maven-war-plugin-3.4.0.buildspec:3.5.0
 content/org/apache/maven/plugins/maven-wrapper-plugin/wrapper-3.3.2.buildspec:3.3.4
 content/org/apache/maven/reporting/maven-reporting-api/maven-reporting-api-4.0.0-M12.buildspec:4.0.0
 content/org/apache/maven/reporting/maven-reporting-exec/maven-reporting-exec-2.0.0-M14.buildspec:2.0.0
