@@ -37,12 +37,14 @@ rebuilding **20 releases** of org.junit:junit-bom:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [6.0.1](https://central.sonatype.com/artifact/org.junit/junit-bom/6.0.1/pom) | | | |
 | [6.0.0](https://central.sonatype.com/artifact/org.junit/junit-bom/6.0.0/pom) | | | |
 | [6.0.0-RC3](https://central.sonatype.com/artifact/org.junit/junit-bom/6.0.0-RC3/pom) | | | |
 | [6.0.0-RC2](https://central.sonatype.com/artifact/org.junit/junit-bom/6.0.0-RC2/pom) | | | |
 | [6.0.0-RC1](https://central.sonatype.com/artifact/org.junit/junit-bom/6.0.0-RC1/pom) | | | |
 | [6.0.0-M2](https://central.sonatype.com/artifact/org.junit/junit-bom/6.0.0-M2/pom) | | | |
 | [6.0.0-M1](https://central.sonatype.com/artifact/org.junit/junit-bom/6.0.0-M1/pom) | | | |
+| [5.14.1](https://central.sonatype.com/artifact/org.junit/junit-bom/5.14.1/pom) | | | |
 | [5.14.0](https://central.sonatype.com/artifact/org.junit/junit-bom/5.14.0/pom) | | | |
 | [5.14.0-RC1](https://central.sonatype.com/artifact/org.junit/junit-bom/5.14.0-RC1/pom) | | | |
 | [5.13.4](https://central.sonatype.com/artifact/org.junit/junit-bom/5.13.4/pom) | | | |
