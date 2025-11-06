@@ -13,6 +13,7 @@ rebuilding **9 releases** of io.cucumber:gherkin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [36.1.0](https://central.sonatype.com/artifact/io.cucumber/gherkin/36.1.0/pom) | | | |
 | [36.0.0](https://central.sonatype.com/artifact/io.cucumber/gherkin/36.0.0/pom) | | | |
 | [35.1.0](https://central.sonatype.com/artifact/io.cucumber/gherkin/35.1.0/pom) | | | |
 | [35.0.0](https://central.sonatype.com/artifact/io.cucumber/gherkin/35.0.0/pom) | | | |
@@ -25,6 +26,7 @@ rebuilding **9 releases** of io.cucumber:gherkin:
 | [32.0.1](https://central.sonatype.com/artifact/io.cucumber/gherkin/32.0.1/pom) | | | |
 | [32.0.0](https://central.sonatype.com/artifact/io.cucumber/gherkin/32.0.0/pom) | | | |
 | [31.0.0](https://central.sonatype.com/artifact/io.cucumber/gherkin/31.0.0/pom) | | | |
+| [30.1.3](https://central.sonatype.com/artifact/io.cucumber/gherkin/30.1.3/pom) | | | |
 | [30.0.4](https://central.sonatype.com/artifact/io.cucumber/gherkin/30.0.4/pom) | | | |
 | [30.0.3](https://central.sonatype.com/artifact/io.cucumber/gherkin/30.0.3/pom) | | | |
 | [30.0.2](https://central.sonatype.com/artifact/io.cucumber/gherkin/30.0.2/pom) | | | |

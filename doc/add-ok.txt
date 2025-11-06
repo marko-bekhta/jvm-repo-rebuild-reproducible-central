@@ -47,7 +47,7 @@ content/com/io7m/seltzer/com.io7m.seltzer-1.1.0.buildspec:1.2.0
 content/com/io7m/trasco/com.io7m.trasco-3.0.0.buildspec:3.1.1
 content/com/ongres/scram/scram-aggregator-3.1.buildspec:3.2
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.29
-content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.13
+content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.14
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.3.1
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.5.0
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.8.0
@@ -63,7 +63,7 @@ content/io/airlift/airbase/airbase-184.buildspec:325
 content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:12.0.0
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.31.0
-content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:36.0.0
+content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:36.1.0
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:10.0.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.10.0
 content/io/cucumber/messages/messages-26.0.1.buildspec:30.1.0
