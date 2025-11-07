@@ -27,6 +27,7 @@ rebuilding **9 releases** of io.cucumber:gherkin:
 | [32.0.0](https://central.sonatype.com/artifact/io.cucumber/gherkin/32.0.0/pom) | | | |
 | [31.0.0](https://central.sonatype.com/artifact/io.cucumber/gherkin/31.0.0/pom) | | | |
 | [30.1.3](https://central.sonatype.com/artifact/io.cucumber/gherkin/30.1.3/pom) | | | |
+| [30.1.0](https://central.sonatype.com/artifact/io.cucumber/gherkin/30.1.0/pom) | | | |
 | [30.0.4](https://central.sonatype.com/artifact/io.cucumber/gherkin/30.0.4/pom) | | | |
 | [30.0.3](https://central.sonatype.com/artifact/io.cucumber/gherkin/30.0.3/pom) | | | |
 | [30.0.2](https://central.sonatype.com/artifact/io.cucumber/gherkin/30.0.2/pom) | | | |
