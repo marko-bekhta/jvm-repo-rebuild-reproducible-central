@@ -23,6 +23,9 @@ rebuilding **18 releases** of com.flowlogix:flowlogix:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [10.0.8](https://central.sonatype.com/artifact/com.flowlogix/flowlogix/10.0.8/pom) | | | |
+| [10.0.7](https://central.sonatype.com/artifact/com.flowlogix/flowlogix/10.0.7/pom) | | | |
+| [10.0.6](https://central.sonatype.com/artifact/com.flowlogix/flowlogix/10.0.6/pom) | | | |
 | [10.0.5](https://central.sonatype.com/artifact/com.flowlogix/flowlogix/10.0.5/pom) | | | |
 | [10.0.4](https://central.sonatype.com/artifact/com.flowlogix/flowlogix/10.0.4/pom) | | | |
 | [10.0.3](https://central.sonatype.com/artifact/com.flowlogix/flowlogix/10.0.3/pom) | | | |

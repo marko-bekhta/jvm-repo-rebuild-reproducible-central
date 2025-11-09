@@ -1,7 +1,7 @@
 content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.1.0
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.20
 content/ch/vorburger/mariaDB4j/mariaDB4j-pom-3.1.0.buildspec:3.3.0
-content/com/flowlogix/flowlogix-9.0.5.buildspec:10.0.5
+content/com/flowlogix/flowlogix-9.0.5.buildspec:10.0.8
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.24
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:74
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.1
@@ -26,7 +26,7 @@ content/com/github/hazendaz/maven/directory-maven-plugin/directory-maven-plugin-
 content/com/github/hazendaz/maven/htmlcompressor-maven-plugin/htmlcompressor-maven-plugin-2.1.0.buildspec:2.3.0
 content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.9.2
 content/com/github/hazendaz/maven/whitespace-maven-plugin/whitespace-maven-plugin-1.4.0.buildspec:1.5.0
-content/com/github/hazendaz/maven/yuicompressor-maven-plugin/yuicompressor-maven-plugin-2.1.0.buildspec:2.2.0
+content/com/github/hazendaz/maven/yuicompressor-maven-plugin/yuicompressor-maven-plugin-2.1.0.buildspec:2.3.0
 content/com/github/marschall/jakarta-jms-adapter/jakarta-jms-adapter-1.4.1.buildspec:1.6.0
 content/com/github/spotbugs/spotbugs-maven-plugin/spotbugs-maven-plugin-4.8.6.3.buildspec:4.9.8.1
 content/com/github/veithen/daemon/daemon-0.6.3.buildspec:0.6.4
@@ -56,7 +56,7 @@ content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.5.0
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.6.2
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.14.4
-content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-11
+content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-12
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.33
 content/io/trino/trino-459.buildspec:478
 content/io/airlift/airbase/airbase-184.buildspec:325
