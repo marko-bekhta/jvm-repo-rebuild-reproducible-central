@@ -13,7 +13,6 @@ rebuilding **3 releases** of commons-io:commons-io:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
-| [20030203.000550](https://central.sonatype.com/artifact/commons-io/commons-io/20030203.000550/pom) | | | |
 | [2.21.0](https://central.sonatype.com/artifact/commons-io/commons-io/2.21.0/pom) | | | |
 | [2.20.0](https://central.sonatype.com/artifact/commons-io/commons-io/2.20.0/pom) | | | |
 | [2.19.0](https://central.sonatype.com/artifact/commons-io/commons-io/2.19.0/pom) | | | |
