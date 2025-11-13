@@ -54,6 +54,7 @@ rebuilding **31 releases** of org.apache.maven:maven:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.0.0-rc-5](https://central.sonatype.com/artifact/org.apache.maven/maven/4.0.0-rc-5/pom) | | | |
 | [4.0.0-rc-4](https://central.sonatype.com/artifact/org.apache.maven/maven/4.0.0-rc-4/pom) | | | |
 | [4.0.0-rc-3](https://central.sonatype.com/artifact/org.apache.maven/maven/4.0.0-rc-3/pom) | | | |
 | [4.0.0-rc-2](https://central.sonatype.com/artifact/org.apache.maven/maven/4.0.0-rc-2/pom) | | | |

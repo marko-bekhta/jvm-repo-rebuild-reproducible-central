@@ -143,7 +143,7 @@ content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.4.1
 content/org/apache/maven/enforcer/maven-enforcer-plugin-3.5.0.buildspec:3.6.2
 content/org/apache/maven/indexer/maven-indexer-7.1.5.buildspec:7.1.6
 content/org/apache/maven/jxr/jxr-3.5.0.buildspec:3.6.0
-content/org/apache/maven/maven/maven-4.0.0-beta-4.buildspec:4.0.0-rc-4
+content/org/apache/maven/maven/maven-4.0.0-beta-4.buildspec:4.0.0-rc-5
 content/org/apache/maven/parent/maven-parent-43.buildspec:45
 content/org/apache/maven/surefire/surefire-3.5.0.buildspec:3.5.4
 content/org/apache/maven/doxia/doxia-sitetools/doxia-sitetools-2.0.0-M19.buildspec:2.0.0
