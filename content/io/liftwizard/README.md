@@ -190,6 +190,7 @@ rebuilding **62 releases** of io.liftwizard:liftwizard:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.1.34](https://central.sonatype.com/artifact/io.liftwizard/liftwizard/2.1.34/pom) | | | |
 | [2.1.33](https://central.sonatype.com/artifact/io.liftwizard/liftwizard/2.1.33/pom) | | | |
 | [2.1.32](https://central.sonatype.com/artifact/io.liftwizard/liftwizard/2.1.32/pom) | | | |
 | [2.1.31](https://central.sonatype.com/artifact/io.liftwizard/liftwizard/2.1.31/pom) | | | |
