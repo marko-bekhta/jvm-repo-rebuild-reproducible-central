@@ -96,7 +96,7 @@ content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:20
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.18.0
 content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:35
-content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.12.2
+content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.13.0
 content/nl/basjes/maven/release/conventional-commits-version-policy/conventional-commits-version-policy-1.0.7.buildspec:1.0.8
 content/nl/basjes/parse/useragent/yauaa/yauaa-7.28.1.buildspec:7.32.0
 content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5.3.22
@@ -166,6 +166,7 @@ content/org/apache/maven/plugins/maven-javadoc-plugin/maven-javadoc-plugin-3.10.
 content/org/apache/maven/plugins/maven-pdf-plugin/maven-pdf-plugin-1.6.1.buildspec:1.6.2
 content/org/apache/maven/plugins/maven-pmd-plugin/maven-pmd-plugin-3.25.0.buildspec:3.28.0
 content/org/apache/maven/plugins/maven-project-info-reports-plugin/maven-project-info-reports-plugin-3.7.0.buildspec:3.9.0
+content/org/apache/maven/plugins/maven-rar-plugin/maven-rar-plugin-3.0.0.buildspec:3.1.0
 content/org/apache/maven/plugins/maven-release-plugin/maven-release-plugin-3.1.1.buildspec:3.2.0
 content/org/apache/maven/plugins/maven-shade-plugin/maven-shade-plugin-3.6.0.buildspec:3.6.1
 content/org/apache/maven/plugins/maven-war-plugin/maven-war-plugin-3.4.0.buildspec:3.5.0
