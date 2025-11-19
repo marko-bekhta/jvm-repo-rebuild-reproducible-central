@@ -13,6 +13,7 @@ rebuilding **40 releases** of org.liquibase.ext:liquibase-percona:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [5.0.1](https://central.sonatype.com/artifact/org.liquibase.ext/liquibase-percona/5.0.1/pom) | | | |
 | [4.33.0](https://central.sonatype.com/artifact/org.liquibase.ext/liquibase-percona/4.33.0/pom) | | | |
 | [4.32.0](https://central.sonatype.com/artifact/org.liquibase.ext/liquibase-percona/4.32.0/pom) | | | |
 | [4.31.0](https://central.sonatype.com/artifact/org.liquibase.ext/liquibase-percona/4.31.0/pom) | | | |

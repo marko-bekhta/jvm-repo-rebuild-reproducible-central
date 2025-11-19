@@ -22,6 +22,7 @@ rebuilding **31 releases** of io.micronaut.maven:micronaut-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.11.3](https://central.sonatype.com/artifact/io.micronaut.maven/micronaut-maven-plugin/4.11.3/pom) | | | |
 | [4.11.2](https://central.sonatype.com/artifact/io.micronaut.maven/micronaut-maven-plugin/4.11.2/pom) | | | |
 | [4.11.1](https://central.sonatype.com/artifact/io.micronaut.maven/micronaut-maven-plugin/4.11.1/pom) | | | |
 | [4.11.0](https://central.sonatype.com/artifact/io.micronaut.maven/micronaut-maven-plugin/4.11.0/pom) | | | |
