@@ -64,7 +64,7 @@ content/io/trino/trino-459.buildspec:478
 content/io/airlift/airbase/airbase-184.buildspec:328
 content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:12.0.0
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
-content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.31.0
+content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.32.0
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:37.0.0
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:10.0.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.11.0
@@ -223,7 +223,7 @@ content/org/apache/sling/org.apache.sling.testing.clients/org.apache.sling.testi
 content/org/apache/sling/org.apache.sling.testing.jcr-mock/org.apache.sling.testing.jcr-mock-1.6.14.buildspec:1.7.0
 content/org/apache/sling/org.apache.sling.testing.osgi-mock/org.apache.sling.testing.osgi-mock-3.5.0.buildspec:3.5.4
 content/org/apache/sling/org.apache.sling.testing.resourceresolver-mock/org.apache.sling.testing.resourceresolver-mock-1.5.0.buildspec:2.0.0
-content/org/apache/sling/org.apache.sling.testing.sling-mock/org.apache.sling.testing.sling-mock-3.5.2.buildspec:4.0.0
+content/org/apache/sling/org.apache.sling.testing.sling-mock/org.apache.sling.testing.sling-mock-3.5.2.buildspec:4.0.2
 content/org/apache/sling/org.apache.sling.testing.sling-mock-oak/org.apache.sling.testing.sling-mock-oak-4.0.0-1.62.0.buildspec:4.1.0-1.86.0
 content/org/apache/sling/org.apache.sling.xss/org.apache.sling.xss-2.4.2.buildspec:2.4.8
 content/org/apache/sling/slingfeature-maven-plugin/slingfeature-maven-plugin-1.9.0.buildspec:1.9.2
