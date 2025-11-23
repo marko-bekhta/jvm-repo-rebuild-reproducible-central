@@ -13,6 +13,7 @@ rebuilding **2 releases** of org.codehaus.mojo:taglist-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.2.2](https://central.sonatype.com/artifact/org.codehaus.mojo/taglist-maven-plugin/3.2.2/pom) | | | |
 | [3.2.1](https://central.sonatype.com/artifact/org.codehaus.mojo/taglist-maven-plugin/3.2.1/pom) | | | |
 | [3.2.0](https://central.sonatype.com/artifact/org.codehaus.mojo/taglist-maven-plugin/3.2.0/pom) | | | |
 | [3.1.0](https://central.sonatype.com/artifact/org.codehaus.mojo/taglist-maven-plugin/3.1.0/pom) | [mvn jdk22](taglist-maven-plugin-3.1.0.buildspec) | [result](taglist-maven-plugin-3.1.0.buildinfo): [4 :white_check_mark: ](taglist-maven-plugin-3.1.0.buildcompare) | 209K |

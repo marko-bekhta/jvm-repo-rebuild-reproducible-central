@@ -25,6 +25,7 @@ rebuilding **15 releases** of org.codehaus.mojo:versions-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.20.0](https://central.sonatype.com/artifact/org.codehaus.mojo/versions-maven-plugin/2.20.0/pom) | | | |
 | [2.19.1](https://central.sonatype.com/artifact/org.codehaus.mojo/versions-maven-plugin/2.19.1/pom) | | | |
 | [2.19.0](https://central.sonatype.com/artifact/org.codehaus.mojo/versions-maven-plugin/2.19.0/pom) | | | |
 | [2.18.0](https://central.sonatype.com/artifact/org.codehaus.mojo/versions-maven-plugin/2.18.0/pom) | | | |
