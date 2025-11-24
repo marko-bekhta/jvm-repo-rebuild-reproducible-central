@@ -48,7 +48,7 @@ content/com/io7m/seltzer/com.io7m.seltzer-1.1.0.buildspec:1.2.0
 content/com/io7m/trasco/com.io7m.trasco-3.0.0.buildspec:3.1.1
 content/com/ongres/scram/scram-aggregator-3.1.buildspec:3.2
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.29
-content/com/spotify/github-client/github-client-0.3.2.buildspec:0.4.14
+content/com/spotify/github-client/github-client-0.3.2.buildspec:0.5.1
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.3.1
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.5.0
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.8.0
@@ -61,7 +61,7 @@ content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2
 content/fr/marcwrobel/jbanking/jbanking-4.2.0.buildspec:4.3.0
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.34
 content/io/trino/trino-459.buildspec:478
-content/io/airlift/airbase/airbase-184.buildspec:328
+content/io/airlift/airbase/airbase-184.buildspec:329
 content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:12.0.0
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.32.0
@@ -115,7 +115,7 @@ content/org/apache/rat/apache-rat-0.16.1.buildspec:0.17
 content/org/apache/ratis/ratis-3.1.1.buildspec:3.2.1
 content/org/apache/shiro/shiro-2.0.1.buildspec:2.0.6
 content/org/apache/struts/struts2-6.6.0.buildspec:7.1.1
-content/org/apache/syncope/syncope-3.0.8.buildspec:4.0.2
+content/org/apache/syncope/syncope-3.0.8.buildspec:4.0.3
 content/org/apache/wayang/wayang-0.7.1.buildspec:1.1.0
 content/org/apache/wicket/wicket-parent-10.2.0.buildspec:10.7.0
 content/org/apache/wss4j/wss4j-3.0.3.buildspec:4.0.1
@@ -245,7 +245,7 @@ content/org/codehaus/mojo/mojo-parent/mojo-parent-86.buildspec:94
 content/org/codehaus/mojo/mrm/mrm-1.6.0.buildspec:1.7.0
 content/org/codehaus/mojo/taglist-maven-plugin/taglist-maven-plugin-3.1.0.buildspec:3.2.2
 content/org/codehaus/mojo/tidy-maven-plugin/tidy-maven-plugin-1.3.0.buildspec:1.4.0
-content/org/codehaus/mojo/versions-maven-plugin/versions-maven-plugin-2.17.1.buildspec:2.20.0
+content/org/codehaus/mojo/versions-maven-plugin/versions-maven-plugin-2.17.1.buildspec:2.20.1
 content/org/codehaus/plexus/plexus-archiver/plexus-archiver-4.10.0.buildspec:4.10.4
 content/org/codehaus/plexus/plexus-classworlds/plexus-classworlds-2.8.0.buildspec:2.9.0
 content/org/codehaus/plexus/plexus-compiler/plexus-compiler-2.15.0.buildspec:2.16.1

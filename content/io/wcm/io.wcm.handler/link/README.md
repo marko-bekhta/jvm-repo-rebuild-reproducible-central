@@ -13,6 +13,7 @@ rebuilding **5 releases** of io.wcm:io.wcm.handler.link:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.3.0](https://central.sonatype.com/artifact/io.wcm/io.wcm.handler.link/2.3.0/pom) | | | |
 | [2.2.10](https://central.sonatype.com/artifact/io.wcm/io.wcm.handler.link/2.2.10/pom) | | | |
 | [2.2.8](https://central.sonatype.com/artifact/io.wcm/io.wcm.handler.link/2.2.8/pom) | | | |
 | [2.2.6](https://central.sonatype.com/artifact/io.wcm/io.wcm.handler.link/2.2.6/pom) | | | |
