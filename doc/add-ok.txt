@@ -307,7 +307,7 @@ content/org/webjars/bootstrap/bootstrap-5.3.3.buildspec:5.3.8
 content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.114-1
 content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:7.0.1
 content/org/webjars/highcharts/highcharts-11.2.0.buildspec:12.1.2
-content/org/webjars/redoc/redoc-2.1.5.buildspec:2.3.0
+content/org/webjars/redoc/redoc-2.1.5.buildspec:2.5.1
 content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.1.2
 content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.26.0
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.5.2
