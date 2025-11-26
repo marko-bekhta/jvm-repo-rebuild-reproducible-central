@@ -13,6 +13,7 @@ rebuilding **16 releases** of com.github.veithen:parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [56](https://central.sonatype.com/artifact/com.github.veithen/parent/56/pom) | | | |
 | [55](https://central.sonatype.com/artifact/com.github.veithen/parent/55/pom) | | | |
 | [54](https://central.sonatype.com/artifact/com.github.veithen/parent/54/pom) | | | |
 | [53](https://central.sonatype.com/artifact/com.github.veithen/parent/53/pom) | | | |
