@@ -64,6 +64,7 @@ rebuilding **43 releases** of net.sourceforge.pmd:pmd:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [7.19.0](https://central.sonatype.com/artifact/net.sourceforge.pmd/pmd/7.19.0/pom) | | | |
 | [7.18.0](https://central.sonatype.com/artifact/net.sourceforge.pmd/pmd/7.18.0/pom) | | | |
 | [7.17.0](https://central.sonatype.com/artifact/net.sourceforge.pmd/pmd/7.17.0/pom) | | | |
 | [7.16.0](https://central.sonatype.com/artifact/net.sourceforge.pmd/pmd/7.16.0/pom) | | | |
