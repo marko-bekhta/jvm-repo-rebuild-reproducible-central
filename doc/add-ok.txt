@@ -39,7 +39,7 @@ content/com/intellectualsites/bom/bom-newest/bom-newest-1.49.buildspec:1.55
 content/com/intellectualsites/fastasyncvoxelsniper/fastasyncvoxelsniper/fastasyncvoxelsniper-3.2.1.buildspec:3.2.3
 content/com/intellectualsites/informative-annotations/informative-annotations/informative-annotations-1.5.buildspec:1.6
 content/com/intellectualsites/paster/Paster/Paster-1.1.6.buildspec:1.1.7
-content/com/io7m/dixmont/com.io7m.dixmont-2.0.0.buildspec:2.1.0
+content/com/io7m/dixmont/com.io7m.dixmont-2.0.0.buildspec:3.0.0
 content/com/io7m/jbssio/com.io7m.jbssio-2.1.0.buildspec:3.0.0
 content/com/io7m/looseleaf/com.io7m.looseleaf-2.0.0.buildspec:3.0.0
 content/com/io7m/mime2045/com.io7m.mime2045-1.1.0.buildspec:1.2.0
@@ -154,6 +154,7 @@ content/org/apache/maven/plugin-testing/maven-plugin-testing/maven-plugin-testin
 content/org/apache/maven/plugin-tools/maven-plugin-tools/maven-plugin-tools-4.0.0-beta-1.buildspec:4.0.0-beta-2
 content/org/apache/maven/plugins/maven-antrun-plugin/maven-antrun-plugin-3.1.0.buildspec:3.2.0
 content/org/apache/maven/plugins/maven-artifact-plugin/maven-artifact-plugin-3.5.1.buildspec:3.6.1
+content/org/apache/maven/plugins/maven-assembly-plugin/maven-assembly-plugin-3.7.1.buildspec:3.8.0
 content/org/apache/maven/plugins/maven-checkstyle-plugin/maven-checkstyle-plugin-3.5.0.buildspec:3.6.0
 content/org/apache/maven/plugins/maven-clean-plugin/maven-clean-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-2
 content/org/apache/maven/plugins/maven-compiler-plugin/maven-compiler-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-3
@@ -310,7 +311,7 @@ content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:7.0.1
 content/org/webjars/highcharts/highcharts-11.2.0.buildspec:12.1.2
 content/org/webjars/redoc/redoc-2.1.5.buildspec:2.5.1
 content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.1.2
-content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.26.0
+content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.27.0
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.5.2
 content/us/abstracta/jmeter/jmeter-java-dsl/jmeter-java-dsl-1.29.buildspec:2.1
 content/world/convex/convex-0.7.15.buildspec:0.8.2
