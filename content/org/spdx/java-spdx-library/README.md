@@ -13,6 +13,7 @@ rebuilding **6 releases** of org.spdx:java-spdx-library:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.0.2](https://central.sonatype.com/artifact/org.spdx/java-spdx-library/2.0.2/pom) | | | |
 | [2.0.1](https://central.sonatype.com/artifact/org.spdx/java-spdx-library/2.0.1/pom) | | | |
 | [2.0.0](https://central.sonatype.com/artifact/org.spdx/java-spdx-library/2.0.0/pom) | | | |
 | [2.0.0-RC2](https://central.sonatype.com/artifact/org.spdx/java-spdx-library/2.0.0-RC2/pom) | | | |
