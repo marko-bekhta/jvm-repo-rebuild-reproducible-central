@@ -49,7 +49,7 @@ content/com/io7m/seltzer/com.io7m.seltzer-1.1.0.buildspec:1.2.0
 content/com/io7m/trasco/com.io7m.trasco-3.0.0.buildspec:3.1.1
 content/com/ongres/scram/scram-aggregator-3.1.buildspec:3.2
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.29
-content/com/spotify/github-client/github-client-0.3.2.buildspec:0.5.3
+content/com/spotify/github-client/github-client-0.3.2.buildspec:0.5.4
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.3.1
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.5.0
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.9.1
@@ -57,12 +57,12 @@ content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.5.0
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.6.2
-content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.14.6
+content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.14.7
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-15
 content/fr/marcwrobel/jbanking/jbanking-4.2.0.buildspec:4.3.0
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.34
 content/io/trino/trino-459.buildspec:478
-content/io/airlift/airbase/airbase-184.buildspec:331
+content/io/airlift/airbase/airbase-184.buildspec:332
 content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:12.0.0
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.32.0
@@ -264,7 +264,7 @@ content/org/cyclonedx/cyclonedx-core-java/cyclonedx-core-java-9.0.5.buildspec:11
 content/org/cyclonedx/cyclonedx-maven-plugin/cyclonedx-maven-plugin-2.8.2.buildspec:2.9.1
 content/org/eclipse/jkube/jkube-1.17.0.buildspec:1.18.2
 content/org/eclipse/daanse/org.eclipse.daanse.pom.parent/org.eclipse.daanse.pom.parent-0.0.2.buildspec:0.0.4
-content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.4
+content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.5
 content/org/glassfish/build/glassfishbuild-maven-plugin/glassfishbuild-maven-plugin-4.0.1.buildspec:4.1.0
 content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.2.0.CR1
 content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.1.0.Final
@@ -307,7 +307,7 @@ content/org/spdx/java-spdx-library/java-spdx-library-2.0.0-Alpha.buildspec:2.0.2
 content/org/spdx/spdx-maven-plugin/spdx-maven-plugin-0.7.4.buildspec:1.0.3
 content/org/webjars/bootstrap/bootstrap-5.3.3.buildspec:5.3.8
 content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.114-1
-content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:7.0.1
+content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:7.1.0
 content/org/webjars/highcharts/highcharts-11.2.0.buildspec:12.1.2
 content/org/webjars/redoc/redoc-2.1.5.buildspec:2.5.1
 content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.1.2

@@ -13,6 +13,7 @@ rebuilding **7 releases** of org.webjars:font-awesome:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [7.1.0](https://central.sonatype.com/artifact/org.webjars/font-awesome/7.1.0/pom) | | | |
 | [7.0.1](https://central.sonatype.com/artifact/org.webjars/font-awesome/7.0.1/pom) | | | |
 | [7.0.0](https://central.sonatype.com/artifact/org.webjars/font-awesome/7.0.0/pom) | | | |
 | [6.7.2](https://central.sonatype.com/artifact/org.webjars/font-awesome/6.7.2/pom) | | | |
