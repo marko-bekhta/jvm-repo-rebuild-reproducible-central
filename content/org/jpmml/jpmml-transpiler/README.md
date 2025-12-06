@@ -19,6 +19,7 @@ rebuilding **2 releases** of org.jpmml:jpmml-transpiler:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.4.7](https://central.sonatype.com/artifact/org.jpmml/jpmml-transpiler/1.4.7/pom) | | | |
 | [1.4.6](https://central.sonatype.com/artifact/org.jpmml/jpmml-transpiler/1.4.6/pom) | | | |
 | [1.4.5](https://central.sonatype.com/artifact/org.jpmml/jpmml-transpiler/1.4.5/pom) | | | |
 | [1.4.4](https://central.sonatype.com/artifact/org.jpmml/jpmml-transpiler/1.4.4/pom) | | | |
