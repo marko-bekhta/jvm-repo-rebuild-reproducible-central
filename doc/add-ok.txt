@@ -19,12 +19,12 @@ content/com/fasterxml/jackson/datatype/jackson-datatypes-collections/jackson-dat
 content/com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/jackson-datatypes-misc-parent-2.18.0.buildspec:2.20.1
 content/com/github/psi-probe/psi-probe-5.1.1.buildspec:5.3.0
 content/com/github/hazendaz/7zip/7zip-24.08.buildspec:25.01
-content/com/github/hazendaz/displaytag-doc/displaytag-doc-3.0.3.buildspec:3.4.0
+content/com/github/hazendaz/displaytag-doc/displaytag-doc-3.0.3.buildspec:3.5.0
 content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.11.2
 content/com/github/hazendaz/maven/coveralls-maven-plugin/coveralls-maven-plugin-4.5.0-M5.buildspec:5.0.0
 content/com/github/hazendaz/maven/directory-maven-plugin/directory-maven-plugin-1.2.0.buildspec:1.2.2
-content/com/github/hazendaz/maven/htmlcompressor-maven-plugin/htmlcompressor-maven-plugin-2.1.0.buildspec:2.3.0
-content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.10.0
+content/com/github/hazendaz/maven/htmlcompressor-maven-plugin/htmlcompressor-maven-plugin-2.1.0.buildspec:2.4.0
+content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.10.1
 content/com/github/hazendaz/maven/whitespace-maven-plugin/whitespace-maven-plugin-1.4.0.buildspec:1.5.0
 content/com/github/hazendaz/maven/yuicompressor-maven-plugin/yuicompressor-maven-plugin-2.1.0.buildspec:2.3.0
 content/com/github/marschall/jakarta-jms-adapter/jakarta-jms-adapter-1.4.1.buildspec:1.6.0
