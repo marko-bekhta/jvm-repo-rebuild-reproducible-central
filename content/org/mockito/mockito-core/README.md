@@ -25,6 +25,7 @@ rebuilding **29 releases** of org.mockito:mockito-core:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [5.21.0](https://central.sonatype.com/artifact/org.mockito/mockito-core/5.21.0/pom) | | | |
 | [5.20.0](https://central.sonatype.com/artifact/org.mockito/mockito-core/5.20.0/pom) | | | |
 | [5.19.0](https://central.sonatype.com/artifact/org.mockito/mockito-core/5.19.0/pom) | | | |
 | [5.18.0](https://central.sonatype.com/artifact/org.mockito/mockito-core/5.18.0/pom) | | | |
