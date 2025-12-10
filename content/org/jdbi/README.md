@@ -49,6 +49,7 @@ rebuilding **5 releases** of org.jdbi.internal:jdbi3-root:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.51.0](https://central.sonatype.com/artifact/org.jdbi.internal/jdbi3-root/3.51.0/pom) | | | |
 | [3.50.0](https://central.sonatype.com/artifact/org.jdbi.internal/jdbi3-root/3.50.0/pom) | | | |
 | [3.49.6](https://central.sonatype.com/artifact/org.jdbi.internal/jdbi3-root/3.49.6/pom) | | | |
 | [3.49.5](https://central.sonatype.com/artifact/org.jdbi.internal/jdbi3-root/3.49.5/pom) | | | |

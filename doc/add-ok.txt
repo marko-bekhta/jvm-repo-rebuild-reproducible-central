@@ -40,7 +40,7 @@ content/com/intellectualsites/bom/bom-newest/bom-newest-1.49.buildspec:1.55
 content/com/intellectualsites/fastasyncvoxelsniper/fastasyncvoxelsniper/fastasyncvoxelsniper-3.2.1.buildspec:3.2.3
 content/com/intellectualsites/informative-annotations/informative-annotations/informative-annotations-1.5.buildspec:1.6
 content/com/intellectualsites/paster/Paster/Paster-1.1.6.buildspec:1.1.7
-content/com/io7m/dixmont/com.io7m.dixmont-2.0.0.buildspec:3.0.0
+content/com/io7m/dixmont/com.io7m.dixmont-2.0.0.buildspec:3.1.0
 content/com/io7m/jbssio/com.io7m.jbssio-2.1.0.buildspec:3.0.0
 content/com/io7m/looseleaf/com.io7m.looseleaf-2.0.0.buildspec:4.0.0
 content/com/io7m/mime2045/com.io7m.mime2045-1.1.0.buildspec:1.2.0
@@ -61,7 +61,7 @@ content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.6.2
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.14.7
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-15
 content/fr/marcwrobel/jbanking/jbanking-4.2.0.buildspec:4.3.0
-content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.35
+content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.36
 content/io/trino/trino-459.buildspec:478
 content/io/airlift/airbase/airbase-184.buildspec:334
 content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:12.0.0
@@ -314,5 +314,5 @@ content/org/webjars/redoc/redoc-2.1.5.buildspec:2.5.1
 content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.1.2
 content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.27.0
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.5.2
-content/us/abstracta/jmeter/jmeter-java-dsl/jmeter-java-dsl-1.29.buildspec:2.1
+content/us/abstracta/jmeter/jmeter-java-dsl/jmeter-java-dsl-1.29.buildspec:2.2
 content/world/convex/convex-0.7.15.buildspec:0.8.2
