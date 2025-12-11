@@ -1,5 +1,5 @@
 content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.1.0
-content/ch/qos/logback/logback-1.5.8.buildspec:1.5.21
+content/ch/qos/logback/logback-1.5.8.buildspec:1.5.22
 content/ch/vorburger/mariaDB4j/mariaDB4j-pom-3.1.0.buildspec:3.3.0
 content/com/flowlogix/flowlogix-9.0.5.buildspec:11
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.24
@@ -50,7 +50,7 @@ content/com/io7m/seltzer/com.io7m.seltzer-1.1.0.buildspec:1.2.0
 content/com/io7m/trasco/com.io7m.trasco-3.0.0.buildspec:3.1.1
 content/com/ongres/scram/scram-aggregator-3.1.buildspec:3.2
 content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.29
-content/com/spotify/github-client/github-client-0.3.2.buildspec:0.5.4
+content/com/spotify/github-client/github-client-0.3.2.buildspec:0.5.5
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:3.3.1
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.5.0
 content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.9.1
@@ -86,8 +86,8 @@ content/io/takari/maven/takari-smart-builder/takari-smart-builder-1.0.2.buildspe
 content/io/takari/maven/plugins/takari-lifecycle-plugin/takari-lifecycle-plugin-2.2.0.buildspec:2.3.2
 content/io/takari/maven/plugins/takari-plugin-testing/takari-plugin-testing-3.0.5.buildspec:3.1.1
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:2.3.2
-content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:1.1.3
-content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.92.4
+content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:1.1.4
+content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.92.5
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.6.2
 content/io/wcm/maven/plugins/cq-maven-plugin/cq-maven-plugin-1.2.0.buildspec:1.2.2
 content/io/wcm/maven/plugins/sling-initial-content-transform-maven-plugin/sling-initial-content-transform-maven-plugin-1.1.4.buildspec:1.1.8
@@ -99,7 +99,7 @@ content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:20
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.19.0
 content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:36
-content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.13.0
+content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.14.0
 content/nl/basjes/maven/release/conventional-commits-version-policy/conventional-commits-version-policy-1.0.7.buildspec:1.0.8
 content/nl/basjes/parse/useragent/yauaa/yauaa-7.28.1.buildspec:7.32.0
 content/nl/hsac/hsac-fitnesse-fixtures/hsac-fitnesse-fixtures-5.3.15.buildspec:5.3.22
@@ -138,7 +138,7 @@ content/org/apache/directory/project/project-49.buildspec:50
 content/org/apache/felix/maven-bundle-plugin/maven-bundle-plugin-5.1.9.buildspec:6.0.0
 content/org/apache/httpcomponents/parent/httpcomponents-parent-13.buildspec:14
 content/org/apache/jackrabbit/filevault/jackrabbit-filevault-3.8.2.buildspec:4.1.4
-content/org/apache/jackrabbit/jackrabbit/jackrabbit-2.23.0-beta.buildspec:2.23.2-beta
+content/org/apache/jackrabbit/jackrabbit/jackrabbit-2.23.0-beta.buildspec:2.23.3-beta
 content/org/apache/logging/parent/logging-parent-11.3.0.buildspec:12.1.1
 content/org/apache/logging/log4j/log4j/log4j-3.0.0-beta2.buildspec:3.0.0-beta3
 content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
