@@ -24,7 +24,7 @@ content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.11
 content/com/github/hazendaz/maven/coveralls-maven-plugin/coveralls-maven-plugin-4.5.0-M5.buildspec:5.0.0
 content/com/github/hazendaz/maven/directory-maven-plugin/directory-maven-plugin-1.2.0.buildspec:1.2.2
 content/com/github/hazendaz/maven/htmlcompressor-maven-plugin/htmlcompressor-maven-plugin-2.1.0.buildspec:2.4.0
-content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.10.1
+content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.11.0
 content/com/github/hazendaz/maven/smartsprites-maven-plugin/smartsprites-maven-plugin-2.3.0.buildspec:2.4.1
 content/com/github/hazendaz/maven/whitespace-maven-plugin/whitespace-maven-plugin-1.4.0.buildspec:1.6.0
 content/com/github/hazendaz/maven/yuicompressor-maven-plugin/yuicompressor-maven-plugin-2.1.0.buildspec:2.3.1
@@ -59,9 +59,9 @@ content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.5.0
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.6.2
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.14.8
-content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-15
+content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.2.2-beta-16
 content/fr/marcwrobel/jbanking/jbanking-4.2.0.buildspec:4.3.0
-content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.36
+content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.37
 content/io/trino/trino-459.buildspec:478
 content/io/airlift/airbase/airbase-184.buildspec:334
 content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:12.0.0
@@ -124,7 +124,7 @@ content/org/apache/wss4j/wss4j-3.0.3.buildspec:4.0.1
 content/org/apache/activemq/artemis/artemis-2.37.0.buildspec:2.44.0
 content/org/apache/commons/commons-exec/commons-exec-1.4.0.buildspec:1.6.0
 content/org/apache/commons/commons-io/commons-io-2.17.0.buildspec:2.21.0
-content/org/apache/commons/commons-jexl3/commons-jexl3-3.4.0.buildspec:3.6.0
+content/org/apache/commons/commons-jexl3/commons-jexl3-3.4.0.buildspec:3.6.1
 content/org/apache/commons/compress/commons-compress-1.27.1.buildspec:1.28.0
 content/org/apache/commons/configuration2/commons-configuration2-2.11.0.buildspec:2.13.0
 content/org/apache/commons/csv/commons-csv-1.12.0.buildspec:1.14.1
