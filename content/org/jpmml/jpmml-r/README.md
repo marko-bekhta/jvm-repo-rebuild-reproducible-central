@@ -20,6 +20,8 @@ rebuilding **4 releases** of org.jpmml:jpmml-r:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.7.7](https://central.sonatype.com/artifact/org.jpmml/jpmml-r/1.7.7/pom) | | | |
+| [1.7.6](https://central.sonatype.com/artifact/org.jpmml/jpmml-r/1.7.6/pom) | | | |
 | [1.7.5](https://central.sonatype.com/artifact/org.jpmml/jpmml-r/1.7.5/pom) | | | |
 | [1.7.4](https://central.sonatype.com/artifact/org.jpmml/jpmml-r/1.7.4/pom) | | | |
 | [1.7.3](https://central.sonatype.com/artifact/org.jpmml/jpmml-r/1.7.3/pom) | | | |
