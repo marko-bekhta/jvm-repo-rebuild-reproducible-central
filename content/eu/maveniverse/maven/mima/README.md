@@ -32,6 +32,7 @@ rebuilding **43 releases** of eu.maveniverse.maven.mima:mima:
 | [3.0.0-alpha-3](https://central.sonatype.com/artifact/eu.maveniverse.maven.mima/mima/3.0.0-alpha-3/pom) | [mvn jdk21](mima-3.0.0-alpha-3.buildspec) | [result](mima-3.0.0-alpha-3.buildinfo): [27 :white_check_mark: ](mima-3.0.0-alpha-3.buildcompare) | 33M |
 | [3.0.0-alpha-2](https://central.sonatype.com/artifact/eu.maveniverse.maven.mima/mima/3.0.0-alpha-2/pom) | [mvn jdk21](mima-3.0.0-alpha-2.buildspec) | [result](mima-3.0.0-alpha-2.buildinfo): [27 :white_check_mark: ](mima-3.0.0-alpha-2.buildcompare) | 33M |
 | [3.0.0-alpha-1](https://central.sonatype.com/artifact/eu.maveniverse.maven.mima/mima/3.0.0-alpha-1/pom) | [mvn jdk21](mima-3.0.0-alpha-1.buildspec) | [result](mima-3.0.0-alpha-1.buildinfo): [27 :white_check_mark: ](mima-3.0.0-alpha-1.buildcompare) | 26M |
+| [2.4.38](https://central.sonatype.com/artifact/eu.maveniverse.maven.mima/mima/2.4.38/pom) | | | |
 | [2.4.37](https://central.sonatype.com/artifact/eu.maveniverse.maven.mima/mima/2.4.37/pom) | | | |
 | [2.4.36](https://central.sonatype.com/artifact/eu.maveniverse.maven.mima/mima/2.4.36/pom) | | | |
 | [2.4.35](https://central.sonatype.com/artifact/eu.maveniverse.maven.mima/mima/2.4.35/pom) | | | |
