@@ -70,7 +70,7 @@ content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.33.0
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:37.0.0
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:10.0.0
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.11.0
-content/io/cucumber/messages/messages-26.0.1.buildspec:31.0.0
+content/io/cucumber/messages/messages-26.0.1.buildspec:31.0.1
 content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:8.1.0
 content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.0
 content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.37

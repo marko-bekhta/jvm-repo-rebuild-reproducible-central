@@ -319,6 +319,7 @@ rebuilding **13 releases** of org.glassfish.main:glassfish-parent:
 | [8.0.0-JDK17-M7](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-JDK17-M7/pom) | | | |
 | [8.0.0-JDK17-M6](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-JDK17-M6/pom) | | | |
 | [8.0.0-JDK17-M5](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-JDK17-M5/pom) | | | |
+| [8.0.0-DONTPUBLISH](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-DONTPUBLISH/pom) | | | |
 | [8.0.0-M15](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-M15/pom) | | | |
 | [8.0.0-M14](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-M14/pom) | | | |
 | [8.0.0-M13](https://central.sonatype.com/artifact/org.glassfish.main/glassfish-parent/8.0.0-M13/pom) | | | |
