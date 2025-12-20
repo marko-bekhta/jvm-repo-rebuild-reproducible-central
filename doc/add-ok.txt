@@ -24,7 +24,7 @@ content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.11
 content/com/github/hazendaz/maven/coveralls-maven-plugin/coveralls-maven-plugin-4.5.0-M5.buildspec:5.0.0
 content/com/github/hazendaz/maven/directory-maven-plugin/directory-maven-plugin-1.2.0.buildspec:1.2.2
 content/com/github/hazendaz/maven/htmlcompressor-maven-plugin/htmlcompressor-maven-plugin-2.1.0.buildspec:2.4.0
-content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.11.0
+content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.11.1
 content/com/github/hazendaz/maven/smartsprites-maven-plugin/smartsprites-maven-plugin-2.3.0.buildspec:2.4.1
 content/com/github/hazendaz/maven/whitespace-maven-plugin/whitespace-maven-plugin-1.4.0.buildspec:1.6.0
 content/com/github/hazendaz/maven/yuicompressor-maven-plugin/yuicompressor-maven-plugin-2.1.0.buildspec:2.3.1
@@ -267,7 +267,7 @@ content/org/eclipse/jkube/jkube-1.17.0.buildspec:1.18.2
 content/org/eclipse/daanse/org.eclipse.daanse.pom.parent/org.eclipse.daanse.pom.parent-0.0.2.buildspec:0.0.4
 content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.5
 content/org/glassfish/build/glassfishbuild-maven-plugin/glassfishbuild-maven-plugin-4.0.1.buildspec:4.1.0
-content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.2.0.Final
+content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.2.1.Final
 content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.1.0.Final
 content/org/itsallcode/openfasttrace-maven-plugin/openfasttrace-maven-plugin-2.2.0.buildspec:2.3.0
 content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.7.6
