@@ -44,6 +44,7 @@ rebuilding **2 releases** of org.apache.wicket:wicket-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [10.8.0](https://central.sonatype.com/artifact/org.apache.wicket/wicket-parent/10.8.0/pom) | | | |
 | [10.7.0](https://central.sonatype.com/artifact/org.apache.wicket/wicket-parent/10.7.0/pom) | | | |
 | [10.6.0](https://central.sonatype.com/artifact/org.apache.wicket/wicket-parent/10.6.0/pom) | | | |
 | [10.5.0](https://central.sonatype.com/artifact/org.apache.wicket/wicket-parent/10.5.0/pom) | | | |
