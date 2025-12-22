@@ -13,6 +13,7 @@ rebuilding **6 releases** of org.codehaus.mojo:exec-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.6.3](https://central.sonatype.com/artifact/org.codehaus.mojo/exec-maven-plugin/3.6.3/pom) | | | |
 | [3.6.2](https://central.sonatype.com/artifact/org.codehaus.mojo/exec-maven-plugin/3.6.2/pom) | | | |
 | [3.6.1](https://central.sonatype.com/artifact/org.codehaus.mojo/exec-maven-plugin/3.6.1/pom) | | | |
 | [3.6.0](https://central.sonatype.com/artifact/org.codehaus.mojo/exec-maven-plugin/3.6.0/pom) | | | |

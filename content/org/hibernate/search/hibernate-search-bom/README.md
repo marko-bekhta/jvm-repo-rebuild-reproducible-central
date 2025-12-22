@@ -49,6 +49,7 @@ rebuilding **5 releases** of org.hibernate.search:hibernate-search-bom:
 | [8.0.0.Alpha3](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.0.0.Alpha3/pom) | | | |
 | [8.0.0.Alpha2](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.0.0.Alpha2/pom) | | | |
 | [8.0.0.Alpha1](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.0.0.Alpha1/pom) | | | |
+| [7.2.5.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/7.2.5.Final/pom) | | | |
 | [7.2.4.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/7.2.4.Final/pom) | | | |
 | [7.2.3.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/7.2.3.Final/pom) | | | |
 | [7.2.2.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/7.2.2.Final/pom) | | | |
