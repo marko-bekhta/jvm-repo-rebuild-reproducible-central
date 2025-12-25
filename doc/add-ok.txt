@@ -274,7 +274,7 @@ content/org/itsallcode/openfasttrace-maven-plugin/openfasttrace-maven-plugin-2.2
 content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.7.6
 content/org/jpmml/jpmml-h2o/jpmml-h2o-1.2.14.buildspec:1.3.3
 content/org/jpmml/jpmml-lightgbm/jpmml-lightgbm-1.5.5.buildspec:1.6.3
-content/org/jpmml/jpmml-python/jpmml-python-1.2.4.buildspec:1.3.12
+content/org/jpmml/jpmml-python/jpmml-python-1.2.4.buildspec:1.3.13
 content/org/jpmml/jpmml-r/jpmml-r-1.5.6.buildspec:1.7.7
 content/org/jpmml/jpmml-sklearn/jpmml-sklearn-1.8.4.buildspec:1.9.20
 content/org/jpmml/jpmml-transpiler/jpmml-transpiler-1.3.6.buildspec:1.4.7
@@ -292,6 +292,7 @@ content/org/mybatis/parent/mybatis-parent-45.buildspec:51
 content/org/mybatis/scala/mybatis-scala-1.3.1.buildspec:1.3.2
 content/org/mybatis/caches/mybatis-caffeine/mybatis-caffeine-1.2.0.buildspec:1.2.1
 content/org/mybatis/caches/mybatis-ehcache/mybatis-ehcache-1.3.0.buildspec:1.3.1
+content/org/mybatis/caches/mybatis-hazelcast/mybatis-hazelcast-1.3.1.buildspec:1.4.0
 content/org/mybatis/scripting/mybatis-freemarker/mybatis-freemarker-1.3.0.buildspec:1.3.1
 content/org/mybatis/scripting/mybatis-thymeleaf/mybatis-thymeleaf-1.0.4.buildspec:1.1.1
 content/org/mybatis/scripting/mybatis-velocity/mybatis-velocity-2.3.0.buildspec:2.3.1
