@@ -22,6 +22,7 @@ rebuilding **1 releases** of org.mybatis.spring.boot:mybatis-spring-boot:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.0.1](https://central.sonatype.com/artifact/org.mybatis.spring.boot/mybatis-spring-boot/4.0.1/pom) | | | |
 | [4.0.0](https://central.sonatype.com/artifact/org.mybatis.spring.boot/mybatis-spring-boot/4.0.0/pom) | | | |
 | [3.0.5](https://central.sonatype.com/artifact/org.mybatis.spring.boot/mybatis-spring-boot/3.0.5/pom) | | | |
 | [3.0.4](https://central.sonatype.com/artifact/org.mybatis.spring.boot/mybatis-spring-boot/3.0.4/pom) | | | |
