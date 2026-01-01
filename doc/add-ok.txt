@@ -248,7 +248,7 @@ content/org/codehaus/mojo/flatten-maven-plugin/flatten-maven-plugin-1.6.0.builds
 content/org/codehaus/mojo/jaxb2-maven-plugin/jaxb2-maven-plugin-3.2.0.buildspec:4.0.0
 content/org/codehaus/mojo/l10n-maven-plugin/l10n-maven-plugin-1.0.0.buildspec:1.1.0
 content/org/codehaus/mojo/license-maven-plugin/license-maven-plugin-2.4.0.buildspec:2.7.0
-content/org/codehaus/mojo/mojo-parent/mojo-parent-86.buildspec:94
+content/org/codehaus/mojo/mojo-parent/mojo-parent-86.buildspec:95
 content/org/codehaus/mojo/mrm/mrm-1.6.0.buildspec:1.7.0
 content/org/codehaus/mojo/taglist-maven-plugin/taglist-maven-plugin-3.1.0.buildspec:3.2.2
 content/org/codehaus/mojo/tidy-maven-plugin/tidy-maven-plugin-1.3.0.buildspec:1.4.0
@@ -298,6 +298,7 @@ content/org/mybatis/caches/mybatis-caffeine/mybatis-caffeine-1.2.0.buildspec:1.2
 content/org/mybatis/caches/mybatis-ehcache/mybatis-ehcache-1.3.0.buildspec:1.3.1
 content/org/mybatis/caches/mybatis-hazelcast/mybatis-hazelcast-1.3.1.buildspec:1.4.0
 content/org/mybatis/caches/mybatis-ignite/mybatis-ignite-1.1.1.buildspec:1.2.0
+content/org/mybatis/caches/mybatis-memcached/mybatis-memcached-1.1.1.buildspec:1.2.0
 content/org/mybatis/scripting/mybatis-freemarker/mybatis-freemarker-1.3.0.buildspec:1.3.1
 content/org/mybatis/scripting/mybatis-thymeleaf/mybatis-thymeleaf-1.0.4.buildspec:1.1.1
 content/org/mybatis/scripting/mybatis-velocity/mybatis-velocity-2.3.0.buildspec:2.3.1
