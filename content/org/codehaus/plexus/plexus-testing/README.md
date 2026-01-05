@@ -13,6 +13,7 @@ rebuilding **4 releases** of org.codehaus.plexus:plexus-testing:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.1.0](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-testing/2.1.0/pom) | | | |
 | [2.0.2](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-testing/2.0.2/pom) | | | |
 | [2.0.1](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-testing/2.0.1/pom) | | | |
 | [2.0.0](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-testing/2.0.0/pom) | | | |
