@@ -13,6 +13,7 @@ rebuilding **20 releases** of org.codehaus.plexus:plexus-archiver:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.11.0](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-archiver/4.11.0/pom) | | | |
 | [4.10.4](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-archiver/4.10.4/pom) | | | |
 | [4.10.3](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-archiver/4.10.3/pom) | | | |
 | [4.10.2](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-archiver/4.10.2/pom) | | | |

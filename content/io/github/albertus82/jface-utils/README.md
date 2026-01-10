@@ -13,6 +13,7 @@ rebuilding **10 releases** of io.github.albertus82:jface-utils:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [20.2.1](https://central.sonatype.com/artifact/io.github.albertus82/jface-utils/20.2.1/pom) | | | |
 | [20.2.0](https://central.sonatype.com/artifact/io.github.albertus82/jface-utils/20.2.0/pom) | | | |
 | [20.1.0](https://central.sonatype.com/artifact/io.github.albertus82/jface-utils/20.1.0/pom) | [mvn jdk17](jface-utils-20.1.0.buildspec) | [result](jface-utils-20.1.0.buildinfo): [3 :white_check_mark: ](jface-utils-20.1.0.buildcompare) | 780K |
 | [20.0.0](https://central.sonatype.com/artifact/io.github.albertus82/jface-utils/20.0.0/pom) | [mvn jdk17](jface-utils-20.0.0.buildspec) | [result](jface-utils-20.0.0.buildinfo): [3 :white_check_mark: ](jface-utils-20.0.0.buildcompare) | 782K |
