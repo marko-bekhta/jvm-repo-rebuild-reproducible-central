@@ -19,6 +19,7 @@ rebuilding **3 releases** of org.jpmml:jpmml-h2o:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.3.4](https://central.sonatype.com/artifact/org.jpmml/jpmml-h2o/1.3.4/pom) | | | |
 | [1.3.3](https://central.sonatype.com/artifact/org.jpmml/jpmml-h2o/1.3.3/pom) | | | |
 | [1.3.2](https://central.sonatype.com/artifact/org.jpmml/jpmml-h2o/1.3.2/pom) | | | |
 | [1.3.1](https://central.sonatype.com/artifact/org.jpmml/jpmml-h2o/1.3.1/pom) | | | |

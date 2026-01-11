@@ -13,6 +13,7 @@ rebuilding **1 releases** of org.mybatis:mybatis2:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.8.0](https://central.sonatype.com/artifact/org.mybatis/mybatis2/2.8.0/pom) | | | |
 | [2.7.6](https://central.sonatype.com/artifact/org.mybatis/mybatis2/2.7.6/pom) | | | |
 | [2.7.5](https://central.sonatype.com/artifact/org.mybatis/mybatis2/2.7.5/pom) | | | |
 | [2.7.4](https://central.sonatype.com/artifact/org.mybatis/mybatis2/2.7.4/pom) | | | |

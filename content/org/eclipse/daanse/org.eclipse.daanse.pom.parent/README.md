@@ -13,6 +13,7 @@ rebuilding **1 releases** of org.eclipse.daanse:org.eclipse.daanse.pom.parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [0.0.6](https://central.sonatype.com/artifact/org.eclipse.daanse/org.eclipse.daanse.pom.parent/0.0.6/pom) | | | |
 | [0.0.5](https://central.sonatype.com/artifact/org.eclipse.daanse/org.eclipse.daanse.pom.parent/0.0.5/pom) | | | |
 | [0.0.4](https://central.sonatype.com/artifact/org.eclipse.daanse/org.eclipse.daanse.pom.parent/0.0.4/pom) | | | |
 | [0.0.3](https://central.sonatype.com/artifact/org.eclipse.daanse/org.eclipse.daanse.pom.parent/0.0.3/pom) | | | |

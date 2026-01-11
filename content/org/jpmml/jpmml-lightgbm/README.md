@@ -19,6 +19,7 @@ rebuilding **1 releases** of org.jpmml:jpmml-lightgbm:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.6.4](https://central.sonatype.com/artifact/org.jpmml/jpmml-lightgbm/1.6.4/pom) | | | |
 | [1.6.3](https://central.sonatype.com/artifact/org.jpmml/jpmml-lightgbm/1.6.3/pom) | | | |
 | [1.6.2](https://central.sonatype.com/artifact/org.jpmml/jpmml-lightgbm/1.6.2/pom) | | | |
 | [1.6.1](https://central.sonatype.com/artifact/org.jpmml/jpmml-lightgbm/1.6.1/pom) | | | |
