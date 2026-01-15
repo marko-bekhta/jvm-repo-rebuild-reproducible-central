@@ -35,6 +35,7 @@ rebuilding **19 releases** of nl.basjes.parse.useragent:yauaa:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [8.0.0](https://central.sonatype.com/artifact/nl.basjes.parse.useragent/yauaa/8.0.0/pom) | | | |
 | [7.32.0](https://central.sonatype.com/artifact/nl.basjes.parse.useragent/yauaa/7.32.0/pom) | | | |
 | [7.31.0](https://central.sonatype.com/artifact/nl.basjes.parse.useragent/yauaa/7.31.0/pom) | | | |
 | [7.30.0](https://central.sonatype.com/artifact/nl.basjes.parse.useragent/yauaa/7.30.0/pom) | | | |
