@@ -62,11 +62,11 @@ content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.5.0
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.7.0
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.15.0
-content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.3.1-beta-3
+content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.3.1-beta-4
 content/fr/marcwrobel/jbanking/jbanking-4.2.0.buildspec:4.3.0
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.40
 content/io/trino/trino-459.buildspec:479
-content/io/airlift/airbase/airbase-184.buildspec:342
+content/io/airlift/airbase/airbase-184.buildspec:343
 content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:12.0.0
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:18.0.1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.33.0
