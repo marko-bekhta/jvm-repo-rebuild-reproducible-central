@@ -13,6 +13,7 @@ rebuilding **2 releases** of org.codehaus.mojo:jaxb2-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.1.0](https://central.sonatype.com/artifact/org.codehaus.mojo/jaxb2-maven-plugin/4.1.0/pom) | | | |
 | [4.0.0](https://central.sonatype.com/artifact/org.codehaus.mojo/jaxb2-maven-plugin/4.0.0/pom) | | | |
 | [3.3.0](https://central.sonatype.com/artifact/org.codehaus.mojo/jaxb2-maven-plugin/3.3.0/pom) | | | |
 | [3.2.0](https://central.sonatype.com/artifact/org.codehaus.mojo/jaxb2-maven-plugin/3.2.0/pom) | [mvn jdk21](jaxb2-maven-plugin-3.2.0.buildspec) | [result](jaxb2-maven-plugin-3.2.0.buildinfo): [4 :white_check_mark: ](jaxb2-maven-plugin-3.2.0.buildcompare) | 1.3M |

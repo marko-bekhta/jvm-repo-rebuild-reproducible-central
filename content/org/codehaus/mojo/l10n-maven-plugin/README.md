@@ -13,6 +13,8 @@ rebuilding **1 releases** of org.codehaus.mojo:l10n-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.2.0](https://central.sonatype.com/artifact/org.codehaus.mojo/l10n-maven-plugin/1.2.0/pom) | | | |
+| [1.1.1](https://central.sonatype.com/artifact/org.codehaus.mojo/l10n-maven-plugin/1.1.1/pom) | | | |
 | [1.1.0](https://central.sonatype.com/artifact/org.codehaus.mojo/l10n-maven-plugin/1.1.0/pom) | | | |
 | [1.0.0](https://central.sonatype.com/artifact/org.codehaus.mojo/l10n-maven-plugin/1.0.0/pom) | [mvn jdk8](l10n-maven-plugin-1.0.0.buildspec) | [result](l10n-maven-plugin-1.0.0.buildinfo): [4 :white_check_mark: ](l10n-maven-plugin-1.0.0.buildcompare) | 73K |
 

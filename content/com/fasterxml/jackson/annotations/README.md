@@ -18,6 +18,7 @@ rebuilding **25 releases** of com.fasterxml.jackson.core:jackson-annotations:
 | [3.0-rc3](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/3.0-rc3/pom) | | | |
 | [3.0-rc2](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/3.0-rc2/pom) | | | |
 | [3.0-rc1](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/3.0-rc1/pom) | | | |
+| [2.21](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/2.21/pom) | | | |
 | [2.20](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/2.20/pom) | | | |
 | [2.20-rc1](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/2.20-rc1/pom) | | | |
 | [2.19.4](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/2.19.4/pom) | | | |

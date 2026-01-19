@@ -13,6 +13,7 @@ rebuilding **25 releases** of com.fasterxml.jackson.core:jackson-core:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.21.0](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-core/2.21.0/pom) | | | |
 | [2.20.1](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-core/2.20.1/pom) | | | |
 | [2.20.0](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-core/2.20.0/pom) | | | |
 | [2.20.0-rc1](https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-core/2.20.0-rc1/pom) | | | |
