@@ -1013,7 +1013,9 @@ rebuilding **3 releases** of io.quarkus:quarkus-project:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.31.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.31.0/pom) | | | |
 | [3.31.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.31.0.CR1/pom) | | | |
+| [3.30.7](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.30.7/pom) | | | |
 | [3.30.6](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.30.6/pom) | | | |
 | [3.30.5](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.30.5/pom) | | | |
 | [3.30.4](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.30.4/pom) | | | |
