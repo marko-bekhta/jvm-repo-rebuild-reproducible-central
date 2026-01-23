@@ -235,6 +235,7 @@ rebuilding **13 releases** of org.apache.activemq:artemis-pom:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.50.0](https://central.sonatype.com/artifact/org.apache.activemq/artemis-pom/2.50.0/pom) | | | |
 | [2.44.0](https://central.sonatype.com/artifact/org.apache.activemq/artemis-pom/2.44.0/pom) | | | |
 | [2.43.0](https://central.sonatype.com/artifact/org.apache.activemq/artemis-pom/2.43.0/pom) | | | |
 | [2.42.0](https://central.sonatype.com/artifact/org.apache.activemq/artemis-pom/2.42.0/pom) | | | |
