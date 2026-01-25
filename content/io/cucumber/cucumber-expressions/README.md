@@ -13,6 +13,7 @@ rebuilding **7 releases** of io.cucumber:cucumber-expressions:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [19.0.0](https://central.sonatype.com/artifact/io.cucumber/cucumber-expressions/19.0.0/pom) | | | |
 | [18.1.0](https://central.sonatype.com/artifact/io.cucumber/cucumber-expressions/18.1.0/pom) | | | |
 | [18.0.1](https://central.sonatype.com/artifact/io.cucumber/cucumber-expressions/18.0.1/pom) | | | |
 | [18.0.0](https://central.sonatype.com/artifact/io.cucumber/cucumber-expressions/18.0.0/pom) | | | |
