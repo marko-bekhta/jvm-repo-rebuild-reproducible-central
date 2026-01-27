@@ -35,6 +35,7 @@ rebuilding **8 releases** of org.apache.sshd:sshd:
 | -- | --------- | ------ | -- |
 | [3.0.0-M2](https://central.sonatype.com/artifact/org.apache.sshd/sshd/3.0.0-M2/pom) | | | |
 | [3.0.0-M1](https://central.sonatype.com/artifact/org.apache.sshd/sshd/3.0.0-M1/pom) | | | |
+| [2.17.1](https://central.sonatype.com/artifact/org.apache.sshd/sshd/2.17.1/pom) | | | |
 | [2.16.0](https://central.sonatype.com/artifact/org.apache.sshd/sshd/2.16.0/pom) | | | |
 | [2.15.0](https://central.sonatype.com/artifact/org.apache.sshd/sshd/2.15.0/pom) | | | |
 | [2.14.0](https://central.sonatype.com/artifact/org.apache.sshd/sshd/2.14.0/pom) | | | |
