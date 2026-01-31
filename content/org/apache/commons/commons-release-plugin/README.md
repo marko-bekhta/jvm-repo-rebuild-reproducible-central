@@ -13,6 +13,7 @@ rebuilding **1 releases** of org.apache.commons:commons-release-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.9.2](https://central.sonatype.com/artifact/org.apache.commons/commons-release-plugin/1.9.2/pom) | | | |
 | [1.9.1](https://central.sonatype.com/artifact/org.apache.commons/commons-release-plugin/1.9.1/pom) | | | |
 | [1.9.0](https://central.sonatype.com/artifact/org.apache.commons/commons-release-plugin/1.9.0/pom) | | | |
 | [1.8.3](https://central.sonatype.com/artifact/org.apache.commons/commons-release-plugin/1.8.3/pom) | | | |
