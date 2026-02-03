@@ -167,12 +167,14 @@ rebuilding **12 releases** of org.apache.syncope:syncope:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.0.4](https://central.sonatype.com/artifact/org.apache.syncope/syncope/4.0.4/pom) | | | |
 | [4.0.3](https://central.sonatype.com/artifact/org.apache.syncope/syncope/4.0.3/pom) | | | |
 | [4.0.2](https://central.sonatype.com/artifact/org.apache.syncope/syncope/4.0.2/pom) | | | |
 | [4.0.1](https://central.sonatype.com/artifact/org.apache.syncope/syncope/4.0.1/pom) | | | |
 | [4.0.0](https://central.sonatype.com/artifact/org.apache.syncope/syncope/4.0.0/pom) | | | |
 | [4.0.0-M1](https://central.sonatype.com/artifact/org.apache.syncope/syncope/4.0.0-M1/pom) | | | |
 | [4.0.0-M0](https://central.sonatype.com/artifact/org.apache.syncope/syncope/4.0.0-M0/pom) | | | |
+| [3.0.16](https://central.sonatype.com/artifact/org.apache.syncope/syncope/3.0.16/pom) | | | |
 | [3.0.15](https://central.sonatype.com/artifact/org.apache.syncope/syncope/3.0.15/pom) | | | |
 | [3.0.14](https://central.sonatype.com/artifact/org.apache.syncope/syncope/3.0.14/pom) | | | |
 | [3.0.13](https://central.sonatype.com/artifact/org.apache.syncope/syncope/3.0.13/pom) | | | |

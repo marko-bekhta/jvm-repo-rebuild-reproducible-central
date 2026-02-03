@@ -13,7 +13,9 @@ rebuilding **3 releases** of com.semanticcms:semanticcms-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.0.1](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-parent/2.0.1/pom) | | | |
 | [2.0.0](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-parent/2.0.0/pom) | | | |
+| [1.22.0](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-parent/1.22.0/pom) | | | |
 | [1.21.0](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-parent/1.21.0/pom) | | | |
 | [1.20.3](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-parent/1.20.3/pom) | [mvn jdk11](semanticcms-parent-1.20.3.buildspec) | [result](semanticcms-parent-1.20.3.buildinfo): [1 :white_check_mark: ](semanticcms-parent-1.20.3.buildcompare) | 4.0K |
 | [1.20.2](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-parent/1.20.2/pom) | [mvn jdk11](semanticcms-parent-1.20.2.buildspec) | [result](semanticcms-parent-1.20.2.buildinfo): [1 :white_check_mark: ](semanticcms-parent-1.20.2.buildcompare) | 3.9K |
