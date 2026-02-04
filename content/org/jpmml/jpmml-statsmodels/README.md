@@ -19,6 +19,7 @@ rebuilding **2 releases** of org.jpmml:jpmml-statsmodels:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.3.12](https://central.sonatype.com/artifact/org.jpmml/jpmml-statsmodels/1.3.12/pom) | | | |
 | [1.3.11](https://central.sonatype.com/artifact/org.jpmml/jpmml-statsmodels/1.3.11/pom) | | | |
 | [1.3.10](https://central.sonatype.com/artifact/org.jpmml/jpmml-statsmodels/1.3.10/pom) | | | |
 | [1.3.9](https://central.sonatype.com/artifact/org.jpmml/jpmml-statsmodels/1.3.9/pom) | | | |
