@@ -13,6 +13,7 @@ rebuilding **10 releases** of org.apache.maven.plugins:maven-dependency-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.10.0](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-dependency-plugin/3.10.0/pom) | | | |
 | [3.9.0](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-dependency-plugin/3.9.0/pom) | | | |
 | [3.8.1](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-dependency-plugin/3.8.1/pom) | | | |
 | [3.8.0](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-dependency-plugin/3.8.0/pom) | [mvn jdk8 w](maven-dependency-plugin-3.8.0.buildspec) | [result](maven-dependency-plugin-3.8.0.buildinfo): [6 :white_check_mark: ](maven-dependency-plugin-3.8.0.buildcompare) | 1.4M |

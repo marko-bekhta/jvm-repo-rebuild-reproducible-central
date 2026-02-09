@@ -70,6 +70,7 @@ rebuilding **24 releases** of org.eclipse.jkube:jkube:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.19.0](https://central.sonatype.com/artifact/org.eclipse.jkube/jkube/1.19.0/pom) | | | |
 | [1.18.2](https://central.sonatype.com/artifact/org.eclipse.jkube/jkube/1.18.2/pom) | | | |
 | [1.18.1](https://central.sonatype.com/artifact/org.eclipse.jkube/jkube/1.18.1/pom) | | | |
 | [1.18.0](https://central.sonatype.com/artifact/org.eclipse.jkube/jkube/1.18.0/pom) | | | |
