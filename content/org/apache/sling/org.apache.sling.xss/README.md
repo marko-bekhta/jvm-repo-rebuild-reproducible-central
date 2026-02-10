@@ -13,6 +13,7 @@ rebuilding **8 releases** of org.apache.sling:org.apache.sling.xss:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.4.10](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.xss/2.4.10/pom) | | | |
 | [2.4.8](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.xss/2.4.8/pom) | | | |
 | [2.4.6](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.xss/2.4.6/pom) | | | |
 | [2.4.4](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.xss/2.4.4/pom) | | | |

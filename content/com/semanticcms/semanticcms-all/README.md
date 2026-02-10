@@ -13,6 +13,7 @@ rebuilding **1 releases** of com.semanticcms:semanticcms-all:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.0.1](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-all/2.0.1/pom) | | | |
 | [1.22.0](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-all/1.22.0/pom) | | | |
 | [1.14.0](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-all/1.14.0/pom) | [mvn jdk17](semanticcms-all-1.14.0.buildspec) | [result](semanticcms-all-1.14.0.buildinfo): [3 :white_check_mark: ](semanticcms-all-1.14.0.buildcompare) | 33K |
 
