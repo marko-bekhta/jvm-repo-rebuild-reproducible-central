@@ -13,6 +13,7 @@ rebuilding **4 releases** of org.sentrysoftware.maven:maven-skin-tools:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.7.00](https://central.sonatype.com/artifact/org.sentrysoftware.maven/maven-skin-tools/1.7.00/pom) | | | |
 | [1.6.00](https://central.sonatype.com/artifact/org.sentrysoftware.maven/maven-skin-tools/1.6.00/pom) | | | |
 | [1.5.00](https://central.sonatype.com/artifact/org.sentrysoftware.maven/maven-skin-tools/1.5.00/pom) | | | |
 | [1.4.00](https://central.sonatype.com/artifact/org.sentrysoftware.maven/maven-skin-tools/1.4.00/pom) | | | |

@@ -147,7 +147,7 @@ content/org/apache/syncope/syncope-3.0.8.buildspec:4.0.4
 content/org/apache/wayang/wayang-0.7.1.buildspec:1.1.0
 content/org/apache/wicket/wicket-parent-10.2.0.buildspec:10.8.0
 content/org/apache/wss4j/wss4j-3.0.3.buildspec:4.0.1
-content/org/apache/activemq/artemis/artemis-2.37.0.buildspec:2.50.0
+content/org/apache/activemq/artemis/artemis-2.37.0.buildspec:2.51.0
 content/org/apache/commons/commons-exec/commons-exec-1.4.0.buildspec:1.6.0
 content/org/apache/commons/commons-io/commons-io-2.17.0.buildspec:2.21.0
 content/org/apache/commons/commons-jexl3/commons-jexl3-3.4.0.buildspec:3.6.2
@@ -341,7 +341,7 @@ content/org/sentrysoftware/ipmi/ipmi-1.1.00.buildspec:1.2.00
 content/org/sentrysoftware/jawk/jawk-3.3.03.buildspec:3.3.04
 content/org/sentrysoftware/snmp/snmp-1.0.01.buildspec:2.0.00
 content/org/sentrysoftware/winrm/winrm-1.0.01.buildspec:1.1.01
-content/org/sentrysoftware/maven/maven-skin-tools/maven-skin-tools-1.3.00.buildspec:1.6.00
+content/org/sentrysoftware/maven/maven-skin-tools/maven-skin-tools-1.3.00.buildspec:1.7.00
 content/org/sentrysoftware/maven/sentry-maven-skin/sentry-maven-skin-6.4.01.buildspec:6.6.01
 content/org/simplify4u/pgp-keys-map/pgp-keys-map-2024.06.29.buildspec:2026.01.20
 content/org/simplify4u/slf4j-mock/slf4j-mock-2.3.0.buildspec:2.4.0
