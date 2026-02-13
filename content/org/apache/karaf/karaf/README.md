@@ -272,6 +272,7 @@ rebuilding **8 releases** of org.apache.karaf:karaf:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.4.10](https://central.sonatype.com/artifact/org.apache.karaf/karaf/4.4.10/pom) | | | |
 | [4.4.9](https://central.sonatype.com/artifact/org.apache.karaf/karaf/4.4.9/pom) | | | |
 | [4.4.8](https://central.sonatype.com/artifact/org.apache.karaf/karaf/4.4.8/pom) | | | |
 | [4.4.7](https://central.sonatype.com/artifact/org.apache.karaf/karaf/4.4.7/pom) | | | |
