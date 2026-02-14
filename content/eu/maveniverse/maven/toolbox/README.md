@@ -20,6 +20,7 @@ rebuilding **43 releases** of eu.maveniverse.maven.toolbox:toolbox:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [0.15.2](https://central.sonatype.com/artifact/eu.maveniverse.maven.toolbox/toolbox/0.15.2/pom) | | | |
 | [0.15.1](https://central.sonatype.com/artifact/eu.maveniverse.maven.toolbox/toolbox/0.15.1/pom) | | | |
 | [0.15.0](https://central.sonatype.com/artifact/eu.maveniverse.maven.toolbox/toolbox/0.15.0/pom) | | | |
 | [0.14.9](https://central.sonatype.com/artifact/eu.maveniverse.maven.toolbox/toolbox/0.14.9/pom) | | | |
