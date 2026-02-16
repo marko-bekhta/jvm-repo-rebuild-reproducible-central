@@ -22,8 +22,10 @@ rebuilding **14 releases** of org.apache.sling:org.apache.sling.testing.sling-mo
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.0.4](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.testing.sling-mock/4.0.4/pom) | | | |
 | [4.0.2](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.testing.sling-mock/4.0.2/pom) | | | |
 | [4.0.0](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.testing.sling-mock/4.0.0/pom) | | | |
+| [3.6.0](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.testing.sling-mock/3.6.0/pom) | | | |
 | [3.5.6](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.testing.sling-mock/3.5.6/pom) | | | |
 | [3.5.4](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.testing.sling-mock/3.5.4/pom) | | | |
 | [3.5.2](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.testing.sling-mock/3.5.2/pom) | [mvn jdk17 w](org.apache.sling.testing.sling-mock-3.5.2.buildspec) | [result](org.apache.sling.testing.sling-mock-3.5.2.buildinfo): [17 :white_check_mark: ](org.apache.sling.testing.sling-mock-3.5.2.buildcompare) | 729K |
