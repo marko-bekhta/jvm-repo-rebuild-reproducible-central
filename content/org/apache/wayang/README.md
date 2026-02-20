@@ -55,6 +55,7 @@ rebuilding **3 releases** of org.apache.wayang:wayang:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.1.1](https://central.sonatype.com/artifact/org.apache.wayang/wayang/1.1.1/pom) | | | |
 | [1.1.0](https://central.sonatype.com/artifact/org.apache.wayang/wayang/1.1.0/pom) | | | |
 | [1.0.0](https://central.sonatype.com/artifact/org.apache.wayang/wayang/1.0.0/pom) | | | |
 | [0.7.1](https://central.sonatype.com/artifact/org.apache.wayang/wayang/0.7.1/pom) | [mvn jdk8](wayang-0.7.1.buildspec) | [result](wayang-0.7.1.buildinfo): [90 :white_check_mark: ](wayang-0.7.1.buildcompare) | 14M |
