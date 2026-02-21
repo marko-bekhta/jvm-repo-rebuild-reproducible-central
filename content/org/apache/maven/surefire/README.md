@@ -42,6 +42,7 @@ rebuilding **16 releases** of org.apache.maven.surefire:surefire:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.5.5](https://central.sonatype.com/artifact/org.apache.maven.surefire/surefire/3.5.5/pom) | | | |
 | [3.5.4](https://central.sonatype.com/artifact/org.apache.maven.surefire/surefire/3.5.4/pom) | | | |
 | [3.5.3](https://central.sonatype.com/artifact/org.apache.maven.surefire/surefire/3.5.3/pom) | | | |
 | [3.5.2](https://central.sonatype.com/artifact/org.apache.maven.surefire/surefire/3.5.2/pom) | | | |

@@ -175,7 +175,7 @@ content/org/apache/maven/indexer/maven-indexer-7.1.5.buildspec:7.1.6
 content/org/apache/maven/jxr/jxr-3.5.0.buildspec:3.6.0
 content/org/apache/maven/maven/maven-4.0.0-beta-4.buildspec:4.0.0-rc-5
 content/org/apache/maven/parent/maven-parent-43.buildspec:47
-content/org/apache/maven/surefire/surefire-3.5.0.buildspec:3.5.4
+content/org/apache/maven/surefire/surefire-3.5.0.buildspec:3.5.5
 content/org/apache/maven/doxia/doxia-sitetools/doxia-sitetools-2.0.0-M19.buildspec:2.0.0
 content/org/apache/maven/extensions/maven-build-cache-extension/maven-build-cache-extension-1.2.0.buildspec:1.2.2
 content/org/apache/maven/plugin-testing/maven-plugin-testing/maven-plugin-testing-4.0.0-beta-1.buildspec:4.0.0-beta-4
