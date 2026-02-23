@@ -22,6 +22,7 @@ rebuilding **9 releases** of com.fasterxml.jackson.dataformat:jackson-dataformat
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.21.1](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.21.1/pom) | | | |
 | [2.21.0](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.21.0/pom) | | | |
 | [2.20.2](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.20.2/pom) | | | |
 | [2.20.1](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.20.1/pom) | | | |
@@ -33,6 +34,7 @@ rebuilding **9 releases** of com.fasterxml.jackson.dataformat:jackson-dataformat
 | [2.19.1](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.19.1/pom) | | | |
 | [2.19.0](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.19.0/pom) | | | |
 | [2.19.0-rc2](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.19.0-rc2/pom) | | | |
+| [2.18.6](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.18.6/pom) | | | |
 | [2.18.5](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.18.5/pom) | | | |
 | [2.18.4](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.18.4/pom) | | | |
 | [2.18.3](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.18.3/pom) | | | |
