@@ -43,6 +43,7 @@ rebuilding **14 releases** of org.apache.jackrabbit.vault:jackrabbit-filevault:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.2.0](https://central.sonatype.com/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/4.2.0/pom) | | | |
 | [4.1.4](https://central.sonatype.com/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/4.1.4/pom) | | | |
 | [4.0.0](https://central.sonatype.com/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/4.0.0/pom) | | | |
 | [3.8.4](https://central.sonatype.com/artifact/org.apache.jackrabbit.vault/jackrabbit-filevault/3.8.4/pom) | | | |
