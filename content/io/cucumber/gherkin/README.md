@@ -13,6 +13,7 @@ rebuilding **9 releases** of io.cucumber:gherkin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [39.0.0](https://central.sonatype.com/artifact/io.cucumber/gherkin/39.0.0/pom) | | | |
 | [38.0.0](https://central.sonatype.com/artifact/io.cucumber/gherkin/38.0.0/pom) | | | |
 | [37.0.1](https://central.sonatype.com/artifact/io.cucumber/gherkin/37.0.1/pom) | | | |
 | [37.0.0](https://central.sonatype.com/artifact/io.cucumber/gherkin/37.0.0/pom) | | | |
