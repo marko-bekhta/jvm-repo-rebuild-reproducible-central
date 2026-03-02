@@ -85,7 +85,7 @@ content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.3
 content/fr/marcwrobel/jbanking/jbanking-4.2.0.buildspec:4.3.0
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.42
 content/io/trino/trino-459.buildspec:479
-content/io/airlift/airbase/airbase-184.buildspec:356
+content/io/airlift/airbase/airbase-184.buildspec:357
 content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:13.0.0
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:19.0.0
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.34.2
@@ -119,7 +119,7 @@ content/io/wcm/tooling/commons/content-package-builder/wcm-content-package-build
 content/io/wcm/tooling/commons/crx-packmgr-helper/wcm-crx-packmgr-helper-2.1.6.buildspec:2.4.0
 content/jakarta/persistence/jakarta.persistence-api/jakarta.persistence-api-3.2.0.buildspec:4.0.0-M1
 content/jakarta/servlet/jakarta.servlet-api/jakarta.servlet-api-6.1.0.buildspec:6.2.0-M1
-content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.18.6-jdk6-jdk5
+content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.18.7-jdk5
 content/net/revelc/code/impsort-maven-plugin/impsort-maven-plugin-1.12.0.buildspec:1.13.0
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:20
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
@@ -139,7 +139,7 @@ content/org/apache/dubbo/dubbo-3.3.0.buildspec:3.3.6
 content/org/apache/helix/helix-1.4.1.buildspec:1.4.3
 content/org/apache/johnzon/johnzon-2.0.1.buildspec:2.0.2
 content/org/apache/mina/mina-2.2.3.buildspec:2.2.5
-content/org/apache/orc/orc-2.0.2.buildspec:2.2.2
+content/org/apache/orc/orc-2.0.2.buildspec:2.3.0
 content/org/apache/rat/apache-rat-0.16.1.buildspec:0.17
 content/org/apache/ratis/ratis-3.1.1.buildspec:3.2.1
 content/org/apache/shiro/shiro-2.0.1.buildspec:3.0.0-alpha-1
@@ -148,7 +148,7 @@ content/org/apache/syncope/syncope-3.0.8.buildspec:4.1.0-M0
 content/org/apache/wayang/wayang-0.7.1.buildspec:1.1.1
 content/org/apache/wicket/wicket-parent-10.2.0.buildspec:10.8.0
 content/org/apache/wss4j/wss4j-3.0.3.buildspec:4.0.1
-content/org/apache/activemq/artemis/artemis-2.37.0.buildspec:2.51.0
+content/org/apache/activemq/artemis/artemis-2.37.0.buildspec:2.52.0
 content/org/apache/commons/commons-exec/commons-exec-1.4.0.buildspec:1.6.0
 content/org/apache/commons/commons-io/commons-io-2.17.0.buildspec:2.21.0
 content/org/apache/commons/commons-jexl3/commons-jexl3-3.4.0.buildspec:3.6.2
@@ -231,7 +231,7 @@ content/org/apache/sling/org.apache.sling.engine/org.apache.sling.engine-2.15.16
 content/org/apache/sling/org.apache.sling.event/org.apache.sling.event-4.3.14.buildspec:4.4.0
 content/org/apache/sling/org.apache.sling.feature/org.apache.sling.feature-2.0.0.buildspec:2.0.4
 content/org/apache/sling/org.apache.sling.feature.analyser/org.apache.sling.feature.analyser-2.0.10.buildspec:2.0.14
-content/org/apache/sling/org.apache.sling.feature.extension.apiregions/org.apache.sling.feature.extension.apiregions-2.0.0.buildspec:2.1.2
+content/org/apache/sling/org.apache.sling.feature.extension.apiregions/org.apache.sling.feature.extension.apiregions-2.0.0.buildspec:2.2.0
 content/org/apache/sling/org.apache.sling.fsresource/org.apache.sling.fsresource-2.2.0.buildspec:2.3.0
 content/org/apache/sling/org.apache.sling.installer.core/org.apache.sling.installer.core-3.14.0.buildspec:3.14.4
 content/org/apache/sling/org.apache.sling.installer.factory.configuration/org.apache.sling.installer.factory.configuration-1.4.6.buildspec:1.4.10
@@ -359,4 +359,4 @@ content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.
 content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.28.0
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.5.4
 content/us/abstracta/jmeter/jmeter-java-dsl/jmeter-java-dsl-1.29.buildspec:2.2
-content/world/convex/convex-0.7.15.buildspec:0.8.2
+content/world/convex/convex-0.7.15.buildspec:0.8.3

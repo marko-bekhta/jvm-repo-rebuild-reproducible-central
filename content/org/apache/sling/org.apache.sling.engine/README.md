@@ -15,6 +15,7 @@ rebuilding **18 releases** of org.apache.sling:org.apache.sling.engine:
 | -- | --------- | ------ | -- |
 | [3.0.2](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.engine/3.0.2/pom) | | | |
 | [3.0.0](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.engine/3.0.0/pom) | | | |
+| [2.16.8](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.engine/2.16.8/pom) | | | |
 | [2.16.6](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.engine/2.16.6/pom) | | | |
 | [2.16.4](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.engine/2.16.4/pom) | | | |
 | [2.16.2](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.engine/2.16.2/pom) | | | |
