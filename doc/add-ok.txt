@@ -75,7 +75,7 @@ content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.29
 content/com/spotify/github-client/github-client-0.3.2.buildspec:0.5.8
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:4.0.2
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.5.0
-content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.11.0
+content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.12.1
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.7
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.5.0
@@ -85,7 +85,7 @@ content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.3
 content/fr/marcwrobel/jbanking/jbanking-4.2.0.buildspec:4.3.0
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.43
 content/io/trino/trino-459.buildspec:479
-content/io/airlift/airbase/airbase-184.buildspec:357
+content/io/airlift/airbase/airbase-184.buildspec:359
 content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:13.0.0
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:19.0.0
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.34.3
@@ -201,7 +201,7 @@ content/org/apache/maven/plugins/maven-project-info-reports-plugin/maven-project
 content/org/apache/maven/plugins/maven-rar-plugin/maven-rar-plugin-3.0.0.buildspec:3.1.0
 content/org/apache/maven/plugins/maven-release-plugin/maven-release-plugin-3.1.1.buildspec:3.3.1
 content/org/apache/maven/plugins/maven-scripting-plugin/maven-scripting-plugin-3.0.0.buildspec:3.1.0
-content/org/apache/maven/plugins/maven-shade-plugin/maven-shade-plugin-3.6.0.buildspec:3.6.1
+content/org/apache/maven/plugins/maven-shade-plugin/maven-shade-plugin-3.6.0.buildspec:3.6.2
 content/org/apache/maven/plugins/maven-war-plugin/maven-war-plugin-3.4.0.buildspec:3.5.1
 content/org/apache/maven/plugins/maven-wrapper-plugin/wrapper-3.3.2.buildspec:3.3.4
 content/org/apache/maven/reporting/maven-reporting-api/maven-reporting-api-4.0.0-M12.buildspec:4.0.0
@@ -299,7 +299,7 @@ content/org/cyclonedx/cyclonedx-core-java/cyclonedx-core-java-9.0.5.buildspec:12
 content/org/cyclonedx/cyclonedx-maven-plugin/cyclonedx-maven-plugin-2.8.2.buildspec:2.9.1
 content/org/eclipse/jkube/jkube-1.17.0.buildspec:1.19.0
 content/org/eclipse/daanse/org.eclipse.daanse.pom.parent/org.eclipse.daanse.pom.parent-0.0.2.buildspec:0.0.7
-content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.6
+content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.7
 content/org/glassfish/build/glassfishbuild-maven-plugin/glassfishbuild-maven-plugin-4.0.1.buildspec:4.1.0
 content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.3.0.CR1
 content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.1.0.Final
