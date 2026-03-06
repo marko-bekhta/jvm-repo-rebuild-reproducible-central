@@ -75,7 +75,7 @@ content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.29
 content/com/spotify/github-client/github-client-0.3.2.buildspec:0.5.8
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:4.0.2
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.5.0
-content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.12.1
+content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.12.2
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.12.7
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.5.0

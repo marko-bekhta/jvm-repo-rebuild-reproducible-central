@@ -25,6 +25,7 @@ rebuilding **4 releases** of org.apache.zookeeper:parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.9.5](https://central.sonatype.com/artifact/org.apache.zookeeper/parent/3.9.5/pom) | | | |
 | [3.9.4](https://central.sonatype.com/artifact/org.apache.zookeeper/parent/3.9.4/pom) | | | |
 | [3.9.3](https://central.sonatype.com/artifact/org.apache.zookeeper/parent/3.9.3/pom) | | | |
 | [3.9.2](https://central.sonatype.com/artifact/org.apache.zookeeper/parent/3.9.2/pom) | [mvn jdk11](zookeeper-3.9.2.buildspec) | [result](parent-3.9.2.buildinfo): [19 :white_check_mark:  5 :warning:](parent-3.9.2.buildcompare) [:mag:](parent-3.9.2.diffoscope) | 17M |
