@@ -189,6 +189,7 @@ rebuilding **12 releases** of io.fabric8:kubernetes-client-project:
 | [7.5.2](https://central.sonatype.com/artifact/io.fabric8/kubernetes-client-project/7.5.2/pom) | | | |
 | [7.5.1](https://central.sonatype.com/artifact/io.fabric8/kubernetes-client-project/7.5.1/pom) | | | |
 | [7.5.0](https://central.sonatype.com/artifact/io.fabric8/kubernetes-client-project/7.5.0/pom) | | | |
+| [7.4.1](https://central.sonatype.com/artifact/io.fabric8/kubernetes-client-project/7.4.1/pom) | | | |
 | [7.4.0](https://central.sonatype.com/artifact/io.fabric8/kubernetes-client-project/7.4.0/pom) | | | |
 | [7.3.1](https://central.sonatype.com/artifact/io.fabric8/kubernetes-client-project/7.3.1/pom) | | | |
 | [7.3.0](https://central.sonatype.com/artifact/io.fabric8/kubernetes-client-project/7.3.0/pom) | | | |
