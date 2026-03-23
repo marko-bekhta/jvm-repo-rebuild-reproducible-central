@@ -37,6 +37,8 @@ rebuilding **12 releases** of org.jline:jline:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.0.9](https://central.sonatype.com/artifact/org.jline/jline/4.0.9/pom) | | | |
+| [4.0.8](https://central.sonatype.com/artifact/org.jline/jline/4.0.8/pom) | | | |
 | [4.0.7](https://central.sonatype.com/artifact/org.jline/jline/4.0.7/pom) | | | |
 | [4.0.6](https://central.sonatype.com/artifact/org.jline/jline/4.0.6/pom) | | | |
 | [4.0.5](https://central.sonatype.com/artifact/org.jline/jline/4.0.5/pom) | | | |
