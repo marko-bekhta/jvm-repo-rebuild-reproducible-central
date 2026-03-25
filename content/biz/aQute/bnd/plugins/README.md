@@ -27,6 +27,8 @@ rebuilding **9 releases** of biz.aQute.bnd:bnd-plugin-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [7.2.3](https://central.sonatype.com/artifact/biz.aQute.bnd/bnd-plugin-parent/7.2.3/pom) | | | |
+| [7.2.2](https://central.sonatype.com/artifact/biz.aQute.bnd/bnd-plugin-parent/7.2.2/pom) | | | |
 | [7.2.1](https://central.sonatype.com/artifact/biz.aQute.bnd/bnd-plugin-parent/7.2.1/pom) | | | |
 | [7.2.0](https://central.sonatype.com/artifact/biz.aQute.bnd/bnd-plugin-parent/7.2.0/pom) | | | |
 | [7.1.0](https://central.sonatype.com/artifact/biz.aQute.bnd/bnd-plugin-parent/7.1.0/pom) | | | |
