@@ -1,7 +1,7 @@
 content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.2.3
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.32
 content/ch/vorburger/mariaDB4j/mariaDB4j-pom-3.1.0.buildspec:3.3.1
-content/com/flowlogix/flowlogix-9.0.5.buildspec:11.1.1
+content/com/flowlogix/flowlogix-9.0.5.buildspec:11.2
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.24
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:79
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.1
@@ -30,7 +30,7 @@ content/com/github/hazendaz/maven/whitespace-maven-plugin/whitespace-maven-plugi
 content/com/github/hazendaz/maven/yuicompressor-maven-plugin/yuicompressor-maven-plugin-2.1.0.buildspec:2.3.1
 content/com/github/marschall/jakarta-jms-adapter/jakarta-jms-adapter-1.4.1.buildspec:1.6.0
 content/com/github/nbbrd/spreadsheet4j/spreadsheet-2.5.9.buildspec:2.5.10
-content/com/github/spotbugs/spotbugs-maven-plugin/spotbugs-maven-plugin-4.8.6.3.buildspec:4.9.8.2
+content/com/github/spotbugs/spotbugs-maven-plugin/spotbugs-maven-plugin-4.8.6.3.buildspec:4.9.8.3
 content/com/github/veithen/daemon/daemon-0.6.3.buildspec:0.6.4
 content/com/github/veithen/parent/veithen-parent-52.buildspec:56
 content/com/github/veithen/phos/phos-0.4.0.buildspec:0.4.1
