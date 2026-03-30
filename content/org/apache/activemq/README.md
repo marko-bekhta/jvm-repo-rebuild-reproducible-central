@@ -62,6 +62,7 @@ rebuilding **23 releases** of org.apache.activemq:activemq-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [6.2.3](https://central.sonatype.com/artifact/org.apache.activemq/activemq-parent/6.2.3/pom) | | | |
 | [6.2.2](https://central.sonatype.com/artifact/org.apache.activemq/activemq-parent/6.2.2/pom) | | | |
 | [6.2.1](https://central.sonatype.com/artifact/org.apache.activemq/activemq-parent/6.2.1/pom) | | | |
 | [6.2.0](https://central.sonatype.com/artifact/org.apache.activemq/activemq-parent/6.2.0/pom) | | | |
