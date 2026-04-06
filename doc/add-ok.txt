@@ -1,7 +1,7 @@
 content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.2.3
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.32
 content/ch/vorburger/mariaDB4j/mariaDB4j-pom-3.1.0.buildspec:3.3.1
-content/com/flowlogix/flowlogix-9.0.5.buildspec:11.2.1
+content/com/flowlogix/flowlogix-9.0.5.buildspec:11.2.3
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.24
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:79
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.1
@@ -110,7 +110,7 @@ content/io/repaint/maven/tiles-maven-plugin/tiles-maven-plugin-2.40.buildspec:2.
 content/io/takari/takari-archiver/takari-archiver-1.0.3.buildspec:1.0.4
 content/io/takari/maven/maven-timeline/maven-timeline-2.0.2.buildspec:2.0.4
 content/io/takari/maven/takari-smart-builder/takari-smart-builder-1.0.2.buildspec:1.1.0
-content/io/takari/maven/plugins/takari-lifecycle-plugin/takari-lifecycle-plugin-2.2.0.buildspec:2.3.2
+content/io/takari/maven/plugins/takari-lifecycle-plugin/takari-lifecycle-plugin-2.2.0.buildspec:2.3.3
 content/io/takari/maven/plugins/takari-plugin-testing/takari-plugin-testing-3.0.5.buildspec:3.1.1
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:3.0.1
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:2.0.3

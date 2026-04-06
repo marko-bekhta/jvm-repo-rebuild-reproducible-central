@@ -19,6 +19,7 @@ rebuilding **5 releases** of io.takari.maven.plugins:takari-lifecycle-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.3.3](https://central.sonatype.com/artifact/io.takari.maven.plugins/takari-lifecycle-plugin/2.3.3/pom) | | | |
 | [2.3.2](https://central.sonatype.com/artifact/io.takari.maven.plugins/takari-lifecycle-plugin/2.3.2/pom) | | | |
 | [2.3.1](https://central.sonatype.com/artifact/io.takari.maven.plugins/takari-lifecycle-plugin/2.3.1/pom) | | | |
 | [2.3.0](https://central.sonatype.com/artifact/io.takari.maven.plugins/takari-lifecycle-plugin/2.3.0/pom) | | | |
