@@ -168,7 +168,7 @@ content/org/apache/directory/project/project-49.buildspec:50
 content/org/apache/felix/maven-bundle-plugin/maven-bundle-plugin-5.1.9.buildspec:6.0.2
 content/org/apache/httpcomponents/parent/httpcomponents-parent-13.buildspec:14
 content/org/apache/jackrabbit/filevault/jackrabbit-filevault-3.8.2.buildspec:4.2.0
-content/org/apache/jackrabbit/jackrabbit/jackrabbit-2.23.0-beta.buildspec:2.23.3-beta
+content/org/apache/jackrabbit/jackrabbit/jackrabbit-2.23.0-beta.buildspec:2.23.4-beta
 content/org/apache/logging/parent/logging-parent-11.3.0.buildspec:12.1.1
 content/org/apache/logging/log4j/log4j/log4j-3.0.0-beta2.buildspec:3.0.0-beta3
 content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
