@@ -1,7 +1,7 @@
 content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.2.3
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.32
 content/ch/vorburger/mariaDB4j/mariaDB4j-pom-3.1.0.buildspec:3.3.1
-content/com/flowlogix/flowlogix-9.0.5.buildspec:11.2.3
+content/com/flowlogix/flowlogix-9.0.5.buildspec:11.3
 content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.24
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:79
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.1
@@ -94,8 +94,8 @@ content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:1
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.34.3
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:39.0.0
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:11.0.0
-content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.13.2
-content/io/cucumber/messages/messages-26.0.1.buildspec:32.2.0
+content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.13.3
+content/io/cucumber/messages/messages-26.0.1.buildspec:32.3.1
 content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:9.1.0
 content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.1
 content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.38
