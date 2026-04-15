@@ -18,6 +18,7 @@ rebuilding **36 releases** of eu.europa.ted.eforms:eforms-sdk:
 | [1.14.2](https://central.sonatype.com/artifact/eu.europa.ted.eforms/eforms-sdk/1.14.2/pom) | | | |
 | [1.14.1](https://central.sonatype.com/artifact/eu.europa.ted.eforms/eforms-sdk/1.14.1/pom) | | | |
 | [1.14.0](https://central.sonatype.com/artifact/eu.europa.ted.eforms/eforms-sdk/1.14.0/pom) | | | |
+| [1.13.3](https://central.sonatype.com/artifact/eu.europa.ted.eforms/eforms-sdk/1.13.3/pom) | | | |
 | [1.13.2](https://central.sonatype.com/artifact/eu.europa.ted.eforms/eforms-sdk/1.13.2/pom) | | | |
 | [1.13.1](https://central.sonatype.com/artifact/eu.europa.ted.eforms/eforms-sdk/1.13.1/pom) | | | |
 | [1.13.0](https://central.sonatype.com/artifact/eu.europa.ted.eforms/eforms-sdk/1.13.0/pom) | | | |
