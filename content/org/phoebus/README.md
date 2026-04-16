@@ -102,6 +102,7 @@ rebuilding **1 releases** of org.phoebus:parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [5.0.4](https://central.sonatype.com/artifact/org.phoebus/parent/5.0.4/pom) | | | |
 | [5.0.2](https://central.sonatype.com/artifact/org.phoebus/parent/5.0.2/pom) | | | |
 | [5.0.0](https://central.sonatype.com/artifact/org.phoebus/parent/5.0.0/pom) | | | |
 | [4.7.4](https://central.sonatype.com/artifact/org.phoebus/parent/4.7.4/pom) | | | |

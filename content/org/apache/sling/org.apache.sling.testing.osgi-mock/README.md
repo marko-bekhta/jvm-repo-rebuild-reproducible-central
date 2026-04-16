@@ -23,6 +23,7 @@ rebuilding **9 releases** of org.apache.sling:org.apache.sling.testing.osgi-mock
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.5.8](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.testing.osgi-mock/3.5.8/pom) | | | |
 | [3.5.6](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.testing.osgi-mock/3.5.6/pom) | | | |
 | [3.5.4](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.testing.osgi-mock/3.5.4/pom) | | | |
 | [3.5.2](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.testing.osgi-mock/3.5.2/pom) | | | |
