@@ -25,6 +25,7 @@ rebuilding **8 releases** of com.io7m.xstructural:com.io7m.xstructural:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.1.0](https://central.sonatype.com/artifact/com.io7m.xstructural/com.io7m.xstructural/2.1.0/pom) | | | |
 | [2.0.1](https://central.sonatype.com/artifact/com.io7m.xstructural/com.io7m.xstructural/2.0.1/pom) | | | |
 | [2.0.0](https://central.sonatype.com/artifact/com.io7m.xstructural/com.io7m.xstructural/2.0.0/pom) | | | |
 | [1.9.0](https://central.sonatype.com/artifact/com.io7m.xstructural/com.io7m.xstructural/1.9.0/pom) | [mvn jdk21](com.io7m.xstructural-1.9.0.buildspec) | [result](com.io7m.xstructural-1.9.0.buildinfo): [38 :white_check_mark: ](com.io7m.xstructural-1.9.0.buildcompare) | 40M |
