@@ -81,7 +81,7 @@ content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.6.0
 content/eu/europa/ted/eforms/eforms-sdk/eforms-sdk-2.0.0-alpha.1.buildspec:2.0.0-alpha.2
-content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.8.3
+content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.8.4
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.15.8
 content/eu/maveniverse/maven/mase/mase/mase-1.0.2.buildspec:1.1.0
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.3.1-beta-8
@@ -216,6 +216,7 @@ content/org/apache/maven/resolver/maven-resolver/maven-resolver-2.0.1.buildspec:
 content/org/apache/maven/resolver/maven-resolver-ant-tasks/maven-resolver-ant-tasks-1.5.1.buildspec:1.6.0
 content/org/apache/maven/shared/file-management/file-management-3.1.0.buildspec:3.2.0
 content/org/apache/maven/shared/maven-dependency-analyzer/maven-dependency-analyzer-1.14.1.buildspec:1.17.0
+content/org/apache/maven/shared/maven-script-interpreter/maven-script-interpreter-1.6.buildspec:1.7
 content/org/apache/maven/shared/maven-shared-jar/maven-shared-jar-3.1.1.buildspec:3.2.0
 content/org/apache/maven/skins/fluido/maven-fluido-skin-2.0.0-M11.buildspec:2.1.0
 content/org/apache/nifi/nifi-nar-maven-plugin/nifi-nar-maven-plugin-2.1.0.buildspec:2.3.0
@@ -365,4 +366,4 @@ content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.
 content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.29.0
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.5.5
 content/us/abstracta/jmeter/jmeter-java-dsl/jmeter-java-dsl-1.29.buildspec:2.2
-content/world/convex/convex-0.7.15.buildspec:0.8.3
+content/world/convex/convex-0.7.15.buildspec:0.8.4

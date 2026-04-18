@@ -13,6 +13,7 @@ rebuilding **4 releases** of org.apache.maven.shared:maven-script-interpreter:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.7](https://central.sonatype.com/artifact/org.apache.maven.shared/maven-script-interpreter/1.7/pom) | | | |
 | [1.6](https://central.sonatype.com/artifact/org.apache.maven.shared/maven-script-interpreter/1.6/pom) | [mvn jdk21](maven-script-interpreter-1.6.buildspec) | [result](maven-script-interpreter-1.6.buildinfo): [6 :white_check_mark: ](maven-script-interpreter-1.6.buildcompare) | 129K |
 | [1.5](https://central.sonatype.com/artifact/org.apache.maven.shared/maven-script-interpreter/1.5/pom) | [mvn jdk21](maven-script-interpreter-1.5.buildspec) | [result](maven-script-interpreter-1.5.buildinfo): [6 :white_check_mark: ](maven-script-interpreter-1.5.buildcompare) | 129K |
 | [1.4](https://central.sonatype.com/artifact/org.apache.maven.shared/maven-script-interpreter/1.4/pom) | [mvn jdk19](maven-script-interpreter-1.4.buildspec) | [result](maven-script-interpreter-1.4.buildinfo): [4 :white_check_mark: ](maven-script-interpreter-1.4.buildcompare) | 100K |
