@@ -2,7 +2,7 @@ content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.2.3
 content/ch/qos/logback/logback-1.5.8.buildspec:1.5.32
 content/ch/vorburger/mariaDB4j/mariaDB4j-pom-3.1.0.buildspec:3.3.1
 content/com/flowlogix/flowlogix-9.0.5.buildspec:11.3
-content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.24
+content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.26
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:79
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.1.1
 content/com/fasterxml/jackson/annotations/jackson-annotations-2.18.0.buildspec:3.0-rc5
@@ -76,7 +76,7 @@ content/com/spotify/fmt-maven-plugin/fmt-maven-plugin-2.24.buildspec:2.29
 content/com/spotify/github-client/github-client-0.3.2.buildspec:0.5.8
 content/de/gematik/pki/gemLibPki/gemLibPki-2.1.8.buildspec:4.0.2
 content/de/unentscheidbar/migratedb/migratedb-1.2.0.buildspec:1.5.0
-content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.13.0
+content/dev/langchain4j/langchain4j-0.35.0.buildspec:1.13.1
 content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec:0.13.0
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.6.0
@@ -113,14 +113,14 @@ content/io/takari/maven/takari-smart-builder/takari-smart-builder-1.0.2.buildspe
 content/io/takari/maven/plugins/takari-lifecycle-plugin/takari-lifecycle-plugin-2.2.0.buildspec:2.3.3
 content/io/takari/maven/plugins/takari-plugin-testing/takari-plugin-testing-3.0.5.buildspec:3.1.1
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:3.0.1
-content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:2.0.3
+content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:3.0.0
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:0.93.4
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.8.0
 content/io/wcm/maven/plugins/cq-maven-plugin/cq-maven-plugin-1.2.0.buildspec:1.2.2
 content/io/wcm/maven/plugins/sling-initial-content-transform-maven-plugin/sling-initial-content-transform-maven-plugin-1.1.4.buildspec:1.1.8
 content/io/wcm/tooling/commons/content-package-builder/wcm-content-package-builder-1.7.4.buildspec:1.7.6
 content/io/wcm/tooling/commons/crx-packmgr-helper/wcm-crx-packmgr-helper-2.1.6.buildspec:2.4.0
-content/jakarta/persistence/jakarta.persistence-api/jakarta.persistence-api-3.2.0.buildspec:4.0.0-M1
+content/jakarta/persistence/jakarta.persistence-api/jakarta.persistence-api-3.2.0.buildspec:4.0.0-M2
 content/jakarta/servlet/jakarta.servlet-api/jakarta.servlet-api-6.1.0.buildspec:6.2.0-M1
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.18.8-jdk5
 content/net/revelc/code/impsort-maven-plugin/impsort-maven-plugin-1.12.0.buildspec:1.13.0
