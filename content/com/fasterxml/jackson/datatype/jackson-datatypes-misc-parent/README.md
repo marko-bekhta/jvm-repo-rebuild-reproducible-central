@@ -36,6 +36,7 @@ rebuilding **9 releases** of com.fasterxml.jackson.datatype:jackson-datatypes-mi
 | [2.19.1](https://central.sonatype.com/artifact/com.fasterxml.jackson.datatype/jackson-datatypes-misc-parent/2.19.1/pom) | | | |
 | [2.19.0](https://central.sonatype.com/artifact/com.fasterxml.jackson.datatype/jackson-datatypes-misc-parent/2.19.0/pom) | | | |
 | [2.19.0-rc2](https://central.sonatype.com/artifact/com.fasterxml.jackson.datatype/jackson-datatypes-misc-parent/2.19.0-rc2/pom) | | | |
+| [2.18.7](https://central.sonatype.com/artifact/com.fasterxml.jackson.datatype/jackson-datatypes-misc-parent/2.18.7/pom) | | | |
 | [2.18.6](https://central.sonatype.com/artifact/com.fasterxml.jackson.datatype/jackson-datatypes-misc-parent/2.18.6/pom) | | | |
 | [2.18.5](https://central.sonatype.com/artifact/com.fasterxml.jackson.datatype/jackson-datatypes-misc-parent/2.18.5/pom) | | | |
 | [2.18.4](https://central.sonatype.com/artifact/com.fasterxml.jackson.datatype/jackson-datatypes-misc-parent/2.18.4/pom) | | | |
