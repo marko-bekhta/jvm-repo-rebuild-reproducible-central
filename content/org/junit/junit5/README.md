@@ -48,6 +48,7 @@ rebuilding **20 releases** of org.junit:junit-bom:
 | [6.0.0-RC1](https://central.sonatype.com/artifact/org.junit/junit-bom/6.0.0-RC1/pom) | | | |
 | [6.0.0-M2](https://central.sonatype.com/artifact/org.junit/junit-bom/6.0.0-M2/pom) | | | |
 | [6.0.0-M1](https://central.sonatype.com/artifact/org.junit/junit-bom/6.0.0-M1/pom) | | | |
+| [5.14.4](https://central.sonatype.com/artifact/org.junit/junit-bom/5.14.4/pom) | | | |
 | [5.14.3](https://central.sonatype.com/artifact/org.junit/junit-bom/5.14.3/pom) | | | |
 | [5.14.2](https://central.sonatype.com/artifact/org.junit/junit-bom/5.14.2/pom) | | | |
 | [5.14.1](https://central.sonatype.com/artifact/org.junit/junit-bom/5.14.1/pom) | | | |
