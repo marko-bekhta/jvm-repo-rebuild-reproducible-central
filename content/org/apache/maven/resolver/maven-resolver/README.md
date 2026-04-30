@@ -47,6 +47,7 @@ rebuilding **43 releases** of org.apache.maven.resolver:maven-resolver:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.0.17](https://central.sonatype.com/artifact/org.apache.maven.resolver/maven-resolver/2.0.17/pom) | | | |
 | [2.0.16](https://central.sonatype.com/artifact/org.apache.maven.resolver/maven-resolver/2.0.16/pom) | | | |
 | [2.0.15](https://central.sonatype.com/artifact/org.apache.maven.resolver/maven-resolver/2.0.15/pom) | | | |
 | [2.0.14](https://central.sonatype.com/artifact/org.apache.maven.resolver/maven-resolver/2.0.14/pom) | | | |
