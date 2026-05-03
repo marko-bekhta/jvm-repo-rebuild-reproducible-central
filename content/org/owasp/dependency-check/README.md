@@ -24,6 +24,7 @@ rebuilding **54 releases** of org.owasp:dependency-check-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [12.2.2](https://central.sonatype.com/artifact/org.owasp/dependency-check-parent/12.2.2/pom) | | | |
 | [12.2.1](https://central.sonatype.com/artifact/org.owasp/dependency-check-parent/12.2.1/pom) | | | |
 | [12.2.0](https://central.sonatype.com/artifact/org.owasp/dependency-check-parent/12.2.0/pom) | | | |
 | [12.1.9](https://central.sonatype.com/artifact/org.owasp/dependency-check-parent/12.1.9/pom) | | | |
