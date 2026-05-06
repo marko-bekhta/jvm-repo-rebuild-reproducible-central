@@ -13,6 +13,7 @@ rebuilding **9 releases** of org.apache.maven.plugins:maven-invoker-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.10.1](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-invoker-plugin/3.10.1/pom) | | | |
 | [3.10.0](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-invoker-plugin/3.10.0/pom) | | | |
 | [3.9.1](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-invoker-plugin/3.9.1/pom) | | | |
 | [3.9.0](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-invoker-plugin/3.9.0/pom) | | | |

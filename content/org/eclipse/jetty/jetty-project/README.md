@@ -261,6 +261,7 @@ rebuilding **14 releases** of org.eclipse.jetty:jetty-project:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [12.1.9](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.1.9/pom) | | | |
 | [12.1.8](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.1.8/pom) | | | |
 | [12.1.7](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.1.7/pom) | | | |
 | [12.1.6](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.1.6/pom) | | | |
@@ -277,6 +278,7 @@ rebuilding **14 releases** of org.eclipse.jetty:jetty-project:
 | [12.1.0.alpha2](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.1.0.alpha2/pom) | | | |
 | [12.1.0.alpha1](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.1.0.alpha1/pom) | | | |
 | [12.1.0.alpha0](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.1.0.alpha0/pom) | | | |
+| [12.0.35](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.0.35/pom) | | | |
 | [12.0.34](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.0.34/pom) | | | |
 | [12.0.33](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.0.33/pom) | | | |
 | [12.0.32](https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-project/12.0.32/pom) | | | |
