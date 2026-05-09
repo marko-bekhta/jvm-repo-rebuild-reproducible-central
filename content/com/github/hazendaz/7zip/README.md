@@ -13,6 +13,7 @@ rebuilding **6 releases** of com.github.hazendaz.7zip:7zip:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [26.01](https://central.sonatype.com/artifact/com.github.hazendaz.7zip/7zip/26.01/pom) | | | |
 | [26.00](https://central.sonatype.com/artifact/com.github.hazendaz.7zip/7zip/26.00/pom) | | | |
 | [25.01](https://central.sonatype.com/artifact/com.github.hazendaz.7zip/7zip/25.01/pom) | | | |
 | [24.09](https://central.sonatype.com/artifact/com.github.hazendaz.7zip/7zip/24.09/pom) | | | |
