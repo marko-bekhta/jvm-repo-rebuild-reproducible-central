@@ -13,6 +13,7 @@ rebuilding **11 releases** of org.apache:apache:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [38](https://central.sonatype.com/artifact/org.apache/apache/38/pom) | | | |
 | [37](https://central.sonatype.com/artifact/org.apache/apache/37/pom) | | | |
 | [36](https://central.sonatype.com/artifact/org.apache/apache/36/pom) | | | |
 | [35](https://central.sonatype.com/artifact/org.apache/apache/35/pom) | | | |
