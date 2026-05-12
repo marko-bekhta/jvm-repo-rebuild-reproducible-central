@@ -22,6 +22,7 @@ rebuilding **34 releases** of com.io7m.primogenitor:com.io7m.primogenitor:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [10.0.0-beta0001](https://central.sonatype.com/artifact/com.io7m.primogenitor/com.io7m.primogenitor/10.0.0-beta0001/pom) | | | |
 | [9.2.0](https://central.sonatype.com/artifact/com.io7m.primogenitor/com.io7m.primogenitor/9.2.0/pom) | | | |
 | [9.1.0](https://central.sonatype.com/artifact/com.io7m.primogenitor/com.io7m.primogenitor/9.1.0/pom) | | | |
 | [9.0.0](https://central.sonatype.com/artifact/com.io7m.primogenitor/com.io7m.primogenitor/9.0.0/pom) | | | |
