@@ -87,7 +87,7 @@ content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.6.0
 content/eu/europa/ted/eforms/eforms-sdk/eforms-sdk-2.0.0-alpha.1.buildspec:2.0.0-alpha.2
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.9.0
-content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.15.9
+content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.15.10
 content/eu/maveniverse/maven/mase/mase/mase-1.0.2.buildspec:1.1.1
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.3.1-beta-8
 content/fr/marcwrobel/jbanking/jbanking-4.2.0.buildspec:4.3.0
@@ -126,7 +126,7 @@ content/io/wcm/maven/plugins/sling-initial-content-transform-maven-plugin/sling-
 content/io/wcm/tooling/commons/content-package-builder/wcm-content-package-builder-1.7.4.buildspec:1.7.6
 content/io/wcm/tooling/commons/crx-packmgr-helper/wcm-crx-packmgr-helper-2.1.6.buildspec:2.4.0
 content/jakarta/persistence/jakarta.persistence-api/jakarta.persistence-api-3.2.0.buildspec:4.0.0-M3
-content/jakarta/servlet/jakarta.servlet-api/jakarta.servlet-api-6.1.0.buildspec:6.2.0-M1
+content/jakarta/servlet/jakarta.servlet-api/jakarta.servlet-api-6.1.0.buildspec:6.2.0-M2
 content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.18.8-jdk5
 content/net/revelc/code/impsort-maven-plugin/impsort-maven-plugin-1.12.0.buildspec:1.13.0
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:20
@@ -178,7 +178,7 @@ content/org/apache/logging/parent/logging-parent-11.3.0.buildspec:12.1.1
 content/org/apache/logging/log4j/log4j/log4j-3.0.0-beta2.buildspec:3.0.0-beta3
 content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
 content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.4.1
-content/org/apache/maven/enforcer/maven-enforcer-plugin-3.5.0.buildspec:3.6.2
+content/org/apache/maven/enforcer/maven-enforcer-plugin-3.5.0.buildspec:3.6.3
 content/org/apache/maven/indexer/maven-indexer-7.1.5.buildspec:7.1.6
 content/org/apache/maven/jxr/jxr-3.5.0.buildspec:3.6.0
 content/org/apache/maven/maven/maven-4.0.0-beta-4.buildspec:4.0.0-rc-5
@@ -217,7 +217,7 @@ content/org/apache/maven/plugins/maven-wrapper-plugin/wrapper-3.3.2.buildspec:3.
 content/org/apache/maven/reporting/maven-reporting-api/maven-reporting-api-4.0.0-M12.buildspec:4.0.0
 content/org/apache/maven/reporting/maven-reporting-exec/maven-reporting-exec-2.0.0-M14.buildspec:2.0.1
 content/org/apache/maven/reporting/maven-reporting-impl/maven-reporting-impl-4.0.0-M15.buildspec:4.0.0
-content/org/apache/maven/resolver/maven-resolver/maven-resolver-2.0.1.buildspec:2.0.17
+content/org/apache/maven/resolver/maven-resolver/maven-resolver-2.0.1.buildspec:2.0.18
 content/org/apache/maven/resolver/maven-resolver-ant-tasks/maven-resolver-ant-tasks-1.5.1.buildspec:1.6.0
 content/org/apache/maven/shared/file-management/file-management-3.1.0.buildspec:3.2.0
 content/org/apache/maven/shared/maven-dependency-analyzer/maven-dependency-analyzer-1.14.1.buildspec:1.17.1
@@ -316,7 +316,7 @@ content/org/glassfish/build/glassfishbuild-maven-plugin/glassfishbuild-maven-plu
 content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.4.0.CR1
 content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.1.0.Final
 content/org/itsallcode/junit5-system-extensions/junit5-system-extensions-1.2.2.buildspec:1.2.3
-content/org/itsallcode/openfasttrace-maven-plugin/openfasttrace-maven-plugin-2.2.0.buildspec:2.3.0
+content/org/itsallcode/openfasttrace-maven-plugin/openfasttrace-maven-plugin-2.2.0.buildspec:2.3.1
 content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.7.7
 content/org/jpmml/jpmml-h2o/jpmml-h2o-1.2.14.buildspec:1.3.6
 content/org/jpmml/jpmml-lightgbm/jpmml-lightgbm-1.5.5.buildspec:1.6.6
