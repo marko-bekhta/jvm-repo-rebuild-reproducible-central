@@ -13,6 +13,7 @@ rebuilding **2 releases** of org.codehaus.plexus:plexus-classworlds:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.12.0](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-classworlds/2.12.0/pom) | | | |
 | [2.11.0](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-classworlds/2.11.0/pom) | | | |
 | [2.10.0](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-classworlds/2.10.0/pom) | | | |
 | [2.9.0](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-classworlds/2.9.0/pom) | | | |
