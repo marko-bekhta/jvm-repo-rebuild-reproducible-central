@@ -13,6 +13,7 @@ rebuilding **4 releases** of com.fasterxml.woodstox:woodstox-core:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [7.2.0](https://central.sonatype.com/artifact/com.fasterxml.woodstox/woodstox-core/7.2.0/pom) | | | |
 | [7.1.1](https://central.sonatype.com/artifact/com.fasterxml.woodstox/woodstox-core/7.1.1/pom) | | | |
 | [7.1.0](https://central.sonatype.com/artifact/com.fasterxml.woodstox/woodstox-core/7.1.0/pom) | | | |
 | [7.0.0](https://central.sonatype.com/artifact/com.fasterxml.woodstox/woodstox-core/7.0.0/pom) | [mvn jdk8](woodstox-core-7.0.0.buildspec) | [result](woodstox-core-7.0.0.buildinfo): [3 :white_check_mark: ](woodstox-core-7.0.0.buildcompare) | 2.1M |
