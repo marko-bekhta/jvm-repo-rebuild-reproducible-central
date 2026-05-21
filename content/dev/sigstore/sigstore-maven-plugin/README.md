@@ -19,6 +19,7 @@ rebuilding **4 releases** of dev.sigstore:sigstore-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.1.0](https://central.sonatype.com/artifact/dev.sigstore/sigstore-maven-plugin/2.1.0/pom) | | | |
 | [2.0.0](https://central.sonatype.com/artifact/dev.sigstore/sigstore-maven-plugin/2.0.0/pom) | | | |
 | [2.0.0-rc2](https://central.sonatype.com/artifact/dev.sigstore/sigstore-maven-plugin/2.0.0-rc2/pom) | | | |
 | [2.0.0-rc1](https://central.sonatype.com/artifact/dev.sigstore/sigstore-maven-plugin/2.0.0-rc1/pom) | | | |
