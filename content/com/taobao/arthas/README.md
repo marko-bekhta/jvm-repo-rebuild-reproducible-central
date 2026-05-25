@@ -36,6 +36,7 @@ rebuilding **14 releases** of com.taobao.arthas:arthas-all:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.2.0](https://central.sonatype.com/artifact/com.taobao.arthas/arthas-all/4.2.0/pom) | | | |
 | [4.1.9](https://central.sonatype.com/artifact/com.taobao.arthas/arthas-all/4.1.9/pom) | | | |
 | [4.1.8](https://central.sonatype.com/artifact/com.taobao.arthas/arthas-all/4.1.8/pom) | | | |
 | [4.1.7](https://central.sonatype.com/artifact/com.taobao.arthas/arthas-all/4.1.7/pom) | | | |

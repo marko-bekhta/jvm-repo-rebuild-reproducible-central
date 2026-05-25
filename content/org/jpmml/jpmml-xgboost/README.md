@@ -19,6 +19,7 @@ rebuilding **4 releases** of org.jpmml:jpmml-xgboost:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.9.8](https://central.sonatype.com/artifact/org.jpmml/jpmml-xgboost/1.9.8/pom) | | | |
 | [1.9.7](https://central.sonatype.com/artifact/org.jpmml/jpmml-xgboost/1.9.7/pom) | | | |
 | [1.9.6](https://central.sonatype.com/artifact/org.jpmml/jpmml-xgboost/1.9.6/pom) | | | |
 | [1.9.5](https://central.sonatype.com/artifact/org.jpmml/jpmml-xgboost/1.9.5/pom) | | | |

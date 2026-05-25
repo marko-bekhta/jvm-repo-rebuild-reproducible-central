@@ -13,6 +13,7 @@ rebuilding **4 releases** of jakarta.persistence:jakarta.persistence-api:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.0.0-M4](https://central.sonatype.com/artifact/jakarta.persistence/jakarta.persistence-api/4.0.0-M4/pom) | | | |
 | [4.0.0-M3](https://central.sonatype.com/artifact/jakarta.persistence/jakarta.persistence-api/4.0.0-M3/pom) | | | |
 | [4.0.0-M2](https://central.sonatype.com/artifact/jakarta.persistence/jakarta.persistence-api/4.0.0-M2/pom) | | | |
 | [4.0.0-M1](https://central.sonatype.com/artifact/jakarta.persistence/jakarta.persistence-api/4.0.0-M1/pom) | | | |
