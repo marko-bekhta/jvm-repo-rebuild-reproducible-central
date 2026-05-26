@@ -13,6 +13,7 @@ rebuilding **4 releases** of org.apache.sling:org.apache.sling.commons.log:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [6.1.0](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.commons.log/6.1.0/pom) | | | |
 | [6.0.4](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.commons.log/6.0.4/pom) | | | |
 | [6.0.2](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.commons.log/6.0.2/pom) | | | |
 | [6.0.0](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.commons.log/6.0.0/pom) | | | |

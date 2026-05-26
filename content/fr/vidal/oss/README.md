@@ -13,6 +13,7 @@ rebuilding **3 releases** of fr.vidal.oss:atom-jaxb:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.1.0](https://central.sonatype.com/artifact/fr.vidal.oss/atom-jaxb/2.1.0/pom) | | | |
 | [2.0.0](https://central.sonatype.com/artifact/fr.vidal.oss/atom-jaxb/2.0.0/pom) | | | |
 | [1.1.2](https://central.sonatype.com/artifact/fr.vidal.oss/atom-jaxb/1.1.2/pom) | | | |
 | [1.1.1](https://central.sonatype.com/artifact/fr.vidal.oss/atom-jaxb/1.1.1/pom) | | | |

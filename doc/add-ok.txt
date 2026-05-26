@@ -133,7 +133,7 @@ content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:20
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
 content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.24.0
 content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:37
-content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:1.14.1
+content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:2.0.0
 content/nl/basjes/maven/release/conventional-commits-version-policy/conventional-commits-version-policy-1.0.7.buildspec:1.0.9
 content/nl/basjes/parse/httpdlog/httpdlog-parser/httpdlog-parser-5.11.0.buildspec:6.0.0
 content/nl/basjes/parse/useragent/yauaa/yauaa-7.28.1.buildspec:8.1.1
@@ -161,7 +161,7 @@ content/org/apache/commons/commons-exec/commons-exec-1.4.0.buildspec:1.6.0
 content/org/apache/commons/commons-io/commons-io-2.17.0.buildspec:2.22.0
 content/org/apache/commons/commons-jexl3/commons-jexl3-3.4.0.buildspec:3.6.2
 content/org/apache/commons/compress/commons-compress-1.27.1.buildspec:1.28.0
-content/org/apache/commons/configuration2/commons-configuration2-2.11.0.buildspec:2.15.0
+content/org/apache/commons/configuration2/commons-configuration2-2.11.0.buildspec:2.15.1
 content/org/apache/commons/csv/commons-csv-1.12.0.buildspec:1.14.1
 content/org/apache/commons/net/commons-net-3.11.1.buildspec:3.13.0
 content/org/apache/commons/parent/commons-parent-76.buildspec:100
@@ -235,12 +235,12 @@ content/org/apache/sling/org.apache.sling.api/org.apache.sling.api-2.27.6.builds
 content/org/apache/sling/org.apache.sling.auth.core/org.apache.sling.auth.core-1.7.0.buildspec:2.0.2
 content/org/apache/sling/org.apache.sling.bundleresource.impl/org.apache.sling.bundleresource.impl-2.3.4.buildspec:3.0.0
 content/org/apache/sling/org.apache.sling.caconfig.impl/org.apache.sling.caconfig.impl-1.6.0.buildspec:1.7.2
-content/org/apache/sling/org.apache.sling.commons.log/org.apache.sling.commons.log-5.5.0.buildspec:6.0.4
+content/org/apache/sling/org.apache.sling.commons.log/org.apache.sling.commons.log-5.5.0.buildspec:6.1.0
 content/org/apache/sling/org.apache.sling.distribution.journal/org.apache.sling.distribution.journal-0.4.0.buildspec:0.5.0
 content/org/apache/sling/org.apache.sling.distribution.journal.messages/org.apache.sling.distribution.journal.messages-0.5.10.buildspec:0.5.12
 content/org/apache/sling/org.apache.sling.engine/org.apache.sling.engine-2.15.16.buildspec:3.0.2
 content/org/apache/sling/org.apache.sling.event/org.apache.sling.event-4.3.14.buildspec:4.4.0
-content/org/apache/sling/org.apache.sling.feature/org.apache.sling.feature-2.0.0.buildspec:2.0.4
+content/org/apache/sling/org.apache.sling.feature/org.apache.sling.feature-2.0.0.buildspec:2.0.6
 content/org/apache/sling/org.apache.sling.feature.analyser/org.apache.sling.feature.analyser-2.0.10.buildspec:2.0.14
 content/org/apache/sling/org.apache.sling.feature.extension.apiregions/org.apache.sling.feature.extension.apiregions-2.0.0.buildspec:2.2.0
 content/org/apache/sling/org.apache.sling.fsresource/org.apache.sling.fsresource-2.2.0.buildspec:2.3.0
