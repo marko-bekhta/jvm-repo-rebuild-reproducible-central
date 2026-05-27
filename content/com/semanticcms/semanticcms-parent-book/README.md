@@ -13,6 +13,7 @@ rebuilding **9 releases** of com.semanticcms:semanticcms-parent-book:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.1.0](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-parent-book/2.1.0/pom) | | | |
 | [2.0.1](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-parent-book/2.0.1/pom) | | | |
 | [2.0.0](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-parent-book/2.0.0/pom) | | | |
 | [1.22.0](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-parent-book/1.22.0/pom) | | | |
