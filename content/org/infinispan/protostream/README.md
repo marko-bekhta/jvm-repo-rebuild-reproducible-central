@@ -26,6 +26,7 @@ rebuilding **1 releases** of org.infinispan.protostream:protostream-aggregator:
 | -- | --------- | ------ | -- |
 | [15.0.13.Final](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/15.0.13.Final/pom) | | | |
 | [14.0.0.CR2](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/14.0.0.CR2/pom) | | | |
+| [6.0.9](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.9/pom) | | | |
 | [6.0.8](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.8/pom) | | | |
 | [6.0.7](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.7/pom) | | | |
 | [6.0.6](https://central.sonatype.com/artifact/org.infinispan.protostream/parent/6.0.6/pom) | | | |
