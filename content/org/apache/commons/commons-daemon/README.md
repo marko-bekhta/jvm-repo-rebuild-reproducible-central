@@ -13,6 +13,7 @@ rebuilding **1 releases** of commons-daemon:commons-daemon:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.6.0](https://central.sonatype.com/artifact/commons-daemon/commons-daemon/1.6.0/pom) | | | |
 | [1.5.1](https://central.sonatype.com/artifact/commons-daemon/commons-daemon/1.5.1/pom) | | | |
 | [1.5.0](https://central.sonatype.com/artifact/commons-daemon/commons-daemon/1.5.0/pom) | | | |
 | [1.4.1](https://central.sonatype.com/artifact/commons-daemon/commons-daemon/1.4.1/pom) | | | |
