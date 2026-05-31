@@ -30,6 +30,9 @@ rebuilding **2 releases** of com.io7m.certusine:com.io7m.certusine:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.0.0-beta0004](https://central.sonatype.com/artifact/com.io7m.certusine/com.io7m.certusine/4.0.0-beta0004/pom) | | | |
+| [4.0.0-beta0003](https://central.sonatype.com/artifact/com.io7m.certusine/com.io7m.certusine/4.0.0-beta0003/pom) | | | |
+| [4.0.0-beta0002](https://central.sonatype.com/artifact/com.io7m.certusine/com.io7m.certusine/4.0.0-beta0002/pom) | | | |
 | [4.0.0-beta0001](https://central.sonatype.com/artifact/com.io7m.certusine/com.io7m.certusine/4.0.0-beta0001/pom) | | | |
 | [3.2.0](https://central.sonatype.com/artifact/com.io7m.certusine/com.io7m.certusine/3.2.0/pom) | | | |
 | [3.1.0](https://central.sonatype.com/artifact/com.io7m.certusine/com.io7m.certusine/3.1.0/pom) | | | |
