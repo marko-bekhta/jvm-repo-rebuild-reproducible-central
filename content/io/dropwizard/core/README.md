@@ -52,6 +52,7 @@ rebuilding **77 releases** of io.dropwizard:dropwizard-project:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [5.0.2](https://central.sonatype.com/artifact/io.dropwizard/dropwizard-project/5.0.2/pom) | | | |
 | [5.0.1](https://central.sonatype.com/artifact/io.dropwizard/dropwizard-project/5.0.1/pom) | | | |
 | [5.0.0](https://central.sonatype.com/artifact/io.dropwizard/dropwizard-project/5.0.0/pom) | | | |
 | [5.0.0-rc.5](https://central.sonatype.com/artifact/io.dropwizard/dropwizard-project/5.0.0-rc.5/pom) | | | |
