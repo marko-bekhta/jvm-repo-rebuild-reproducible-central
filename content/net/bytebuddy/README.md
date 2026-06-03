@@ -25,6 +25,8 @@ rebuilding **35 releases** of net.bytebuddy:byte-buddy-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.18.10-jdk5](https://central.sonatype.com/artifact/net.bytebuddy/byte-buddy-parent/1.18.10-jdk5/pom) | | | |
+| [1.18.10](https://central.sonatype.com/artifact/net.bytebuddy/byte-buddy-parent/1.18.10/pom) | | | |
 | [1.18.9-jdk5](https://central.sonatype.com/artifact/net.bytebuddy/byte-buddy-parent/1.18.9-jdk5/pom) | | | |
 | [1.18.9](https://central.sonatype.com/artifact/net.bytebuddy/byte-buddy-parent/1.18.9/pom) | | | |
 | [1.18.8-jdk5](https://central.sonatype.com/artifact/net.bytebuddy/byte-buddy-parent/1.18.8-jdk5/pom) | | | |
