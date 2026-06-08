@@ -140,12 +140,14 @@ rebuilding **3 releases** of org.apache.pulsar:pulsar:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.2.2](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.2.2/pom) | | | |
 | [4.2.1](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.2.1/pom) | | | |
 | [4.2.0](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.2.0/pom) | | | |
 | [4.1.3](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.1.3/pom) | | | |
 | [4.1.2](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.1.2/pom) | | | |
 | [4.1.1](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.1.1/pom) | | | |
 | [4.1.0](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.1.0/pom) | | | |
+| [4.0.11](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.11/pom) | | | |
 | [4.0.10](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.10/pom) | | | |
 | [4.0.9](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.9/pom) | | | |
 | [4.0.8](https://central.sonatype.com/artifact/org.apache.pulsar/pulsar/4.0.8/pom) | | | |
