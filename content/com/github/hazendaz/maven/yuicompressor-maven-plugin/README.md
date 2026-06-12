@@ -13,6 +13,7 @@ rebuilding **3 releases** of com.github.hazendaz.maven:yuicompressor-maven-plugi
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.4.0](https://central.sonatype.com/artifact/com.github.hazendaz.maven/yuicompressor-maven-plugin/2.4.0/pom) | | | |
 | [2.3.1](https://central.sonatype.com/artifact/com.github.hazendaz.maven/yuicompressor-maven-plugin/2.3.1/pom) | | | |
 | [2.3.0](https://central.sonatype.com/artifact/com.github.hazendaz.maven/yuicompressor-maven-plugin/2.3.0/pom) | | | |
 | [2.2.0](https://central.sonatype.com/artifact/com.github.hazendaz.maven/yuicompressor-maven-plugin/2.2.0/pom) | | | |
