@@ -25,8 +25,8 @@ content/com/github/hazendaz/maven/coveralls-maven-plugin/coveralls-maven-plugin-
 content/com/github/hazendaz/maven/directory-maven-plugin/directory-maven-plugin-1.2.0.buildspec:1.2.2
 content/com/github/hazendaz/maven/htmlcompressor-maven-plugin/htmlcompressor-maven-plugin-2.1.0.buildspec:2.4.0
 content/com/github/hazendaz/maven/makeself-maven-plugin/makeself-maven-plugin-1.8.2.buildspec:1.12.0
-content/com/github/hazendaz/maven/smartsprites-maven-plugin/smartsprites-maven-plugin-2.3.0.buildspec:2.4.1
-content/com/github/hazendaz/maven/whitespace-maven-plugin/whitespace-maven-plugin-1.4.0.buildspec:1.6.0
+content/com/github/hazendaz/maven/smartsprites-maven-plugin/smartsprites-maven-plugin-2.3.0.buildspec:2.5.0
+content/com/github/hazendaz/maven/whitespace-maven-plugin/whitespace-maven-plugin-1.4.0.buildspec:1.7.0
 content/com/github/hazendaz/maven/yuicompressor-maven-plugin/yuicompressor-maven-plugin-2.1.0.buildspec:2.4.0
 content/com/github/marschall/jakarta-jms-adapter/jakarta-jms-adapter-1.4.1.buildspec:1.6.0
 content/com/github/nbbrd/spreadsheet4j/spreadsheet-2.5.9.buildspec:2.6.0
