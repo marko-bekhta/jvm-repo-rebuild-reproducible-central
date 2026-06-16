@@ -109,6 +109,7 @@ rebuilding **13 releases** of dev.langchain4j:langchain4j:
 | [1.7.1](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.7.1/pom) | | | |
 | [1.7.0](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.7.0/pom) | | | |
 | [1.6.0](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.6.0/pom) | | | |
+| [1.5.1](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.5.1/pom) | | | |
 | [1.5.0](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.5.0/pom) | | | |
 | [1.4.0](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.4.0/pom) | | | |
 | [1.3.0](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.3.0/pom) | | | |
