@@ -89,7 +89,7 @@ content/eu/europa/ted/eforms/eforms-sdk/eforms-sdk-2.0.0-alpha.1.buildspec:2.0.0
 content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.9.2
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.15.14
 content/eu/maveniverse/maven/mase/mase/mase-1.0.2.buildspec:1.1.1
-content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.3.1-beta-8
+content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.4.0
 content/fr/marcwrobel/jbanking/jbanking-4.2.0.buildspec:4.3.0
 content/io/liftwizard/liftwizard-2.1.20.buildspec:2.1.47
 content/io/trino/trino-459.buildspec:481
@@ -98,7 +98,7 @@ content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:14.0.0
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:20.0.0
 content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.34.3
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:41.0.0
-content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:12.0.0
+content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:12.0.1
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.14.0
 content/io/cucumber/messages/messages-26.0.1.buildspec:33.0.3
 content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:10.0.0
@@ -310,7 +310,7 @@ content/org/codehaus/plexus/plexus-testing/plexus-testing-1.4.0.buildspec:2.1.0
 content/org/codehaus/plexus/plexus-velocity/plexus-velocity-2.1.0.buildspec:2.3.0
 content/org/codehaus/plexus/plexus-xml/plexus-xml-4.0.4.buildspec:4.1.1
 content/org/cyclonedx/cyclonedx-core-java/cyclonedx-core-java-9.0.5.buildspec:12.2.0
-content/org/cyclonedx/cyclonedx-maven-plugin/cyclonedx-maven-plugin-2.8.2.buildspec:2.9.1
+content/org/cyclonedx/cyclonedx-maven-plugin/cyclonedx-maven-plugin-2.8.2.buildspec:2.9.2
 content/org/eclipse/jkube/jkube-1.17.0.buildspec:1.19.0
 content/org/eclipse/daanse/org.eclipse.daanse.pom.parent/org.eclipse.daanse.pom.parent-0.0.2.buildspec:0.0.7
 content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.10
