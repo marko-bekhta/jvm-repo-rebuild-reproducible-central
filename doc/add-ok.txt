@@ -119,7 +119,7 @@ content/io/takari/maven/plugins/takari-lifecycle-plugin/takari-lifecycle-plugin-
 content/io/takari/maven/plugins/takari-plugin-testing/takari-plugin-testing-3.0.5.buildspec:3.1.1
 content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:3.0.4
 content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:3.1.4
-content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:1.0.5
+content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:1.0.8
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.8.0
 content/io/wcm/maven/plugins/cq-maven-plugin/cq-maven-plugin-1.2.0.buildspec:1.3.0
 content/io/wcm/maven/plugins/nodejs-maven-plugin/nodejs-maven-plugin-3.0.8.buildspec:3.1.0
@@ -316,7 +316,7 @@ content/org/eclipse/daanse/org.eclipse.daanse.pom.parent/org.eclipse.daanse.pom.
 content/org/eclipse/jetty/jetty-project/jetty-project-12.0.14.buildspec:12.1.10
 content/org/glassfish/build/glassfishbuild-maven-plugin/glassfishbuild-maven-plugin-4.0.1.buildspec:4.1.0
 content/org/hibernate/search/hibernate-search-bom/hibernate-search-parent-7.2.1.Final.buildspec:8.4.0.Final
-content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.1.0.Final
+content/org/hibernate/validator/hibernate-validator/hibernate-validator-9.0.0.Beta3.buildspec:9.1.1.Final
 content/org/itsallcode/junit5-system-extensions/junit5-system-extensions-1.2.2.buildspec:1.2.3
 content/org/itsallcode/openfasttrace-maven-plugin/openfasttrace-maven-plugin-2.2.0.buildspec:2.3.1
 content/org/jpmml/jpmml-evaluator/jpmml-evaluator-1.6.5.buildspec:1.7.7
@@ -375,4 +375,4 @@ content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.
 content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.29.0
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.5.6
 content/us/abstracta/jmeter/jmeter-java-dsl/jmeter-java-dsl-1.29.buildspec:2.2
-content/world/convex/convex-0.7.15.buildspec:0.8.5
+content/world/convex/convex-0.7.15.buildspec:0.8.6
