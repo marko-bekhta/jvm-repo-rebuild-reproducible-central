@@ -13,6 +13,7 @@ rebuilding **4 releases** of io.takari:takari-archiver:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.0.9](https://central.sonatype.com/artifact/io.takari/takari-archiver/1.0.9/pom) | | | |
 | [1.0.8](https://central.sonatype.com/artifact/io.takari/takari-archiver/1.0.8/pom) | | | |
 | [1.0.7](https://central.sonatype.com/artifact/io.takari/takari-archiver/1.0.7/pom) | | | |
 | [1.0.6](https://central.sonatype.com/artifact/io.takari/takari-archiver/1.0.6/pom) | | | |
