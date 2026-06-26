@@ -43,6 +43,7 @@ rebuilding **12 releases** of org.jline:jline:
 | [4.1.2](https://central.sonatype.com/artifact/org.jline/jline/4.1.2/pom) | | | |
 | [4.1.1](https://central.sonatype.com/artifact/org.jline/jline/4.1.1/pom) | | | |
 | [4.1.0](https://central.sonatype.com/artifact/org.jline/jline/4.1.0/pom) | | | |
+| [4.0.16](https://central.sonatype.com/artifact/org.jline/jline/4.0.16/pom) | | | |
 | [4.0.15](https://central.sonatype.com/artifact/org.jline/jline/4.0.15/pom) | | | |
 | [4.0.14](https://central.sonatype.com/artifact/org.jline/jline/4.0.14/pom) | | | |
 | [4.0.13](https://central.sonatype.com/artifact/org.jline/jline/4.0.13/pom) | | | |
@@ -58,6 +59,7 @@ rebuilding **12 releases** of org.jline:jline:
 | [4.0.3](https://central.sonatype.com/artifact/org.jline/jline/4.0.3/pom) | | | |
 | [4.0.2](https://central.sonatype.com/artifact/org.jline/jline/4.0.2/pom) | | | |
 | [4.0.0](https://central.sonatype.com/artifact/org.jline/jline/4.0.0/pom) | | | |
+| [3.30.14](https://central.sonatype.com/artifact/org.jline/jline/3.30.14/pom) | | | |
 | [3.30.13](https://central.sonatype.com/artifact/org.jline/jline/3.30.13/pom) | | | |
 | [3.30.12](https://central.sonatype.com/artifact/org.jline/jline/3.30.12/pom) | | | |
 | [3.30.11](https://central.sonatype.com/artifact/org.jline/jline/3.30.11/pom) | | | |
