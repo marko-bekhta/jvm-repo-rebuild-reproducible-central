@@ -13,6 +13,7 @@ rebuilding **1 releases** of org.apache.commons:commons-jexl3:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.6.4](https://central.sonatype.com/artifact/org.apache.commons/commons-jexl3/3.6.4/pom) | | | |
 | [3.6.3](https://central.sonatype.com/artifact/org.apache.commons/commons-jexl3/3.6.3/pom) | | | |
 | [3.6.2](https://central.sonatype.com/artifact/org.apache.commons/commons-jexl3/3.6.2/pom) | | | |
 | [3.6.1](https://central.sonatype.com/artifact/org.apache.commons/commons-jexl3/3.6.1/pom) | | | |
