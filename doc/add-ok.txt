@@ -237,7 +237,7 @@ content/org/apache/sling/org.apache.sling.api/org.apache.sling.api-2.27.6.builds
 content/org/apache/sling/org.apache.sling.auth.core/org.apache.sling.auth.core-1.7.0.buildspec:2.0.2
 content/org/apache/sling/org.apache.sling.bundleresource.impl/org.apache.sling.bundleresource.impl-2.3.4.buildspec:3.0.0
 content/org/apache/sling/org.apache.sling.caconfig.impl/org.apache.sling.caconfig.impl-1.6.0.buildspec:1.7.2
-content/org/apache/sling/org.apache.sling.commons.log/org.apache.sling.commons.log-5.5.0.buildspec:6.1.0
+content/org/apache/sling/org.apache.sling.commons.log/org.apache.sling.commons.log-5.5.0.buildspec:6.2.0
 content/org/apache/sling/org.apache.sling.distribution.journal/org.apache.sling.distribution.journal-0.4.0.buildspec:0.5.0
 content/org/apache/sling/org.apache.sling.distribution.journal.messages/org.apache.sling.distribution.journal.messages-0.5.10.buildspec:0.5.12
 content/org/apache/sling/org.apache.sling.engine/org.apache.sling.engine-2.15.16.buildspec:3.0.2
