@@ -18,7 +18,7 @@ content/com/fasterxml/jackson/datatype/jackson-datatype-joda/jackson-datatype-jo
 content/com/fasterxml/jackson/datatype/jackson-datatypes-collections/jackson-datatypes-collections-2.18.0.buildspec:2.22.0
 content/com/fasterxml/jackson/datatype/jackson-datatypes-misc-parent/jackson-datatypes-misc-parent-2.18.0.buildspec:2.22.0
 content/com/github/psi-probe/psi-probe-5.1.1.buildspec:5.4.0
-content/com/github/hazendaz/7zip/7zip-24.08.buildspec:26.01
+content/com/github/hazendaz/7zip/7zip-24.08.buildspec:26.02
 content/com/github/hazendaz/displaytag-doc/displaytag-doc-3.0.3.buildspec:3.8.0
 content/com/github/hazendaz/javabean-tester/javabean-tester-2.8.2.buildspec:2.12.2
 content/com/github/hazendaz/maven/coveralls-maven-plugin/coveralls-maven-plugin-4.5.0-M5.buildspec:5.1.0
