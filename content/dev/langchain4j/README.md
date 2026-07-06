@@ -84,6 +84,7 @@ rebuilding **13 releases** of dev.langchain4j:langchain4j:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.17.2](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.17.2/pom) | | | |
 | [1.17.1](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.17.1/pom) | | | |
 | [1.17.0](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.17.0/pom) | | | |
 | [1.16.3](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.16.3/pom) | | | |

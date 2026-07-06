@@ -13,6 +13,7 @@ rebuilding **10 releases** of org.apache.sling:org.apache.sling.event:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.4.2](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.event/4.4.2/pom) | | | |
 | [4.4.0](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.event/4.4.0/pom) | | | |
 | [4.3.18](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.event/4.3.18/pom) | | | |
 | [4.3.16](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.event/4.3.16/pom) | | | |

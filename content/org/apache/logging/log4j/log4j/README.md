@@ -83,6 +83,7 @@ rebuilding **11 releases** of org.apache.logging.log4j:log4j:
 | [3.0.0-alpha1](https://central.sonatype.com/artifact/org.apache.logging.log4j/log4j/3.0.0-alpha1/pom) | [mvn jdk11.0.18](log4j-3.0.0-alpha1.buildspec) | [result](log4j-3.0.0-alpha1.buildinfo): [175 :white_check_mark:  33 :warning:](log4j-3.0.0-alpha1.buildcompare) [:mag:](log4j-3.0.0-alpha1.diffoscope) | 9.6M |
 | [2.26.1](https://central.sonatype.com/artifact/org.apache.logging.log4j/log4j/2.26.1/pom) | | | |
 | [2.26.0](https://central.sonatype.com/artifact/org.apache.logging.log4j/log4j/2.26.0/pom) | | | |
+| [2.25.5](https://central.sonatype.com/artifact/org.apache.logging.log4j/log4j/2.25.5/pom) | | | |
 | [2.25.4](https://central.sonatype.com/artifact/org.apache.logging.log4j/log4j/2.25.4/pom) | | | |
 | [2.25.3](https://central.sonatype.com/artifact/org.apache.logging.log4j/log4j/2.25.3/pom) | | | |
 | [2.25.2](https://central.sonatype.com/artifact/org.apache.logging.log4j/log4j/2.25.2/pom) | | | |
