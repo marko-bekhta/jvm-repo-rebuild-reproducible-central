@@ -30,6 +30,7 @@ rebuilding **8 releases** of org.apache.helix:helix:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.0.1](https://central.sonatype.com/artifact/org.apache.helix/helix/2.0.1/pom) | | | |
 | [2.0.0](https://central.sonatype.com/artifact/org.apache.helix/helix/2.0.0/pom) | | | |
 | [1.4.3](https://central.sonatype.com/artifact/org.apache.helix/helix/1.4.3/pom) | | | |
 | [1.4.2](https://central.sonatype.com/artifact/org.apache.helix/helix/1.4.2/pom) | | | |
