@@ -23,6 +23,7 @@ rebuilding **48 releases** of ch.qos.logback:logback-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.5.38](https://central.sonatype.com/artifact/ch.qos.logback/logback-parent/1.5.38/pom) | | | |
 | [1.5.37](https://central.sonatype.com/artifact/ch.qos.logback/logback-parent/1.5.37/pom) | | | |
 | [1.5.36](https://central.sonatype.com/artifact/ch.qos.logback/logback-parent/1.5.36/pom) | | | |
 | [1.5.35](https://central.sonatype.com/artifact/ch.qos.logback/logback-parent/1.5.35/pom) | | | |
