@@ -13,6 +13,7 @@ rebuilding **11 releases** of io.cucumber:messages:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [34.1.0](https://central.sonatype.com/artifact/io.cucumber/messages/34.1.0/pom) | | | |
 | [34.0.2](https://central.sonatype.com/artifact/io.cucumber/messages/34.0.2/pom) | | | |
 | [34.0.1](https://central.sonatype.com/artifact/io.cucumber/messages/34.0.1/pom) | | | |
 | [34.0.0](https://central.sonatype.com/artifact/io.cucumber/messages/34.0.0/pom) | | | |
