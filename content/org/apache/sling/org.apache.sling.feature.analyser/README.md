@@ -13,6 +13,7 @@ rebuilding **15 releases** of org.apache.sling:org.apache.sling.feature.analyser
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.0.18](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.feature.analyser/2.0.18/pom) | | | |
 | [2.0.16](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.feature.analyser/2.0.16/pom) | | | |
 | [2.0.14](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.feature.analyser/2.0.14/pom) | | | |
 | [2.0.12](https://central.sonatype.com/artifact/org.apache.sling/org.apache.sling.feature.analyser/2.0.12/pom) | | | |
