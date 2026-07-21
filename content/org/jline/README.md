@@ -61,6 +61,7 @@ rebuilding **12 releases** of org.jline:jline:
 | [4.0.3](https://central.sonatype.com/artifact/org.jline/jline/4.0.3/pom) | | | |
 | [4.0.2](https://central.sonatype.com/artifact/org.jline/jline/4.0.2/pom) | | | |
 | [4.0.0](https://central.sonatype.com/artifact/org.jline/jline/4.0.0/pom) | | | |
+| [3.30.16](https://central.sonatype.com/artifact/org.jline/jline/3.30.16/pom) | | | |
 | [3.30.15](https://central.sonatype.com/artifact/org.jline/jline/3.30.15/pom) | | | |
 | [3.30.14](https://central.sonatype.com/artifact/org.jline/jline/3.30.14/pom) | | | |
 | [3.30.13](https://central.sonatype.com/artifact/org.jline/jline/3.30.13/pom) | | | |
