@@ -1013,7 +1013,9 @@ rebuilding **3 releases** of io.quarkus:quarkus-project:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.38.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.38.0/pom) | | | |
 | [3.38.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.38.0.CR1/pom) | | | |
+| [3.37.4](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.37.4/pom) | | | |
 | [3.37.3](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.37.3/pom) | | | |
 | [3.37.2](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.37.2/pom) | | | |
 | [3.37.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.37.1/pom) | | | |
@@ -1080,6 +1082,7 @@ rebuilding **3 releases** of io.quarkus:quarkus-project:
 | [3.28.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.28.1/pom) | | | |
 | [3.28.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.28.0/pom) | | | |
 | [3.28.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.28.0.CR1/pom) | | | |
+| [3.27.5](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.27.5/pom) | | | |
 | [3.27.4](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.27.4/pom) | | | |
 | [3.27.4.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.27.4.1/pom) | | | |
 | [3.27.3](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.27.3/pom) | | | |
