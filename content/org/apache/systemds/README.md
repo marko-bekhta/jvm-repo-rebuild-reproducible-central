@@ -13,6 +13,7 @@ rebuilding **1 releases** of org.apache.systemds:systemds:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.4.0](https://central.sonatype.com/artifact/org.apache.systemds/systemds/3.4.0/pom) | | | |
 | [3.3.0](https://central.sonatype.com/artifact/org.apache.systemds/systemds/3.3.0/pom) | | | |
 | [3.2.0](https://central.sonatype.com/artifact/org.apache.systemds/systemds/3.2.0/pom) | | | |
 | [3.1.0](https://central.sonatype.com/artifact/org.apache.systemds/systemds/3.1.0/pom) | | | |
