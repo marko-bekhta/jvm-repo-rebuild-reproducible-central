@@ -96,7 +96,7 @@ content/io/trino/trino-459.buildspec:483
 content/io/airlift/airbase/airbase-184.buildspec:398
 content/io/cucumber/ci-environment/ci-environment-10.0.1.buildspec:14.0.0
 content/io/cucumber/cucumber-expressions/cucumber-expressions-17.1.0.buildspec:20.0.0
-content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.34.5
+content/io/cucumber/cucumber-jvm/cucumber-jvm-7.19.0.buildspec:7.34.6
 content/io/cucumber/gherkin/gherkin-29.0.0.buildspec:42.0.0
 content/io/cucumber/gherkin-utils/gherkin-utils-9.0.0.buildspec:12.0.1
 content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.14.0
@@ -375,4 +375,4 @@ content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.
 content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.30.0
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.5.6
 content/us/abstracta/jmeter/jmeter-java-dsl/jmeter-java-dsl-1.29.buildspec:2.2
-content/world/convex/convex-0.7.15.buildspec:0.8.9
+content/world/convex/convex-0.7.15.buildspec:0.8.10
