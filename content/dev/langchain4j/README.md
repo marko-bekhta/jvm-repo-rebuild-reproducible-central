@@ -100,6 +100,7 @@ rebuilding **13 releases** of dev.langchain4j:langchain4j:
 | [1.13.0](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.13.0/pom) | | | |
 | [1.12.2](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.12.2/pom) | | | |
 | [1.12.1](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.12.1/pom) | | | |
+| [1.11.9](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.11.9/pom) | | | |
 | [1.11.8](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.11.8/pom) | | | |
 | [1.11.7](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.11.7/pom) | | | |
 | [1.11.6](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.11.6/pom) | | | |
@@ -113,6 +114,7 @@ rebuilding **13 releases** of dev.langchain4j:langchain4j:
 | [1.7.1](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.7.1/pom) | | | |
 | [1.7.0](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.7.0/pom) | | | |
 | [1.6.0](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.6.0/pom) | | | |
+| [1.5.2](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.5.2/pom) | | | |
 | [1.5.1](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.5.1/pom) | | | |
 | [1.5.0](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.5.0/pom) | | | |
 | [1.4.0](https://central.sonatype.com/artifact/dev.langchain4j/langchain4j/1.4.0/pom) | | | |
