@@ -13,6 +13,7 @@ rebuilding **26 releases** of org.cyclonedx:cyclonedx-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.9.3](https://central.sonatype.com/artifact/org.cyclonedx/cyclonedx-maven-plugin/2.9.3/pom) | | | |
 | [2.9.2](https://central.sonatype.com/artifact/org.cyclonedx/cyclonedx-maven-plugin/2.9.2/pom) | | | |
 | [2.9.1](https://central.sonatype.com/artifact/org.cyclonedx/cyclonedx-maven-plugin/2.9.1/pom) | | | |
 | [2.9.0](https://central.sonatype.com/artifact/org.cyclonedx/cyclonedx-maven-plugin/2.9.0/pom) | | | |
