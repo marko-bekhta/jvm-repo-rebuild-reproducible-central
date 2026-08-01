@@ -33,6 +33,7 @@ rebuilding **2 releases** of org.itsallcode.openfasttrace:openfasttrace:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.8.0](https://central.sonatype.com/artifact/org.itsallcode.openfasttrace/openfasttrace/4.8.0/pom) | | | |
 | [4.7.0](https://central.sonatype.com/artifact/org.itsallcode.openfasttrace/openfasttrace/4.7.0/pom) | | | |
 | [4.6.0](https://central.sonatype.com/artifact/org.itsallcode.openfasttrace/openfasttrace/4.6.0/pom) | | | |
 | [4.5.0](https://central.sonatype.com/artifact/org.itsallcode.openfasttrace/openfasttrace/4.5.0/pom) | | | |
