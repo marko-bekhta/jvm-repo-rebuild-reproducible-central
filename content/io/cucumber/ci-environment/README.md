@@ -13,6 +13,7 @@ rebuilding **2 releases** of io.cucumber:ci-environment:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [15.0.0](https://central.sonatype.com/artifact/io.cucumber/ci-environment/15.0.0/pom) | | | |
 | [14.0.0](https://central.sonatype.com/artifact/io.cucumber/ci-environment/14.0.0/pom) | | | |
 | [13.0.0](https://central.sonatype.com/artifact/io.cucumber/ci-environment/13.0.0/pom) | | | |
 | [12.0.0](https://central.sonatype.com/artifact/io.cucumber/ci-environment/12.0.0/pom) | | | |
