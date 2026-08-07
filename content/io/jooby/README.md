@@ -109,6 +109,7 @@ rebuilding **19 releases** of io.jooby:jooby:
 | [4.0.2](https://central.sonatype.com/artifact/io.jooby/jooby/4.0.2/pom) | | | |
 | [4.0.1](https://central.sonatype.com/artifact/io.jooby/jooby/4.0.1/pom) | | | |
 | [4.0.0](https://central.sonatype.com/artifact/io.jooby/jooby/4.0.0/pom) | | | |
+| [3.12.0](https://central.sonatype.com/artifact/io.jooby/jooby/3.12.0/pom) | | | |
 | [3.11.10](https://central.sonatype.com/artifact/io.jooby/jooby/3.11.10/pom) | | | |
 | [3.11.9](https://central.sonatype.com/artifact/io.jooby/jooby/3.11.9/pom) | | | |
 | [3.11.8](https://central.sonatype.com/artifact/io.jooby/jooby/3.11.8/pom) | | | |
