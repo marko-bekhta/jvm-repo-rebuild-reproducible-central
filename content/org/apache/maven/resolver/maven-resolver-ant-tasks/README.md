@@ -13,6 +13,7 @@ rebuilding **6 releases** of org.apache.maven.resolver:maven-resolver-ant-tasks:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.0.0](https://central.sonatype.com/artifact/org.apache.maven.resolver/maven-resolver-ant-tasks/2.0.0/pom) | | | |
 | [1.6.1](https://central.sonatype.com/artifact/org.apache.maven.resolver/maven-resolver-ant-tasks/1.6.1/pom) | | | |
 | [1.6.0](https://central.sonatype.com/artifact/org.apache.maven.resolver/maven-resolver-ant-tasks/1.6.0/pom) | | | |
 | [1.5.2](https://central.sonatype.com/artifact/org.apache.maven.resolver/maven-resolver-ant-tasks/1.5.2/pom) | | | |
