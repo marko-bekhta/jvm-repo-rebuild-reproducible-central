@@ -29,6 +29,7 @@ rebuilding **2 releases** of org.apache.johnzon:johnzon:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.2.0](https://central.sonatype.com/artifact/org.apache.johnzon/johnzon/2.2.0/pom) | | | |
 | [2.1.0](https://central.sonatype.com/artifact/org.apache.johnzon/johnzon/2.1.0/pom) | | | |
 | [2.0.2](https://central.sonatype.com/artifact/org.apache.johnzon/johnzon/2.0.2/pom) | | | |
 | [2.0.1](https://central.sonatype.com/artifact/org.apache.johnzon/johnzon/2.0.1/pom) | [mvn jdk11](johnzon-2.0.1.buildspec) | [result](johnzon-2.0.1.buildinfo): [38 :white_check_mark: ](johnzon-2.0.1.buildcompare) | 14M |
