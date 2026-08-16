@@ -13,6 +13,7 @@ rebuilding **4 releases** of org.apache.maven.extensions:maven-build-cache-exten
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.3.0](https://central.sonatype.com/artifact/org.apache.maven.extensions/maven-build-cache-extension/1.3.0/pom) | | | |
 | [1.2.3](https://central.sonatype.com/artifact/org.apache.maven.extensions/maven-build-cache-extension/1.2.3/pom) | | | |
 | [1.2.2](https://central.sonatype.com/artifact/org.apache.maven.extensions/maven-build-cache-extension/1.2.2/pom) | | | |
 | [1.2.1](https://central.sonatype.com/artifact/org.apache.maven.extensions/maven-build-cache-extension/1.2.1/pom) | | | |
