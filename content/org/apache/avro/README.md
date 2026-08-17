@@ -42,6 +42,7 @@ rebuilding **4 releases** of org.apache.avro:avro-toplevel:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.12.2](https://central.sonatype.com/artifact/org.apache.avro/avro-toplevel/1.12.2/pom) | | | |
 | [1.12.1](https://central.sonatype.com/artifact/org.apache.avro/avro-toplevel/1.12.1/pom) | | | |
 | [1.12.0](https://central.sonatype.com/artifact/org.apache.avro/avro-toplevel/1.12.0/pom) | [mvn jdk22](avro-1.12.0.buildspec) | [result](avro-toplevel-1.12.0.buildinfo): [129 :white_check_mark: ](avro-toplevel-1.12.0.buildcompare) | 65M |
 | [1.11.5](https://central.sonatype.com/artifact/org.apache.avro/avro-toplevel/1.11.5/pom) | | | |
