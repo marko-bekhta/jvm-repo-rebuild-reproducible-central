@@ -30,6 +30,7 @@ rebuilding **14 releases** of org.codehaus.plexus:plexus-compiler:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.17.0](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-compiler/2.17.0/pom) | | | |
 | [2.16.2](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-compiler/2.16.2/pom) | | | |
 | [2.16.1](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-compiler/2.16.1/pom) | | | |
 | [2.16.0](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-compiler/2.16.0/pom) | | | |
