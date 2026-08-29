@@ -86,7 +86,7 @@ content/dk/mada/jaxrs/openapi-jaxrs-client/openapi-jaxrs-client-0.11.6.buildspec
 content/dk/mada/style/mada-style-gradle/mada-style-gradle-1.0.1.buildspec:1.20
 content/eu/europa/ted/eforms/eforms-core-java/eforms-core-java-1.4.0.buildspec:1.7.0
 content/eu/europa/ted/eforms/eforms-sdk/eforms-sdk-2.0.0-alpha.1.buildspec:2.0.0-alpha.2
-content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.9.9
+content/eu/maveniverse/maven/nisse/nisse-0.2.1.buildspec:0.9.10
 content/eu/maveniverse/maven/toolbox/toolbox-0.3.2.buildspec:0.15.17
 content/eu/maveniverse/maven/mase/mase/mase-1.0.2.buildspec:1.1.2
 content/fr/inria/gforge/spoon/spoon-core/spoon-core-11.1.1-beta-7.buildspec:11.5.1-beta-6
@@ -103,8 +103,8 @@ content/io/cucumber/junit-xml-formatter/junit-xml-formatter-0.5.0.buildspec:0.14
 content/io/cucumber/messages/messages-26.0.1.buildspec:34.2.1
 content/io/cucumber/tag-expressions/tag-expressions-6.1.0.buildspec:11.0.1
 content/io/dropwizard/core/dropwizard-5.0.0-alpha.2.buildspec:5.0.2
-content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.39
-content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.7
+content/io/dropwizard/metrics/dropwizard-metrics-4.2.27.buildspec:4.2.40
+content/io/dropwizard/metrics5/dropwizard-metrics-5.0.0-rc21.buildspec:5.0.8
 content/io/fabric8/docker-maven-plugin/docker-maven-plugin-0.45.1.buildspec:0.49.0
 content/io/github/albertus82/jface-utils/jface-utils-20.1.0.buildspec:20.2.1
 content/io/github/sebastian-toepfer/json/rpc/json-rpc/json-rpc-0.8.3.buildspec:0.9.0
@@ -132,7 +132,7 @@ content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.18.12-jdk5
 content/net/revelc/code/impsort-maven-plugin/impsort-maven-plugin-1.12.0.buildspec:1.13.0
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:20
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.2.4
-content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.26.0
+content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.27.0
 content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:40
 content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:2.0.0
 content/nl/basjes/maven/release/conventional-commits-version-policy/conventional-commits-version-policy-1.0.7.buildspec:1.0.9
