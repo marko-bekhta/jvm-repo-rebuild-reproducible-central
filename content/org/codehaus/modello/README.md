@@ -36,6 +36,7 @@ rebuilding **7 releases** of org.codehaus.modello:modello:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.8.1](https://central.sonatype.com/artifact/org.codehaus.modello/modello/2.8.1/pom) | | | |
 | [2.8.0](https://central.sonatype.com/artifact/org.codehaus.modello/modello/2.8.0/pom) | | | |
 | [2.7.0](https://central.sonatype.com/artifact/org.codehaus.modello/modello/2.7.0/pom) | | | |
 | [2.6.0](https://central.sonatype.com/artifact/org.codehaus.modello/modello/2.6.0/pom) | | | |

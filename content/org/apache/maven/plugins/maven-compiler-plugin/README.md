@@ -13,6 +13,7 @@ rebuilding **8 releases** of org.apache.maven.plugins:maven-compiler-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.0.0-beta-5](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/4.0.0-beta-5/pom) | | | |
 | [4.0.0-beta-4](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/4.0.0-beta-4/pom) | | | |
 | [4.0.0-beta-3](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/4.0.0-beta-3/pom) | | | |
 | [4.0.0-beta-2](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/4.0.0-beta-2/pom) | | | |
