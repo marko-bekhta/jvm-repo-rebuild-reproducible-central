@@ -28,6 +28,7 @@ rebuilding **18 releases** of world.convex:convex:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [0.8.16](https://central.sonatype.com/artifact/world.convex/convex/0.8.16/pom) | | | |
 | [0.8.15](https://central.sonatype.com/artifact/world.convex/convex/0.8.15/pom) | | | |
 | [0.8.14](https://central.sonatype.com/artifact/world.convex/convex/0.8.14/pom) | | | |
 | [0.8.13](https://central.sonatype.com/artifact/world.convex/convex/0.8.13/pom) | | | |
