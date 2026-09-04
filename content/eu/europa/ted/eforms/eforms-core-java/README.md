@@ -13,6 +13,7 @@ rebuilding **9 releases** of eu.europa.ted.eforms:eforms-core-java:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.8.0](https://central.sonatype.com/artifact/eu.europa.ted.eforms/eforms-core-java/1.8.0/pom) | | | |
 | [1.7.0](https://central.sonatype.com/artifact/eu.europa.ted.eforms/eforms-core-java/1.7.0/pom) | | | |
 | [1.6.0](https://central.sonatype.com/artifact/eu.europa.ted.eforms/eforms-core-java/1.6.0/pom) | | | |
 | [1.5.0](https://central.sonatype.com/artifact/eu.europa.ted.eforms/eforms-core-java/1.5.0/pom) | | | |
