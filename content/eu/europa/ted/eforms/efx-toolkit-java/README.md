@@ -13,6 +13,7 @@ rebuilding **4 releases** of eu.europa.ted.eforms:efx-toolkit-java:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.0.0-alpha.8](https://central.sonatype.com/artifact/eu.europa.ted.eforms/efx-toolkit-java/2.0.0-alpha.8/pom) | | | |
 | [2.0.0-alpha.7](https://central.sonatype.com/artifact/eu.europa.ted.eforms/efx-toolkit-java/2.0.0-alpha.7/pom) | | | |
 | [2.0.0-alpha.6](https://central.sonatype.com/artifact/eu.europa.ted.eforms/efx-toolkit-java/2.0.0-alpha.6/pom) | | | |
 | [2.0.0-alpha.5](https://central.sonatype.com/artifact/eu.europa.ted.eforms/efx-toolkit-java/2.0.0-alpha.5/pom) | | | |
