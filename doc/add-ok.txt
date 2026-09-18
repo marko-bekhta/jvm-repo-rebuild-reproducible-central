@@ -172,7 +172,7 @@ content/org/apache/cxf/cxf-build-utils/cxf-build-utils-4.0.1.buildspec:4.1.4
 content/org/apache/cxf/xjc-utils/xjc-utils-4.0.2.buildspec:4.2.0
 content/org/apache/directory/api/api-2.1.7.buildspec:2.1.8
 content/org/apache/directory/project/project-49.buildspec:51
-content/org/apache/felix/maven-bundle-plugin/maven-bundle-plugin-5.1.9.buildspec:6.1.2
+content/org/apache/felix/maven-bundle-plugin/maven-bundle-plugin-5.1.9.buildspec:6.2.0
 content/org/apache/httpcomponents/parent/httpcomponents-parent-13.buildspec:14
 content/org/apache/jackrabbit/filevault/jackrabbit-filevault-3.8.2.buildspec:4.2.0
 content/org/apache/jackrabbit/jackrabbit/jackrabbit-2.23.0-beta.buildspec:2.23.5-beta
@@ -274,7 +274,7 @@ content/org/apache/sling/org.apache.sling.testing.osgi-mock/org.apache.sling.tes
 content/org/apache/sling/org.apache.sling.testing.resourceresolver-mock/org.apache.sling.testing.resourceresolver-mock-1.5.0.buildspec:2.0.0
 content/org/apache/sling/org.apache.sling.testing.sling-mock/org.apache.sling.testing.sling-mock-3.5.2.buildspec:4.0.6
 content/org/apache/sling/org.apache.sling.testing.sling-mock-oak/org.apache.sling.testing.sling-mock-oak-4.0.0-1.62.0.buildspec:4.1.0-1.86.0
-content/org/apache/sling/org.apache.sling.xss/org.apache.sling.xss-2.4.2.buildspec:2.4.10
+content/org/apache/sling/org.apache.sling.xss/org.apache.sling.xss-2.4.2.buildspec:2.4.12
 content/org/apache/sling/slingfeature-maven-plugin/slingfeature-maven-plugin-1.9.0.buildspec:1.9.6
 content/org/apache/tomee/jakartaee-api/jakartaee-api-10.0-M2.buildspec:11.0.0-M1
 content/org/apache/ws/xmlschema/xmlschema/xmlschema-2.3.1.buildspec:2.3.2
@@ -375,7 +375,7 @@ content/org/webjars/flexmonster/flexmonster-2.9.87.buildspec:2.9.114-1
 content/org/webjars/font-awesome/font-awesome-6.5.2.buildspec:7.3.0
 content/org/webjars/highcharts/highcharts-11.2.0.buildspec:12.1.2
 content/org/webjars/redoc/redoc-2.1.5.buildspec:2.5.1
-content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.1.4
+content/org/webjars/webjars-locator-lite/webjars-locator-lite-1.0.0.buildspec:1.1.5
 content/tech/picnic/error-prone-support/error-prone-support/error-prone-support-0.18.0.buildspec:0.30.0
 content/uk/org/okapibarcode/okapibarcode/okapibarcode-0.4.7.buildspec:0.5.6
 content/us/abstracta/jmeter/jmeter-java-dsl/jmeter-java-dsl-1.29.buildspec:2.2.1
