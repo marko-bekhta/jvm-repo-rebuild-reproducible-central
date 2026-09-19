@@ -13,6 +13,7 @@ rebuilding **7 releases** of org.codehaus.plexus:plexus-io:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.8.0](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-io/3.8.0/pom) | | | |
 | [3.7.0](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-io/3.7.0/pom) | | | |
 | [3.6.0](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-io/3.6.0/pom) | | | |
 | [3.5.2](https://central.sonatype.com/artifact/org.codehaus.plexus/plexus-io/3.5.2/pom) | | | |
