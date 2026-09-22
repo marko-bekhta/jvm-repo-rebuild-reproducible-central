@@ -13,6 +13,7 @@ rebuilding **1 releases** of org.itsallcode:openfasttrace-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.1.0](https://central.sonatype.com/artifact/org.itsallcode/openfasttrace-maven-plugin/3.1.0/pom) | | | |
 | [3.0.0](https://central.sonatype.com/artifact/org.itsallcode/openfasttrace-maven-plugin/3.0.0/pom) | | | |
 | [2.3.1](https://central.sonatype.com/artifact/org.itsallcode/openfasttrace-maven-plugin/2.3.1/pom) | | | |
 | [2.3.0](https://central.sonatype.com/artifact/org.itsallcode/openfasttrace-maven-plugin/2.3.0/pom) | | | |
