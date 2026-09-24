@@ -42,6 +42,7 @@ rebuilding **11 releases** of org.apache.accumulo:accumulo:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.0.0-alpha-1](https://central.sonatype.com/artifact/org.apache.accumulo/accumulo/4.0.0-alpha-1/pom) | | | |
 | [3.0.0](https://central.sonatype.com/artifact/org.apache.accumulo/accumulo/3.0.0/pom) | [mvn jdk11](accumulo-3.0.0.buildspec) | [result](accumulo-project-3.0.0.buildinfo): [48 :white_check_mark: ](accumulo-project-3.0.0.buildcompare) | 53M |
 | [2.1.6](https://central.sonatype.com/artifact/org.apache.accumulo/accumulo/2.1.6/pom) | | | |
 | [2.1.5](https://central.sonatype.com/artifact/org.apache.accumulo/accumulo/2.1.5/pom) | | | |
