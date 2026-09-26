@@ -65,6 +65,7 @@ rebuilding **23 releases** of org.apache.activemq:activemq-parent:
 | [6.3.2](https://central.sonatype.com/artifact/org.apache.activemq/activemq-parent/6.3.2/pom) | | | |
 | [6.3.1](https://central.sonatype.com/artifact/org.apache.activemq/activemq-parent/6.3.1/pom) | | | |
 | [6.3.0](https://central.sonatype.com/artifact/org.apache.activemq/activemq-parent/6.3.0/pom) | | | |
+| [6.2.10](https://central.sonatype.com/artifact/org.apache.activemq/activemq-parent/6.2.10/pom) | | | |
 | [6.2.9](https://central.sonatype.com/artifact/org.apache.activemq/activemq-parent/6.2.9/pom) | | | |
 | [6.2.8](https://central.sonatype.com/artifact/org.apache.activemq/activemq-parent/6.2.8/pom) | | | |
 | [6.2.7](https://central.sonatype.com/artifact/org.apache.activemq/activemq-parent/6.2.7/pom) | | | |
