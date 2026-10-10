@@ -25,6 +25,7 @@ rebuilding **8 releases** of com.io7m.xstructural:com.io7m.xstructural:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.0.0-beta0003](https://central.sonatype.com/artifact/com.io7m.xstructural/com.io7m.xstructural/3.0.0-beta0003/pom) | | | |
 | [3.0.0-beta0002](https://central.sonatype.com/artifact/com.io7m.xstructural/com.io7m.xstructural/3.0.0-beta0002/pom) | | | |
 | [3.0.0-beta0001](https://central.sonatype.com/artifact/com.io7m.xstructural/com.io7m.xstructural/3.0.0-beta0001/pom) | | | |
 | [2.1.0](https://central.sonatype.com/artifact/com.io7m.xstructural/com.io7m.xstructural/2.1.0/pom) | | | |
