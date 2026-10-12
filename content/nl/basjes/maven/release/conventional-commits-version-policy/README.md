@@ -13,6 +13,7 @@ rebuilding **7 releases** of nl.basjes.maven.release:conventional-commits-versio
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.0.0](https://central.sonatype.com/artifact/nl.basjes.maven.release/conventional-commits-version-policy/2.0.0/pom) | | | |
 | [1.0.9](https://central.sonatype.com/artifact/nl.basjes.maven.release/conventional-commits-version-policy/1.0.9/pom) | | | |
 | [1.0.8](https://central.sonatype.com/artifact/nl.basjes.maven.release/conventional-commits-version-policy/1.0.8/pom) | | | |
 | [1.0.7](https://central.sonatype.com/artifact/nl.basjes.maven.release/conventional-commits-version-policy/1.0.7/pom) | [mvn jdk21](conventional-commits-version-policy-1.0.7.buildspec) | [result](conventional-commits-version-policy-1.0.7.buildinfo): [3 :white_check_mark: ](conventional-commits-version-policy-1.0.7.buildcompare) | 63K |
