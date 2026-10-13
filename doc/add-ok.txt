@@ -30,7 +30,7 @@ content/com/github/hazendaz/maven/whitespace-maven-plugin/whitespace-maven-plugi
 content/com/github/hazendaz/maven/yuicompressor-maven-plugin/yuicompressor-maven-plugin-2.1.0.buildspec:2.4.0
 content/com/github/marschall/jakarta-jms-adapter/jakarta-jms-adapter-1.4.1.buildspec:1.6.0
 content/com/github/nbbrd/spreadsheet4j/spreadsheet-2.5.9.buildspec:2.6.0
-content/com/github/spotbugs/spotbugs-maven-plugin/spotbugs-maven-plugin-4.8.6.3.buildspec:4.10.4.1
+content/com/github/spotbugs/spotbugs-maven-plugin/spotbugs-maven-plugin-4.8.6.3.buildspec:4.10.5.0
 content/com/github/veithen/daemon/daemon-0.6.3.buildspec:0.6.4
 content/com/github/veithen/parent/veithen-parent-52.buildspec:57
 content/com/github/veithen/phos/phos-0.4.0.buildspec:0.5.0
@@ -197,7 +197,7 @@ content/org/apache/maven/plugins/maven-antrun-plugin/maven-antrun-plugin-3.1.0.b
 content/org/apache/maven/plugins/maven-artifact-plugin/maven-artifact-plugin-3.5.1.buildspec:3.7.0
 content/org/apache/maven/plugins/maven-assembly-plugin/maven-assembly-plugin-3.7.1.buildspec:3.8.0
 content/org/apache/maven/plugins/maven-checkstyle-plugin/maven-checkstyle-plugin-3.5.0.buildspec:3.6.0
-content/org/apache/maven/plugins/maven-clean-plugin/maven-clean-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-2
+content/org/apache/maven/plugins/maven-clean-plugin/maven-clean-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-3
 content/org/apache/maven/plugins/maven-compiler-plugin/maven-compiler-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-5
 content/org/apache/maven/plugins/maven-dependency-plugin/maven-dependency-plugin-3.8.0.buildspec:3.11.0
 content/org/apache/maven/plugins/maven-deploy-plugin/maven-deploy-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-3
@@ -214,6 +214,7 @@ content/org/apache/maven/plugins/maven-pmd-plugin/maven-pmd-plugin-3.25.0.builds
 content/org/apache/maven/plugins/maven-project-info-reports-plugin/maven-project-info-reports-plugin-3.7.0.buildspec:3.9.0
 content/org/apache/maven/plugins/maven-rar-plugin/maven-rar-plugin-3.0.0.buildspec:3.1.0
 content/org/apache/maven/plugins/maven-release-plugin/maven-release-plugin-3.1.1.buildspec:3.3.1
+content/org/apache/maven/plugins/maven-resources-plugin/maven-resources-plugin-4.0.0-beta-1.buildspec:4.0.0-beta-2
 content/org/apache/maven/plugins/maven-scripting-plugin/maven-scripting-plugin-3.0.0.buildspec:3.1.0
 content/org/apache/maven/plugins/maven-shade-plugin/maven-shade-plugin-3.6.0.buildspec:3.6.2
 content/org/apache/maven/plugins/maven-toolchains-plugin/maven-toolchains-plugin-3.2.0.buildspec:3.3.0
@@ -226,6 +227,7 @@ content/org/apache/maven/resolver/maven-resolver/maven-resolver-2.0.1.buildspec:
 content/org/apache/maven/resolver/maven-resolver-ant-tasks/maven-resolver-ant-tasks-1.5.1.buildspec:2.0.0
 content/org/apache/maven/shared/file-management/file-management-3.1.0.buildspec:3.2.0
 content/org/apache/maven/shared/maven-dependency-analyzer/maven-dependency-analyzer-1.14.1.buildspec:1.17.2
+content/org/apache/maven/shared/maven-filtering/maven-filtering-4.0.0-beta-1.buildspec:4.0.0-beta-2
 content/org/apache/maven/shared/maven-script-interpreter/maven-script-interpreter-1.6.buildspec:1.9
 content/org/apache/maven/shared/maven-shared-jar/maven-shared-jar-3.1.1.buildspec:3.2.1
 content/org/apache/maven/shared/maven-shared-utils/maven-shared-utils-3.4.2.buildspec:3.5.0
