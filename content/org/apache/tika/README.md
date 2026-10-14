@@ -129,6 +129,7 @@ rebuilding **6 releases** of org.apache.tika:tika:
 | [4.0.0](https://central.sonatype.com/artifact/org.apache.tika/tika/4.0.0/pom) | | | |
 | [4.0.0-beta-1](https://central.sonatype.com/artifact/org.apache.tika/tika/4.0.0-beta-1/pom) | | | |
 | [4.0.0-alpha-1](https://central.sonatype.com/artifact/org.apache.tika/tika/4.0.0-alpha-1/pom) | | | |
+| [3.3.3](https://central.sonatype.com/artifact/org.apache.tika/tika/3.3.3/pom) | | | |
 | [3.3.2](https://central.sonatype.com/artifact/org.apache.tika/tika/3.3.2/pom) | | | |
 | [3.3.1](https://central.sonatype.com/artifact/org.apache.tika/tika/3.3.1/pom) | | | |
 | [3.3.0](https://central.sonatype.com/artifact/org.apache.tika/tika/3.3.0/pom) | | | |
