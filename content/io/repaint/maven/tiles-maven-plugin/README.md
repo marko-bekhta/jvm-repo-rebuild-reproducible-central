@@ -13,6 +13,8 @@ rebuilding **2 releases** of io.repaint.maven:tiles-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.47.0](https://central.sonatype.com/artifact/io.repaint.maven/tiles-maven-plugin/2.47.0/pom) | | | |
+| [2.46.0](https://central.sonatype.com/artifact/io.repaint.maven/tiles-maven-plugin/2.46.0/pom) | | | |
 | [2.45.1](https://central.sonatype.com/artifact/io.repaint.maven/tiles-maven-plugin/2.45.1/pom) | | | |
 | [2.45](https://central.sonatype.com/artifact/io.repaint.maven/tiles-maven-plugin/2.45/pom) | | | |
 | [2.44](https://central.sonatype.com/artifact/io.repaint.maven/tiles-maven-plugin/2.44/pom) | | | |
