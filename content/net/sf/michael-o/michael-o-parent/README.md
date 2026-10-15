@@ -13,6 +13,7 @@ rebuilding **2 releases** of net.sf.michael-o:michael-o-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [21](https://central.sonatype.com/artifact/net.sf.michael-o/michael-o-parent/21/pom) | | | |
 | [20](https://central.sonatype.com/artifact/net.sf.michael-o/michael-o-parent/20/pom) | | | |
 | [19](https://central.sonatype.com/artifact/net.sf.michael-o/michael-o-parent/19/pom) | | | |
 | [18](https://central.sonatype.com/artifact/net.sf.michael-o/michael-o-parent/18/pom) | | | |
