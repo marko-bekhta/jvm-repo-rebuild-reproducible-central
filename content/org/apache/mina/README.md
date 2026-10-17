@@ -29,6 +29,7 @@ rebuilding **7 releases** of org.apache.mina:mina-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.2.10](https://central.sonatype.com/artifact/org.apache.mina/mina-parent/2.2.10/pom) | | | |
 | [2.2.9](https://central.sonatype.com/artifact/org.apache.mina/mina-parent/2.2.9/pom) | | | |
 | [2.2.8](https://central.sonatype.com/artifact/org.apache.mina/mina-parent/2.2.8/pom) | | | |
 | [2.2.7](https://central.sonatype.com/artifact/org.apache.mina/mina-parent/2.2.7/pom) | | | |
