@@ -23,6 +23,7 @@ rebuilding **9 releases** of com.fasterxml.jackson.dataformat:jackson-dataformat
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.22.4](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-binary/2.22.4/pom) | | | |
 | [2.22.3](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-binary/2.22.3/pom) | | | |
 | [2.22.2](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-binary/2.22.2/pom) | | | |
 | [2.22.1](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-binary/2.22.1/pom) | | | |
