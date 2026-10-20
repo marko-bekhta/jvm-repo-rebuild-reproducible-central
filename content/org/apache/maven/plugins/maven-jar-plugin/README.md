@@ -13,6 +13,7 @@ rebuilding **7 releases** of org.apache.maven.plugins:maven-jar-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [4.0.0-beta-2](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-jar-plugin/4.0.0-beta-2/pom) | | | |
 | [4.0.0-beta-1](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-jar-plugin/4.0.0-beta-1/pom) | [mvn jdk21](maven-jar-plugin-4.0.0-beta-1.buildspec) | [result](maven-jar-plugin-4.0.0-beta-1.buildinfo): [6 :white_check_mark: ](maven-jar-plugin-4.0.0-beta-1.buildcompare) | 440K |
 | [3.5.1](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-jar-plugin/3.5.1/pom) | | | |
 | [3.5.0](https://central.sonatype.com/artifact/org.apache.maven.plugins/maven-jar-plugin/3.5.0/pom) | | | |

@@ -1015,6 +1015,7 @@ rebuilding **3 releases** of io.quarkus:quarkus-project:
 | -- | --------- | ------ | -- |
 | [4.0.0.Beta1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/4.0.0.Beta1/pom) | | | |
 | [3.40.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.40.1/pom) | | | |
+| [3.40.1.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.40.1.1/pom) | | | |
 | [3.40.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.40.0/pom) | | | |
 | [3.40.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.40.0.CR1/pom) | | | |
 | [3.39.5](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.39.5/pom) | | | |
@@ -1056,6 +1057,7 @@ rebuilding **3 releases** of io.quarkus:quarkus-project:
 | [3.34.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.34.0/pom) | | | |
 | [3.34.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.34.0.CR1/pom) | | | |
 | [3.33.4](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.33.4/pom) | | | |
+| [3.33.4.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.33.4.1/pom) | | | |
 | [3.33.3](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.33.3/pom) | | | |
 | [3.33.3.3](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.33.3.3/pom) | | | |
 | [3.33.3.2](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.33.3.2/pom) | | | |
@@ -1102,6 +1104,7 @@ rebuilding **3 releases** of io.quarkus:quarkus-project:
 | [3.28.0](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.28.0/pom) | | | |
 | [3.28.0.CR1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.28.0.CR1/pom) | | | |
 | [3.27.6](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.27.6/pom) | | | |
+| [3.27.6.1](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.27.6.1/pom) | | | |
 | [3.27.5](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.27.5/pom) | | | |
 | [3.27.5.3](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.27.5.3/pom) | | | |
 | [3.27.5.2](https://central.sonatype.com/artifact/io.quarkus/quarkus-project/3.27.5.2/pom) | | | |
