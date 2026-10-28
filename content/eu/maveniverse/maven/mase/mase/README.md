@@ -22,6 +22,7 @@ rebuilding **3 releases** of eu.maveniverse.maven.mase:mase:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.1.3](https://central.sonatype.com/artifact/eu.maveniverse.maven.mase/mase/1.1.3/pom) | | | |
 | [1.1.2](https://central.sonatype.com/artifact/eu.maveniverse.maven.mase/mase/1.1.2/pom) | | | |
 | [1.1.1](https://central.sonatype.com/artifact/eu.maveniverse.maven.mase/mase/1.1.1/pom) | | | |
 | [1.1.0](https://central.sonatype.com/artifact/eu.maveniverse.maven.mase/mase/1.1.0/pom) | | | |
