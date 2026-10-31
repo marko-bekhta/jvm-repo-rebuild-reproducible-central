@@ -1,8 +1,8 @@
 content/biz/aQute/bnd/plugins/bnd-plugins-7.0.0.buildspec:7.4.0
 content/ch/qos/logback/logback-1.5.8.buildspec:1.6.6
 content/ch/vorburger/mariaDB4j/mariaDB4j-pom-3.1.0.buildspec:3.3.1
-content/com/flowlogix/flowlogix-9.0.5.buildspec:11.7.3
-content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.1.27
+content/com/flowlogix/flowlogix-9.0.5.buildspec:11.7.4
+content/com/cognite/units/units-catalog/units-catalog-0.1.14.buildspec:0.2.0
 content/com/fasterxml/oss-parent/oss-parent-61.buildspec:80
 content/com/fasterxml/woodstox/woodstox-core-7.0.0.buildspec:7.3.0
 content/com/fasterxml/jackson/annotations/jackson-annotations-2.18.0.buildspec:3.0-rc5
@@ -118,8 +118,8 @@ content/io/takari/maven/maven-timeline/maven-timeline-2.0.2.buildspec:2.1.0
 content/io/takari/maven/takari-smart-builder/takari-smart-builder-1.0.2.buildspec:1.1.1
 content/io/takari/maven/plugins/takari-lifecycle-plugin/takari-lifecycle-plugin-2.2.0.buildspec:2.3.4
 content/io/takari/maven/plugins/takari-plugin-testing/takari-plugin-testing-3.0.5.buildspec:3.1.1
-content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:3.4.2
-content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:4.2.0
+content/io/telicent/jena/jena-kafka/jena-kafka-1.4.0.buildspec:3.4.3
+content/io/telicent/jena/rdf-abac/rdf-abac-0.71.9.buildspec:4.2.1
 content/io/telicent/smart-caches/graph/scg-base/scg-base-0.82.3.buildspec:1.2.3
 content/io/wcm/tooling/wcm-parent_toplevel-2.3.2.buildspec:2.9.0
 content/io/wcm/maven/plugins/cq-maven-plugin/cq-maven-plugin-1.2.0.buildspec:1.3.0
@@ -133,7 +133,7 @@ content/net/bytebuddy/byte-buddy-1.15.3.buildspec:1.18.16-jdk5
 content/net/revelc/code/impsort-maven-plugin/impsort-maven-plugin-1.12.0.buildspec:1.13.0
 content/net/sf/michael-o/michael-o-parent/michael-o-parent-17.buildspec:21
 content/net/sf/michael-o/tomcat/tomcat-authnz-spnego-ad/tomcat-authnz-spnego-ad-4.2.1.buildspec:4.3.0
-content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.28.0
+content/net/sourceforge/pmd/pmd-7.6.0.buildspec:7.29.0
 content/net/sourceforge/pmd/pmd-build-tools-config/pmd-build-tools-config-27.buildspec:40
 content/nl/basjes/codeowners/codeowners-parent/codeowners-parent-1.8.0.buildspec:2.0.0
 content/nl/basjes/maven/release/conventional-commits-version-policy/conventional-commits-version-policy-1.0.7.buildspec:2.0.0
@@ -182,7 +182,7 @@ content/org/apache/logging/parent/logging-parent-11.3.0.buildspec:12.1.1
 content/org/apache/logging/log4j/log4j/log4j-3.0.0-beta2.buildspec:3.0.0-beta3
 content/org/apache/logging/log4j/transform/log4j-transform-0.1.0.buildspec:0.2.0
 content/org/apache/maven/archetype/archetype-3.3.0.buildspec:3.4.1
-content/org/apache/maven/enforcer/maven-enforcer-plugin-3.5.0.buildspec:3.6.3
+content/org/apache/maven/enforcer/maven-enforcer-plugin-3.5.0.buildspec:3.7.0
 content/org/apache/maven/indexer/maven-indexer-7.1.5.buildspec:7.1.6
 content/org/apache/maven/jxr/jxr-3.5.0.buildspec:3.6.0
 content/org/apache/maven/maven/maven-4.0.0-beta-4.buildspec:4.0.0-rc-7
@@ -252,7 +252,7 @@ content/org/apache/sling/org.apache.sling.distribution.journal.messages/org.apac
 content/org/apache/sling/org.apache.sling.engine/org.apache.sling.engine-2.15.16.buildspec:3.0.4
 content/org/apache/sling/org.apache.sling.event/org.apache.sling.event-4.3.14.buildspec:4.4.2
 content/org/apache/sling/org.apache.sling.feature/org.apache.sling.feature-2.0.0.buildspec:2.0.6
-content/org/apache/sling/org.apache.sling.feature.analyser/org.apache.sling.feature.analyser-2.0.10.buildspec:2.0.20
+content/org/apache/sling/org.apache.sling.feature.analyser/org.apache.sling.feature.analyser-2.0.10.buildspec:2.0.22
 content/org/apache/sling/org.apache.sling.feature.extension.apiregions/org.apache.sling.feature.extension.apiregions-2.0.0.buildspec:2.2.0
 content/org/apache/sling/org.apache.sling.fsresource/org.apache.sling.fsresource-2.2.0.buildspec:2.3.0
 content/org/apache/sling/org.apache.sling.installer.console/org.apache.sling.installer.console-1.1.2.buildspec:2.0.0
@@ -282,7 +282,7 @@ content/org/apache/sling/org.apache.sling.testing.resourceresolver-mock/org.apac
 content/org/apache/sling/org.apache.sling.testing.sling-mock/org.apache.sling.testing.sling-mock-3.5.2.buildspec:4.0.6
 content/org/apache/sling/org.apache.sling.testing.sling-mock-oak/org.apache.sling.testing.sling-mock-oak-4.0.0-1.62.0.buildspec:4.1.0-1.86.0
 content/org/apache/sling/org.apache.sling.xss/org.apache.sling.xss-2.4.2.buildspec:2.4.12
-content/org/apache/sling/slingfeature-maven-plugin/slingfeature-maven-plugin-1.9.0.buildspec:1.9.6
+content/org/apache/sling/slingfeature-maven-plugin/slingfeature-maven-plugin-1.9.0.buildspec:1.9.8
 content/org/apache/tomee/jakartaee-api/jakartaee-api-10.0-M2.buildspec:11.0.0-M1
 content/org/apache/ws/xmlschema/xmlschema/xmlschema-2.3.1.buildspec:2.3.3
 content/org/chabala/brick/brick-control-lab/brick-control-lab-0.2.1.buildspec:0.2.2

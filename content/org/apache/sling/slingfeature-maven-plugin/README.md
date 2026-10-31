@@ -13,6 +13,7 @@ rebuilding **15 releases** of org.apache.sling:slingfeature-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.9.8](https://central.sonatype.com/artifact/org.apache.sling/slingfeature-maven-plugin/1.9.8/pom) | | | |
 | [1.9.6](https://central.sonatype.com/artifact/org.apache.sling/slingfeature-maven-plugin/1.9.6/pom) | | | |
 | [1.9.4](https://central.sonatype.com/artifact/org.apache.sling/slingfeature-maven-plugin/1.9.4/pom) | | | |
 | [1.9.2](https://central.sonatype.com/artifact/org.apache.sling/slingfeature-maven-plugin/1.9.2/pom) | | | |
