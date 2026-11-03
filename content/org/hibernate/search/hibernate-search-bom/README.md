@@ -35,12 +35,14 @@ rebuilding **5 releases** of org.hibernate.search:hibernate-search-bom:
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
 | [9.0.0.Beta1](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/9.0.0.Beta1/pom) | | | |
+| [8.4.1.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.4.1.Final/pom) | | | |
 | [8.4.0.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.4.0.Final/pom) | | | |
 | [8.4.0.CR1](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.4.0.CR1/pom) | | | |
 | [8.3.2.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.3.2.Final/pom) | | | |
 | [8.3.1.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.3.1.Final/pom) | | | |
 | [8.3.0.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.3.0.Final/pom) | | | |
 | [8.3.0.CR1](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.3.0.CR1/pom) | | | |
+| [8.2.3.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.2.3.Final/pom) | | | |
 | [8.2.2.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.2.2.Final/pom) | | | |
 | [8.2.1.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.2.1.Final/pom) | | | |
 | [8.2.0.Final](https://central.sonatype.com/artifact/org.hibernate.search/hibernate-search-bom/8.2.0.Final/pom) | | | |
