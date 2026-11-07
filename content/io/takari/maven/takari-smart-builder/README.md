@@ -13,6 +13,7 @@ rebuilding **3 releases** of io.takari.maven:takari-smart-builder:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.2.0](https://central.sonatype.com/artifact/io.takari.maven/takari-smart-builder/1.2.0/pom) | | | |
 | [1.1.1](https://central.sonatype.com/artifact/io.takari.maven/takari-smart-builder/1.1.1/pom) | | | |
 | [1.1.0](https://central.sonatype.com/artifact/io.takari.maven/takari-smart-builder/1.1.0/pom) | | | |
 | [1.0.2](https://central.sonatype.com/artifact/io.takari.maven/takari-smart-builder/1.0.2/pom) | [mvn jdk21](takari-smart-builder-1.0.2.buildspec) | [result](takari-smart-builder-1.0.2.buildinfo): [3 :white_check_mark: ](takari-smart-builder-1.0.2.buildcompare) | 56K |

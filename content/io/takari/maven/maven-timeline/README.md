@@ -13,6 +13,7 @@ rebuilding **4 releases** of io.takari.maven:maven-timeline:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [2.2.0](https://central.sonatype.com/artifact/io.takari.maven/maven-timeline/2.2.0/pom) | | | |
 | [2.1.0](https://central.sonatype.com/artifact/io.takari.maven/maven-timeline/2.1.0/pom) | | | |
 | [2.0.4](https://central.sonatype.com/artifact/io.takari.maven/maven-timeline/2.0.4/pom) | | | |
 | [2.0.3](https://central.sonatype.com/artifact/io.takari.maven/maven-timeline/2.0.3/pom) | | | |
