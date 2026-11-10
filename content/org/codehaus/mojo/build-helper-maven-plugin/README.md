@@ -13,6 +13,7 @@ rebuilding **3 releases** of org.codehaus.mojo:build-helper-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [3.8.0](https://central.sonatype.com/artifact/org.codehaus.mojo/build-helper-maven-plugin/3.8.0/pom) | | | |
 | [3.7.0](https://central.sonatype.com/artifact/org.codehaus.mojo/build-helper-maven-plugin/3.7.0/pom) | | | |
 | [3.6.2](https://central.sonatype.com/artifact/org.codehaus.mojo/build-helper-maven-plugin/3.6.2/pom) | | | |
 | [3.6.1](https://central.sonatype.com/artifact/org.codehaus.mojo/build-helper-maven-plugin/3.6.1/pom) | | | |

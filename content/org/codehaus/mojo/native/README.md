@@ -28,6 +28,7 @@ rebuilding **1 releases** of org.codehaus.mojo:native-maven-plugin:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [1.2.1](https://central.sonatype.com/artifact/org.codehaus.mojo/native-maven-plugin/1.2.1/pom) | | | |
 | [1.2.0](https://central.sonatype.com/artifact/org.codehaus.mojo/native-maven-plugin/1.2.0/pom) | | | |
 | [1.1.0](https://central.sonatype.com/artifact/org.codehaus.mojo/native-maven-plugin/1.1.0/pom) | | | |
 | [1.0.0](https://central.sonatype.com/artifact/org.codehaus.mojo/native-maven-plugin/1.0.0/pom) | | | |
