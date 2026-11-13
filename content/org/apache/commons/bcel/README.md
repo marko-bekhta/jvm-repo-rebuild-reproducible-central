@@ -13,6 +13,7 @@ rebuilding **6 releases** of org.apache.bcel:bcel:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [6.14.0](https://central.sonatype.com/artifact/org.apache.bcel/bcel/6.14.0/pom) | | | |
 | [6.13.0](https://central.sonatype.com/artifact/org.apache.bcel/bcel/6.13.0/pom) | | | |
 | [6.12.0](https://central.sonatype.com/artifact/org.apache.bcel/bcel/6.12.0/pom) | | | |
 | [6.11.0](https://central.sonatype.com/artifact/org.apache.bcel/bcel/6.11.0/pom) | | | |
