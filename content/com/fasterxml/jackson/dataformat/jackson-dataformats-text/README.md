@@ -28,6 +28,7 @@ rebuilding **9 releases** of com.fasterxml.jackson.dataformat:jackson-dataformat
 | [2.22.2](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.22.2/pom) | | | |
 | [2.22.1](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.22.1/pom) | | | |
 | [2.22.0](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.22.0/pom) | | | |
+| [2.21.9](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.21.9/pom) | | | |
 | [2.21.8](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.21.8/pom) | | | |
 | [2.21.7](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.21.7/pom) | | | |
 | [2.21.6](https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformats-text/2.21.6/pom) | | | |
