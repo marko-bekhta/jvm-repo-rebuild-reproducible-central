@@ -57,6 +57,7 @@ rebuilding **23 releases** of org.apache.struts:struts2-parent:
 
 | version | [build spec](/BUILDSPEC.md) | [result](https://reproducible-builds.org/docs/jvm/): reproducible? | size |
 | -- | --------- | ------ | -- |
+| [7.5.1](https://central.sonatype.com/artifact/org.apache.struts/struts2-parent/7.5.1/pom) | | | |
 | [7.5.0](https://central.sonatype.com/artifact/org.apache.struts/struts2-parent/7.5.0/pom) | | | |
 | [7.4.0](https://central.sonatype.com/artifact/org.apache.struts/struts2-parent/7.4.0/pom) | | | |
 | [7.3.0](https://central.sonatype.com/artifact/org.apache.struts/struts2-parent/7.3.0/pom) | | | |
