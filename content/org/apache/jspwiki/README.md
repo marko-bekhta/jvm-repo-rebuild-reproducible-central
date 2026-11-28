@@ -54,6 +54,7 @@ rebuilding **9 releases** of org.apache.jspwiki:jspwiki-builder:
 | -- | --------- | ------ | -- |
 | [3.0.1](https://central.sonatype.com/artifact/org.apache.jspwiki/jspwiki-builder/3.0.1/pom) | | | |
 | [3.0.0](https://central.sonatype.com/artifact/org.apache.jspwiki/jspwiki-builder/3.0.0/pom) | | | |
+| [2.12.6](https://central.sonatype.com/artifact/org.apache.jspwiki/jspwiki-builder/2.12.6/pom) | | | |
 | [2.12.5](https://central.sonatype.com/artifact/org.apache.jspwiki/jspwiki-builder/2.12.5/pom) | | | |
 | [2.12.4](https://central.sonatype.com/artifact/org.apache.jspwiki/jspwiki-builder/2.12.4/pom) | | | |
 | [2.12.3](https://central.sonatype.com/artifact/org.apache.jspwiki/jspwiki-builder/2.12.3/pom) | | | |
